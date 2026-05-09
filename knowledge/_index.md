@@ -33,3 +33,4 @@
 | guide/guide-talent-inventory.md | 人才盘点操作指南 | 人才盘点,盘点计划,盘点活动,校准,操作指南 | 2026-05-09 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-integration-external-recruitment.md | 招聘服务直通车外部系统集成方案 | 招聘服务直通车,外部招聘系统集成,OpenAPI,集成方案,Moka,数据字典 | 2026-05-09 |
+| guide/guide-interviewer.md | 人人面试官操作指南 | 人人面试官,内部招聘,面试官,简历筛选,面试评价,操作指南 | 2026-05-09 |
