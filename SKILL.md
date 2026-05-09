@@ -20,34 +20,48 @@ gh --version 2>/dev/null
 
 如果 gh 未安装，按以下步骤自动安装：
 
-**Windows 环境：**
+**第一步：获取最新版本号**
 ```bash
-# 下载 gh CLI 安装包
-curl -sL https://github.com/cli/cli/releases/latest/download/gh_2.74.0_windows_amd64.zip -o "$TEMP/gh.zip"
-# 解压到用户目录
-mkdir -p "$USERPROFILE/.local/bin"
-unzip -o "$TEMP/gh.zip" -d "$TEMP/gh_extracted"
-cp "$TEMP/gh_extracted/bin/gh.exe" "$USERPROFILE/.local/bin/gh.exe"
-# 验证安装
-"$USERPROFILE/.local/bin/gh.exe" --version
+# 通过 GitHub API 获取最新版本
+curl -sL "https://api.github.com/repos/cli/cli/releases/latest" -o gh_release.json
+# 用 node 解析获取版本号和下载 URL（示例输出: 2.92.0）
+node -e "const r=JSON.parse(require('fs').readFileSync('gh_release.json','utf8')); const v=r.tag_name.replace('v',''); console.log(v);"
 ```
 
-**macOS 环境：**
+**第二步：按平台下载安装**
+
+Windows 环境：
+```bash
+# 替换 {VERSION} 为上一步获取的版本号
+curl -sL "https://github.com/cli/cli/releases/download/v{VERSION}/gh_{VERSION}_windows_amd64.zip" -o gh.zip
+mkdir -p "$USERPROFILE/.local/bin"
+unzip -o gh.zip -d gh_extracted
+cp gh_extracted/bin/gh.exe "$USERPROFILE/.local/bin/gh.exe"
+export PATH="$PATH:$USERPROFILE/.local/bin"
+gh --version
+```
+
+macOS 环境：
 ```bash
 brew install gh
 ```
 
-**Linux 环境：**
+Linux 环境：
 ```bash
-curl -sL https://github.com/cli/cli/releases/latest/download/gh_2.74.0_linux_amd64.tar.gz -o /tmp/gh.tar.gz
-tar -xzf /tmp/gh.tar.gz -C /tmp
+curl -sL "https://github.com/cli/cli/releases/download/v{VERSION}/gh_{VERSION}_linux_amd64.tar.gz" -o gh.tar.gz
+tar -xzf gh.tar.gz -C /tmp
 cp /tmp/gh_*/bin/gh /usr/local/bin/gh
 gh --version
 ```
 
-安装完成后，如果用户尚未登录，提示执行 `gh auth login` 进行 GitHub 认证。
+**第三步：认证登录**
 
-> 注意：版本号可能更新，安装时可访问 https://cli.github.com/ 获取最新版本下载链接。
+安装完成后，如果用户尚未登录 GitHub，提示执行：
+```bash
+gh auth login
+```
+
+> 参考：https://cli.github.com/
 
 ## 知识库目录
 
