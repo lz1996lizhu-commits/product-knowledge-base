@@ -156,10 +156,65 @@ updated: YYYY-MM-DD
 
 ## Git 协作规范
 
-### 分支策略
+### 远程仓库配置
 
-- `main`: 正式知识库，受保护
-- `update/xxx`: 知识更新分支，合并前需 review
+- **远程仓库**：`https://github.com/lz1996lizhu-commits/product-knowledge-base`
+- **主分支**：`master`（受保护，所有变更需通过 PR 合并）
+- **权限问题**：如果遇到推送或拉取权限不足（403/401错误），请联系 **李铸** 处理权限配置
+
+### 推送流程（每次知识变更后执行）
+
+每次推送需创建独立分支并提交合并请求（PR），分支和 PR 命名规则：
+
+- 分支名：`task_{git用户名}_{日期}`，例如 `task_zhangsan_20260509`
+- PR 标题：与分支名一致
+
+操作步骤：
+```bash
+# 1. 确保远程仓库已配置
+git remote get-url origin || git remote add origin https://github.com/lz1996lizhu-commits/product-knowledge-base.git
+
+# 2. 获取当前 git 用户名和日期，创建分支
+GIT_USER=$(git config user.name | tr ' ' '_')
+TODAY=$(date +%Y%m%d)
+BRANCH="task_${GIT_USER}_${TODAY}"
+
+# 3. 基于本地最新提交创建推送分支
+git checkout -b "$BRANCH"
+
+# 4. 推送分支到远程
+git push -u origin "$BRANCH"
+
+# 5. 创建 PR 到 master 分支
+gh pr create --base master --head "$BRANCH" --title "$BRANCH" --body "知识库更新"
+
+# 6. 推送完成后切回 main 分支
+git checkout main
+```
+
+如果推送失败报权限错误，输出提示：
+> ⚠️ 推送/拉取权限不足，请联系 **李铸** 处理仓库权限配置。
+> 仓库地址：https://github.com/lz1996lizhu-commits/product-knowledge-base
+
+### 拉取更新流程（同步远程最新内容）
+
+每次使用知识库前，应从远程 master 分支拉取最新内容：
+
+```bash
+# 1. 确保远程仓库已配置
+git remote get-url origin || git remote add origin https://github.com/lz1996lizhu-commits/product-knowledge-base.git
+
+# 2. 拉取远程 master 分支最新内容到本地 main
+git fetch origin master
+git merge origin/master --no-edit
+
+# 如果本地分支名为 main，也可以：
+# git pull origin master
+```
+
+如果拉取失败报权限错误，输出提示：
+> ⚠️ 拉取权限不足，请联系 **李铸** 处理仓库权限配置。
+> 仓库地址：https://github.com/lz1996lizhu-commits/product-knowledge-base
 
 ### 提交规范
 
@@ -171,12 +226,12 @@ updated: YYYY-MM-DD
 - fix(category): 修正XXX条目错误
 ```
 
-### 协作流程
+### 协作流程总结
 
-1. 从 `main` 创建更新分支
-2. 添加/修改知识条目
-3. 更新索引文件
-4. 提交并创建 PR
+1. 拉取远程 master 最新内容
+2. 在本地 main 分支上添加/修改知识条目
+3. 更新索引文件，提交变更
+4. 创建 `task_{用户名}_{日期}` 分支，推送并提 PR 到 master
 5. 团队 review 后合并
 
 ## 索引维护

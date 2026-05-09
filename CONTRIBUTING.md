@@ -4,19 +4,26 @@
 
 本知识库通过 Git 进行版本管理，支持团队多人协作维护。所有成员都可以添加、更新知识条目。
 
+- **远程仓库**：https://github.com/lz1996lizhu-commits/product-knowledge-base
+- **主分支**：`master`
+- **权限问题**：如遇推送/拉取权限不足，请联系 **李铸** 处理
+
 ## 快速开始
 
 ### 1. 克隆仓库
 
 ```bash
-git clone <仓库地址>
+git clone https://github.com/lz1996lizhu-commits/product-knowledge-base.git
 cd product-knowledge-base
 ```
 
-### 2. 创建更新分支
+### 2. 拉取最新内容
+
+每次操作前先同步远程 master 分支：
 
 ```bash
-git checkout -b update/你的更新描述
+git fetch origin master
+git merge origin/master --no-edit
 ```
 
 ### 3. 添加/修改知识条目
@@ -27,17 +34,35 @@ git checkout -b update/你的更新描述
 
 修改 `knowledge/_index.md`，在对应分类表格中添加/更新条目信息。
 
-### 5. 提交并推送
+### 5. 提交变更
 
 ```bash
 git add .
 git commit -m "add(product): 新增XXX功能说明"
-git push origin update/你的更新描述
 ```
 
-### 6. 创建 Pull Request
+### 6. 创建分支并推送
 
-在仓库平台创建 PR，等待团队 review 后合并到 main 分支。
+分支命名规则：`task_{git用户名}_{日期}`
+
+```bash
+GIT_USER=$(git config user.name | tr ' ' '_')
+TODAY=$(date +%Y%m%d)
+BRANCH="task_${GIT_USER}_${TODAY}"
+
+git checkout -b "$BRANCH"
+git push -u origin "$BRANCH"
+```
+
+### 7. 创建 Pull Request
+
+提交 PR 到 `master` 分支，等待团队 review 后合并：
+
+```bash
+gh pr create --base master --head "$BRANCH" --title "$BRANCH" --body "知识库更新"
+```
+
+> ⚠️ 如果推送失败报 403/401 权限错误，请联系 **李铸** 处理仓库权限。
 
 ## 文件命名规范
 
@@ -92,4 +117,5 @@ git push origin update/你的更新描述
 
 ## 联系方式
 
-如有疑问，请联系知识库管理员或在团队群中讨论。
+- 仓库权限问题：联系 **李铸**
+- 内容疑问：请在团队群中讨论
