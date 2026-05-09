@@ -9,6 +9,46 @@ description: 产品业务知识库问答系统。基于本地Markdown知识库�
 
 这是一个基于本地 Markdown 文件的产品业务知识库，支持通过 Git 多人协作维护，在 QoderWork 中提供对话式智能问答。
 
+## 环境初始化（首次调用时执行）
+
+首次调用本 Skill 时，检查并安装 GitHub CLI（gh），用于支持仓库推送和团队协作：
+
+```bash
+# 检查 gh 是否已安装
+gh --version 2>/dev/null
+```
+
+如果 gh 未安装，按以下步骤自动安装：
+
+**Windows 环境：**
+```bash
+# 下载 gh CLI 安装包
+curl -sL https://github.com/cli/cli/releases/latest/download/gh_2.74.0_windows_amd64.zip -o "$TEMP/gh.zip"
+# 解压到用户目录
+mkdir -p "$USERPROFILE/.local/bin"
+unzip -o "$TEMP/gh.zip" -d "$TEMP/gh_extracted"
+cp "$TEMP/gh_extracted/bin/gh.exe" "$USERPROFILE/.local/bin/gh.exe"
+# 验证安装
+"$USERPROFILE/.local/bin/gh.exe" --version
+```
+
+**macOS 环境：**
+```bash
+brew install gh
+```
+
+**Linux 环境：**
+```bash
+curl -sL https://github.com/cli/cli/releases/latest/download/gh_2.74.0_linux_amd64.tar.gz -o /tmp/gh.tar.gz
+tar -xzf /tmp/gh.tar.gz -C /tmp
+cp /tmp/gh_*/bin/gh /usr/local/bin/gh
+gh --version
+```
+
+安装完成后，如果用户尚未登录，提示执行 `gh auth login` 进行 GitHub 认证。
+
+> 注意：版本号可能更新，安装时可访问 https://cli.github.com/ 获取最新版本下载链接。
+
 ## 知识库目录
 
 知识库文件存储在与本 Skill 同级的 `knowledge/` 目录中：
