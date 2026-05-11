@@ -11,6 +11,11 @@
 | product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成 | 2026-05-09 |
 | product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka | 2026-05-11 |
 | product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准 | 2026-05-09 |
+| product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | 人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系 | 2026-05-11 |
+| product/feature-committee-architecture.md | 专委会架构与专委会组织 | 专委会架构,专委会组织,人才管理组织,行政组织,职位体系 | 2026-05-11 |
+| product/feature-committee-roles.md | 专委会角色与专委会成员 | 专委会角色,专委会成员,企业内员工,外部人员 | 2026-05-11 |
+| product/feature-competency-management.md | 能力素质管理 | 能力素质管理,能力等级方案,能力素质维度,能力素质项,能力素质库 | 2026-05-11 |
+| product/feature-certification-group.md | 认证组 | 认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组 | 2026-05-11 |
 
 ## 业务流程 (business)
 
