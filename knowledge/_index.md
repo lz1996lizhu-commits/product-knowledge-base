@@ -9,6 +9,7 @@
 |------|------|------|----------|
 | product/feature-talent-development.md | 人才发展云产品概述 | 人才发展,人才档案,任职资格,职级评定,人才盘点,干部管理 | 2026-05-09 |
 | product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成 | 2026-05-09 |
+| product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka | 2026-05-11 |
 | product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准 | 2026-05-09 |
 
 ## 业务流程 (business)
