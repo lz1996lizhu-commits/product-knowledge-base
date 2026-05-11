@@ -100,7 +100,7 @@ product-knowledge-base/
 
 - 优先基于知识库内容回答，引用具体条目
 - 如果知识库中无相关内容，明确告知用户并建议添加
-- 回答末尾标注来源: `[来源: knowledge/xxx/yyy.md]`
+- 回答末尾使用 `present_files` 工具将来源知识条目文件作为产物呈现给用户，让用户可以直接点击查看原始文档。示例：回答完毕后调用 present_files，传入引用的知识条目文件绝对路径（如 `{skill_base_dir}/knowledge/product/feature-xxx.md`）
 - 保持回答简洁、准确、可操作
 
 ## 知识条目管理
