@@ -68,6 +68,7 @@
 | faq/faq-ir-interview-reply.md | 候选人收到面试通知后如何答复 | 内部招聘,面试通知,候选人答复,在线回复,消息模板 | 2026-05-11 |
 | faq/faq-express-terminology.md | 招聘服务直通车术语解释 | 招聘服务直通车,术语,生态组织,生态租户 | 2026-05-11 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | 术语,FAQ,绩效术语,考核计划,评估对象范围 | 2026-05-12 |
+| faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | 消息模板,常用变量,笔试通知,字段扩展,二开 | 2026-05-13 |
 
 ## 操作指南 (guide)
 
