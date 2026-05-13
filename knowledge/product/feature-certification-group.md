@@ -4,7 +4,7 @@ category: product
 tags: [认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组]
 author: 金蝶AI HR
 created: 2026-03-01
-updated: 2026-05-11
+updated: 2026-05-13
 ---
 
 ## 认证组

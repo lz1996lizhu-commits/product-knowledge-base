@@ -4,7 +4,7 @@ category: product
 tags: [专委会角色,专委会成员,企业内员工,外部人员]
 author: 金蝶AI HR
 created: 2026-03-01
-updated: 2026-05-11
+updated: 2026-05-13
 ---
 
 ## 专委会角色与专委会成员
