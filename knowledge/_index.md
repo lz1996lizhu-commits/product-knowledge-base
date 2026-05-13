@@ -28,11 +28,15 @@
 | product/feature-employee-collaboration-config.md | 员工协作配置 | 员工协作,协作配置,绩效档案,变动协同 | 2026-05-12 |
 | product/feature-performance-archive-overview.md | 个人绩效档案整体介绍 | 绩效档案,个人档案,档案管理,员工变动 | 2026-05-12 |
 | product/feature-performance-archive.md | 个人绩效档案 | 绩效档案,个人档案,档案管理,新增档案 | 2026-05-12 |
-| product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | 人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系 | 2026-05-11 |
-| product/feature-committee-architecture.md | 专委会架构与专委会组织 | 专委会架构,专委会组织,人才管理组织,行政组织,职位体系 | 2026-05-11 |
-| product/feature-committee-roles.md | 专委会角色与专委会成员 | 专委会角色,专委会成员,企业内员工,外部人员 | 2026-05-11 |
-| product/feature-competency-management.md | 能力素质管理 | 能力素质管理,能力等级方案,能力素质维度,能力素质项,能力素质库 | 2026-05-11 |
-| product/feature-certification-group.md | 认证组 | 认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组 | 2026-05-11 |
+| product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | 人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系 | 2026-05-13 |
+| product/feature-committee-architecture.md | 专委会架构与专委会组织 | 专委会架构,专委会组织,人才管理组织,行政组织,职位体系 | 2026-05-13 |
+| product/feature-committee-roles.md | 专委会角色与专委会成员 | 专委会角色,专委会成员,企业内员工,外部人员 | 2026-05-13 |
+| product/feature-competency-management.md | 能力素质管理 | 能力素质管理,能力等级方案,能力素质维度,能力素质项,能力素质库 | 2026-05-13 |
+| product/feature-certification-group.md | 认证组 | 认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组 | 2026-05-13 |
+| product/feature-talent-archive-overview.md | 人才档案整体介绍 | 人才档案,人才管理,人员档案,任职经历,管理关系 | 2026-05-13 |
+| product/feature-talent-archive-maintenance.md | 人才档案的维护与业务说明 | 人才档案,批量创建,批量失效,档案维护,操作说明 | 2026-05-13 |
+| product/feature-talent-archive-collaboration.md | 人才档案-员工协作配置 | 人才档案,员工协作,协作配置,自动处理,手动处理 | 2026-05-13 |
+| product/feature-talent-archive-change.md | 人才档案-员工变动及处理 | 人才档案,员工变动,入职,调动,离职,兼职,变动处理 | 2026-05-13 |
 | product/feature-internal-recruitment.md | 内部招聘整体介绍 | 内部招聘,人才流动,招聘职位,候选人管理,面试,录用,人才库,应聘许可 | 2026-05-11 |
 | product/feature-ir-position.md | 招聘职位（内部招聘） | 内部招聘,招聘职位,职位管理,职位发布,职位状态 | 2026-05-11 |
 | product/feature-ir-candidate.md | 候选人（内部招聘） | 内部招聘,候选人,候选人管理,锁定,淘汰,转职位,确认变动 | 2026-05-11 |
@@ -68,6 +72,7 @@
 | faq/faq-ir-interview-reply.md | 候选人收到面试通知后如何答复 | 内部招聘,面试通知,候选人答复,在线回复,消息模板 | 2026-05-11 |
 | faq/faq-express-terminology.md | 招聘服务直通车术语解释 | 招聘服务直通车,术语,生态组织,生态租户 | 2026-05-11 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | 术语,FAQ,绩效术语,考核计划,评估对象范围 | 2026-05-12 |
+| faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | 消息模板,常用变量,笔试通知,字段扩展,二开 | 2026-05-13 |
 
 ## 操作指南 (guide)
 

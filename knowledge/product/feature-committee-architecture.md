@@ -4,7 +4,7 @@ category: product
 tags: [专委会架构,专委会组织,人才管理组织,行政组织,职位体系]
 author: 金蝶AI HR
 created: 2026-03-01
-updated: 2026-05-11
+updated: 2026-05-13
 ---
 
 ## 专委会架构与专委会组织

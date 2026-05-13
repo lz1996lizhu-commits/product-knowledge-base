@@ -4,7 +4,7 @@ category: product
 tags: [人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系]
 author: 金蝶AI HR
 created: 2026-03-01
-updated: 2026-05-11
+updated: 2026-05-13
 ---
 
 ## 人才发展基础服务整体介绍

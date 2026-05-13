@@ -4,7 +4,7 @@ category: product
 tags: [能力素质管理,能力等级方案,能力素质维度,能力素质项,能力素质库]
 author: 金蝶AI HR
 created: 2026-03-01
-updated: 2026-05-11
+updated: 2026-05-13
 ---
 
 ## 能力素质管理
