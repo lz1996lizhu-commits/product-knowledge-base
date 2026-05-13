@@ -53,6 +53,23 @@
 | product/feature-express-onboard-application.md | 入职协同申请（直通车） | 招聘服务直通车,入职协同,入职申请,发起入职,人事变动状态回传 | 2026-05-11 |
 | product/feature-express-eco-tenant.md | 生态租户 | 招聘服务直通车,生态租户,第三方招聘系统,组织映射,数据管理归属 | 2026-05-11 |
 | product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | 招聘基础服务,基础数据,业务配置,招聘流程,消息模板,面试评价表,参数配置 | 2026-05-11 |
+| product/feature-job-level-overview.md | 职级评定——结构化搭建职级标准，规范人才晋升通道 | 职级评定,产品概述,人才发展云,职级标准,晋升通道,能力素质模型 | 2026-05-13 |
+| product/feature-job-level-evaluation-plan.md | 评定计划 | 职级评定,评定计划,计划管理,申报条件,结果生效 | 2026-05-13 |
+| product/feature-job-level-application-qualification.md | 申请资格 | 职级评定,申请资格,基础配置,标准配置,晋升通道,绿色晋升 | 2026-05-13 |
+| product/feature-job-level-standard.md | 职级标准 | 职级评定,职级标准,基础配置,标准配置,能力素质,评估维度 | 2026-05-13 |
+| product/feature-job-level-evaluation-form.md | 评议形式 | 职级评定,评议形式,基础配置,标准配置,计分题型,非计分题型 | 2026-05-13 |
+| product/feature-job-level-review-method.md | 评审方式 | 职级评定,评审方式,基础配置,评定过程配置,评委评审 | 2026-05-13 |
+| product/feature-job-level-application-materials.md | 申报材料 | 职级评定,申报材料,基础配置,评定过程配置,材料清单 | 2026-05-13 |
+| product/feature-job-level-list-confirmation.md | 名单确认 | 职级评定,名单确认,评定流程,提名处理人,名单下发 | 2026-05-13 |
+| product/feature-job-level-promotion-nomination.md | 晋升提名 | 职级评定,晋升提名,评定流程,提名处理人,系统建议 | 2026-05-13 |
+| product/feature-job-level-application.md | 职级申报 | 职级评定,职级申报,评定流程,员工申报,申报结果,结果通知 | 2026-05-13 |
+| product/feature-job-level-document-review.md | 资料复核 | 职级评定,资料复核,评定流程,HR,合规性,完整性 | 2026-05-13 |
+| product/feature-job-level-review-arrangement.md | 评审安排 | 职级评定,评审安排,评定流程,评委,单人安排,批量安排 | 2026-05-13 |
+| product/feature-job-level-review-evaluation.md | 评审评议 | 职级评定,评审评议,评定流程,评委,履职表现,考核评价 | 2026-05-13 |
+| product/feature-job-level-result-resolution.md | 结果决议 | 职级评定,结果决议,评定流程,评委,晋升决议 | 2026-05-13 |
+| product/feature-job-level-result-approval.md | 结果报批 | 职级评定,结果报批,评定流程,批量报批,高管审批 | 2026-05-13 |
+| product/feature-job-level-approval-management.md | 报批管理 | 职级评定,报批管理,评定流程,审批进度,撤销,重新提交 | 2026-05-13 |
+| product/feature-job-level-batch-adjustment.md | 批量职级职等调整 | 职级评定,批量调整,职级职等调整,审批,人员档案 | 2026-05-13 |
 
 ## 业务流程 (business)
 
