@@ -70,6 +70,11 @@
 | product/feature-job-level-result-approval.md | 结果报批 | 职级评定,结果报批,评定流程,批量报批,高管审批 | 2026-05-13 |
 | product/feature-job-level-approval-management.md | 报批管理 | 职级评定,报批管理,评定流程,审批进度,撤销,重新提交 | 2026-05-13 |
 | product/feature-job-level-batch-adjustment.md | 批量职级职等调整 | 职级评定,批量调整,职级职等调整,审批,人员档案 | 2026-05-13 |
+| product/feature-talent-inventory-overview.md | 人才盘点整体介绍 | 人才盘点,整体介绍,产品概述 | 2026-05-14 |
+| product/feature-talent-inventory-plan.md | 盘点计划 | 人才盘点,盘点计划,计划管理 | 2026-05-14 |
+| product/feature-talent-inventory-template.md | 盘点活动模板 | 人才盘点,盘点活动模板,模板配置 | 2026-05-14 |
+| product/feature-talent-inventory-evaluation-scheme.md | 盘点维度评估方案 | 人才盘点,盘点维度,评估方案,基础配置 | 2026-05-14 |
+| product/feature-talent-inventory-evaluation-item.md | 评估项 | 人才盘点,评估项,基础配置 | 2026-05-14 |
 
 ## 业务流程 (business)
 
@@ -90,6 +95,8 @@
 | faq/faq-express-terminology.md | 招聘服务直通车术语解释 | 招聘服务直通车,术语,生态组织,生态租户 | 2026-05-11 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | 术语,FAQ,绩效术语,考核计划,评估对象范围 | 2026-05-12 |
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | 消息模板,常用变量,笔试通知,字段扩展,二开 | 2026-05-13 |
+| faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
+| faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
 
 ## 操作指南 (guide)
 
@@ -114,3 +121,8 @@
 | guide/guide-evaluation-form.md | 评估表单配置指南 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-12 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
 | guide/guide-role-type.md | 角色类型配置指南 | 角色类型,基础配置,绩效配置,角色 | 2026-05-12 |
+| guide/guide-talent-inventory-create-activity.md | 盘点活动：创建活动 | 人才盘点,盘点活动,创建活动,操作指南 | 2026-05-14 |
+| guide/guide-talent-inventory-object-grouping.md | 盘点活动：盘点对象及分组 | 人才盘点,盘点对象,盘点组,操作指南 | 2026-05-14 |
+| guide/guide-talent-inventory-process.md | 盘点活动：盘点过程 | 人才盘点,盘点过程,操作指南 | 2026-05-14 |
+| guide/guide-talent-inventory-calibration.md | 盘点活动：在线校准 | 人才盘点,在线校准,校准会,操作指南 | 2026-05-14 |
+| guide/guide-talent-inventory-grouping.md | 手把手教学，助你清晰划分盘点组 | 人才盘点,盘点组,操作指南 | 2026-05-14 |
