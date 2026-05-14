@@ -39,7 +39,7 @@
 | product/feature-talent-archive-change.md | 人才档案-员工变动及处理 | 人才档案,员工变动,入职,调动,离职,兼职,变动处理 | 2026-05-13 |
 | product/feature-internal-recruitment.md | 内部招聘整体介绍 | 内部招聘,人才流动,招聘职位,候选人管理,面试,录用,人才库,应聘许可 | 2026-05-11 |
 | product/feature-ir-position.md | 招聘职位（内部招聘） | 内部招聘,招聘职位,职位管理,职位发布,职位状态 | 2026-05-11 |
-| product/feature-ir-candidate.md | 候选人（内部招聘） | 内部招聘,候选人,候选人管理,锁定,淘汰,转职位,确认变动 | 2026-05-11 |
+| product/feature-ir-candidate.md | 候选人（内部招聘） | 内部招聘,候选人,候选人管理,锁定,淘汰,转职位,确认变动 | 2026-05-14 |
 | product/feature-ir-interview.md | 面试（内部招聘） | 内部招聘,面试,面试管理,面试评价,催促答复,修改总评 | 2026-05-11 |
 | product/feature-ir-advertisement.md | 广告（内部招聘） | 内部招聘,招聘广告,广告管理,广告审批,置顶,急招 | 2026-05-11 |
 | product/feature-ir-hire-application.md | 录用申请（内部招聘） | 内部招聘,录用申请,录用审批,变动进展,人事变动 | 2026-05-11 |
