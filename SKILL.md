@@ -1,7 +1,6 @@
 ---
 name: product-knowledge-base
 description: 产品业务知识库问答系统。基于本地Markdown知识库文件回答产品功能、业务流程、常见问题等。当用户提问产品相关问题、查询业务知识、咨询操作方法、或提到"知识库"、"查一下"、"怎么操作"时触发。支持知识条目的增删改查和多人协作维护。
-install_method: upload
 ---
 
 # 产品业务知识库
