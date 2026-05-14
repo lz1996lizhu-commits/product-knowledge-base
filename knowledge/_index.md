@@ -95,6 +95,7 @@
 | faq/faq-express-terminology.md | 招聘服务直通车术语解释 | 招聘服务直通车,术语,生态组织,生态租户 | 2026-05-11 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | 术语,FAQ,绩效术语,考核计划,评估对象范围 | 2026-05-12 |
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | 消息模板,常用变量,笔试通知,字段扩展,二开 | 2026-05-13 |
+| faq/faq-homepage-scheme-missing.md | 首页方案数据在系统中不存在，可能已经被删除 | AI星瀚,人才星图,数据迁移,平台配置,栅栏视图 | 2026-05-14 |
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
 
