@@ -28,7 +28,7 @@ updated: 2026-05-12
 |分组|一系列业务指标的集合，类比为一个多指标的模板，可重复被人员使用|
 |制定流程|指标制定的流程定义，覆盖指标制定，审核，确认等环节|
 
-![上传图片](./feature-indicator-setting-images/0100078ec4f7708f4997a3557016bc01057b.png)
+![上传图片](../images/product/0100078ec4f7708f4997a3557016bc01057b.png)
 
 ## 4.2 分组管理
 
@@ -43,9 +43,9 @@ updated: 2026-05-12
 |分组及指标设置|可以针对考核活动设置多套可复用指标集合。|
 |指定分组|选择评估对象后，进行分组指定，可将分组内的指标引入评估对象的指标表中。|
 
-![上传图片](./feature-indicator-setting-images/010044345991978f4f529368caff6eaa4b45.png)
+![上传图片](../images/product/010044345991978f4f529368caff6eaa4b45.png)
 
-![上传图片](./feature-indicator-setting-images/0100fc5fcac77e2d400e9b54b10c48afad1f.png)
+![上传图片](../images/product/0100fc5fcac77e2d400e9b54b10c48afad1f.png)
 
 ## 4.3 指标制定流程管理
 
@@ -63,9 +63,9 @@ updated: 2026-05-12
 适用场景：此功能适用于针对特定评估对象调整处理人的场景。若流程内系统标准角色已默认带出准确的处理人，则无需使用此功能。|
 ||
 
-![上传图片](./feature-indicator-setting-images/0100147bc0786fef45d1b190169b16ccefd4.png)
+![上传图片](../images/product/0100147bc0786fef45d1b190169b16ccefd4.png)
 
-![上传图片](./feature-indicator-setting-images/0100a5833cddb093425d98b6956dd0851db8.png)
+![上传图片](../images/product/0100a5833cddb093425d98b6956dd0851db8.png)
 
 ## 4.4 启动制定流程
 
@@ -79,9 +79,9 @@ updated: 2026-05-12
 适用场景：评估对象无需执行指标制定流程，适用于高管或特定人员如财务人员等，指标由人力资源专员统一设定，无需流程审核或已线下确认的场景。
 前提条件：所选评估对象的指标需完整填写完成，如权重之和为100%。|
 
-![上传图片](./feature-indicator-setting-images/01006480637a13b849e48cbbc7c0a044dd3d.png)
+![上传图片](../images/product/01006480637a13b849e48cbbc7c0a044dd3d.png)
 
-![上传图片](./feature-indicator-setting-images/010078e71834a1e741bd9675488586355293.png)
+![上传图片](../images/product/010078e71834a1e741bd9675488586355293.png)
 
 ## 4.5 复制历史指标
 
@@ -89,7 +89,7 @@ updated: 2026-05-12
 
 针对特定评估对象，复制上一周期或历史某周期的指标，将指标进行复用。
 
-![上传图片](./feature-indicator-setting-images/0100f330fe59967f48b2810df01e6d732fa3.png)
+![上传图片](../images/product/0100f330fe59967f48b2810df01e6d732fa3.png)
 
 ## 5 指标制定-制定中
 
@@ -106,7 +106,7 @@ updated: 2026-05-12
 
 流程处理人员出现停滞过久的情况，对其展开催办动作，以推动流程能够顺利且高效地进行下去。
 
-![上传图片](./feature-indicator-setting-images/0100f718099f40df4607802c73a77a816821.png)
+![上传图片](../images/product/0100f718099f40df4607802c73a77a816821.png)
 
 ## 5.3 制定流程过程管理
 
@@ -135,7 +135,7 @@ updated: 2026-05-12
 适用场景：任务的处理人由于出差或特定原因，无法处理该任务，可由协办人代处理，系统将留下协办记录|
 |删除协办人|删除该任务的协办人|
 
-![上传图片](./feature-indicator-setting-images/0100301b4a332a8842ebbb9a5a45d6ca77c4.png)
+![上传图片](../images/product/0100301b4a332a8842ebbb9a5a45d6ca77c4.png)
 
 ## 6 指标制定-已完成
 
@@ -160,7 +160,7 @@ updated: 2026-05-12
 |退回制定人|将评估对象的指标制定流程退回某个特定环节
 适用场景：特殊原因导致指标制定流程需重新进行，如指标修改等|
 
-![上传图片](./feature-indicator-setting-images/0100ca029842e8d34b15b7d095669fd620b2.png)
+![上传图片](../images/product/0100ca029842e8d34b15b7d095669fd620b2.png)
 
 ## 7 指标制定任务
 
@@ -214,7 +214,7 @@ updated: 2026-05-12
 |分值范围|路径：评估表单
 基于评估表单上区域分值生成|
 
-![上传图片](./feature-indicator-setting-images/0100f37a45511b8f4a89879ca9d548a4f08c.png)
+![上传图片](../images/product/0100f37a45511b8f4a89879ca9d548a4f08c.png)
 
 ## 7.5 任务-指标审核
 
@@ -247,7 +247,7 @@ updated: 2026-05-12
 设置参与人数：设置一定数量的处理人提交则标记环节完成
 全部参与：所有处理人需全部提交，则环节完成|
 
-![上传图片](./feature-indicator-setting-images/010095587cb348e8450dbd42f996b22e85e3.png)
+![上传图片](../images/product/010095587cb348e8450dbd42f996b22e85e3.png)
 
 ## 7.6 任务-指标确认
 

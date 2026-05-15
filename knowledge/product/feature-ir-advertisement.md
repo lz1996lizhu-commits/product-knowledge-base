@@ -36,7 +36,7 @@ updated: 2026-05-11
 
 ## 刷新广告
 
-![刷新广告](feature-ir-advertisement-images/01007c9bbe2c270c44109123207a62bc37f1.png)
+![刷新广告](../images/product/01007c9bbe2c270c44109123207a62bc37f1.png)
 
 ### 1 操作应用场景
 

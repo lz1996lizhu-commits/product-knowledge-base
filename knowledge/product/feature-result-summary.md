@@ -36,22 +36,22 @@ updated: 2026-05-12
 
 1.  在结果汇总列表页，通过筛选栏选择/输入查询条件，可按考核活动（如2024年度全员考核）实现全量数据汇总，或按挂靠行政组织/考核组实现部门/团队维度汇总，亦或按工号/姓名实现单个员工数据精准汇总；
     
-    ![上传图片](./feature-result-summary-images/01000fa76f8965f547fc96bcf6954db9ab73.png)
+    ![上传图片](../images/product/01000fa76f8965f547fc96bcf6954db9ab73.png)
     
 2.  在汇总列表中，选择目标员工的姓名，支持配置并修改汇总规则、指定统一的汇总计算分组；
     
-    ![上传图片](./feature-result-summary-images/0100371aad9c1ddf4922bf1473494d2f7c6b.png)
+    ![上传图片](../images/product/0100371aad9c1ddf4922bf1473494d2f7c6b.png)
     
-    ![上传图片](./feature-result-summary-images/010013173d90e79747798e9923f1bb03d5ab.png)
+    ![上传图片](../images/product/010013173d90e79747798e9923f1bb03d5ab.png)
     
 3.  详情页展示该员工本次汇总的完整维度数据，包括绩效分数、绩效等级、权重比例、汇总结果计算公式等，HR可逐项核对数据的完整性与准确性；
     
-    ![上传图片](./feature-result-summary-images/0100d62b173355a5474094e13ab2aa2b314d.png)
+    ![上传图片](../images/product/0100d62b173355a5474094e13ab2aa2b314d.png)
     
 4.  若发现数据存在异常，可在列表页对该条记录进行修改汇总计算结果、修改汇总规则等操作，以便及时修正。
     
 
-![上传图片](./feature-result-summary-images/01003b88ff2ec20f4fa8b016efa39e5e401b.png)
+![上传图片](../images/product/01003b88ff2ec20f4fa8b016efa39e5e401b.png)
 
 4.1.2 绩效汇总数据批量导出
 

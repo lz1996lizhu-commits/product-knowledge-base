@@ -41,7 +41,7 @@ updated: 2026-05-11
 
 ## 锁定候选人
 
-![锁定候选人](feature-ir-candidate-images/010054e4899fbf13419894a5f6de61eb1ad3.png)
+![锁定候选人](../images/product/010054e4899fbf13419894a5f6de61eb1ad3.png)
 
 ### 1 操作应用场景
 
@@ -56,7 +56,7 @@ updated: 2026-05-11
 
 ## 确认变动
 
-![确认变动](feature-ir-candidate-images/0100a1be7601a50a49acbba863ee74db0e88.png)
+![确认变动](../images/product/0100a1be7601a50a49acbba863ee74db0e88.png)
 
 ### 1 操作应用场景
 

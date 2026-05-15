@@ -42,7 +42,7 @@ updated: 2026-05-13
 
 员工变动及处理列表页面由左侧变动类型页签和右侧数据列表组成。
 
-![上传图片](feature-talent-archive-change-images/010000bb618efbb4405f8e4aff70efc15c3c.png)
+![上传图片](../images/product/feature-talent-archive-change-images_010000bb618efbb4405f8e4aff70efc15c3c.png)
 
 **左侧页签说明：**
 
@@ -76,7 +76,7 @@ updated: 2026-05-13
 -   变动协作信息：主要展示该任务信息及处理方式
     
 
-![上传图片](feature-talent-archive-change-images/01001f28cd52f18c4926aeda6ad3f98656d1.png)
+![上传图片](../images/product/feature-talent-archive-change-images_01001f28cd52f18c4926aeda6ad3f98656d1.png)
 
 ### 4.2 确认生效
 

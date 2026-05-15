@@ -29,7 +29,7 @@ updated: 2026-05-12
 
 **4.1新增等级规则**
 
-![](./guide-grade-rule-images/0100e09102bb078842c38b2b8e711670a0d6.png)
+![](../images/guide/0100e09102bb078842c38b2b8e711670a0d6.png)
 
 **4.1.1关键字段说明**
 

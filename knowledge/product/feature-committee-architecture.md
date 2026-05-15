@@ -27,7 +27,7 @@ updated: 2026-05-13
 
 4.1 新增专委会架构
 
-![上传图片](feature-committee-architecture-images/010093a1ea4a0477463397cce43a8b1c4722.png)
+![上传图片](../images/product/010093a1ea4a0477463397cce43a8b1c4722.png)
 
 4.1.1 关键字段说明
 
@@ -38,9 +38,9 @@ updated: 2026-05-13
 
 4.2 新增专委会组织
 
-![上传图片](feature-committee-architecture-images/0100287f572c40114d1b9f93420492cef959.png)
+![上传图片](../images/product/0100287f572c40114d1b9f93420492cef959.png)
 
-![上传图片](feature-committee-architecture-images/01001ec717a6457f4bd8b2e9aa6a2ec77a16.png)
+![上传图片](../images/product/01001ec717a6457f4bd8b2e9aa6a2ec77a16.png)
 
 4.2.1 关键字段说明
 

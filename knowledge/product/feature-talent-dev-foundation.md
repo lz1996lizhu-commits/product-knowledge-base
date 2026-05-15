@@ -37,7 +37,7 @@ updated: 2026-05-13
 
 人才发展基础服务承载人才发展领域的专委会组织管理、能力素质管理、公共基础数据、系统配置等功能，为人才发展领域提供整体性的基础数据服务。
 
-![上传图片](feature-talent-dev-foundation-images/01003475cca4449c44f2bcf1dcd6c152758d.png)
+![上传图片](../images/product/01003475cca4449c44f2bcf1dcd6c152758d.png)
 
 ## **3 术语/功能介绍**
 

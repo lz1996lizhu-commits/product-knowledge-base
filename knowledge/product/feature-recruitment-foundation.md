@@ -17,7 +17,7 @@ updated: 2026-05-11
 
 ## 1.2 产品结构图
 
-![产品结构图](feature-recruitment-foundation-images/01000d6dcbc5b87944308ff5b7b523bac682.png)
+![产品结构图](../images/product/01000d6dcbc5b87944308ff5b7b523bac682.png)
 
 ## 1.3 业务场景
 

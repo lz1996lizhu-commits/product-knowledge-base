@@ -17,7 +17,7 @@ updated: 2026-05-11
 
 ## 1.2 产品结构图
 
-![产品结构图](feature-recruitment-express-images/0100e23d724f0afb440da3429a576e3c42ca.png)
+![产品结构图](../images/product/0100e23d724f0afb440da3429a576e3c42ca.png)
 
 ## 1.3 业务场景
 
@@ -31,7 +31,7 @@ updated: 2026-05-11
 
 ## 2 业务流程图
 
-![业务流程图](feature-recruitment-express-images/01008bcede5417f74f06bb86b9f4d21e02a5.png)
+![业务流程图](../images/product/01008bcede5417f74f06bb86b9f4d21e02a5.png)
 
 ## 3 亮点特性
 
@@ -66,7 +66,7 @@ updated: 2026-05-11
 
 ## 5 本应用与其他应用的关联
 
-![应用关联图](feature-recruitment-express-images/0100faab3aac27054a498ae70d7839c7dacb.png)
+![应用关联图](../images/product/0100faab3aac27054a498ae70d7839c7dacb.png)
 
 ## 相关条目
 

@@ -50,7 +50,7 @@ updated: 2026-05-12
 |7|单据状态|“核定单”在工作流中的处理状态。
 **逻辑说明：**默认为“暂存”，提交至工作流后，按对应流程处理的状态更新。|
 
-![](./feature-employee-change-processing-images/010036570e45b2b1415d93823a7a8419bbb7.png)
+![](../images/product/010036570e45b2b1415d93823a7a8419bbb7.png)
 
 **4.2** **操作功能说明**
 
@@ -110,7 +110,7 @@ updated: 2026-05-12
 |7|变动日期|变动记录中的变动日期。|
 |8|档案状态|变动后，绩效档案的状态。|
 
-![](./feature-employee-change-processing-images/010097ac1d36d0d74afda0c533189f182b83.png)
+![](../images/product/010097ac1d36d0d74afda0c533189f182b83.png)
 
 ##### 4.2.2 确认生效
 

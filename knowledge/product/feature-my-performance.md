@@ -37,9 +37,9 @@ updated: 2026-05-12
 
 点击我的绩效功能列表 全量查阅个人绩效结果记录。
 
-![上传图片](./feature-my-performance-images/010094b4261e8e0240418609571be0e7d794.png)
+![上传图片](../images/product/010094b4261e8e0240418609571be0e7d794.png)
 
-![上传图片](./feature-my-performance-images/0100d23f63784f084d138a33db98364c5143.png)
+![上传图片](../images/product/0100d23f63784f084d138a33db98364c5143.png)
 
 **常见问题说明**
 

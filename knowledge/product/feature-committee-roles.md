@@ -27,7 +27,7 @@ updated: 2026-05-13
 
 4.1 添加专委会角色
 
-![上传图片](feature-committee-roles-images/010070f21381aaf14d7e897cdcb691a68da2.png)
+![上传图片](../images/product/010070f21381aaf14d7e897cdcb691a68da2.png)
 
 4.1.1 关键字段说明
 
@@ -37,11 +37,11 @@ updated: 2026-05-13
 
 4.2 添加专委会成员
 
-![上传图片](feature-committee-roles-images/01007bd9e502276241bbbd77e8d50d828413.png)
+![上传图片](../images/product/01007bd9e502276241bbbd77e8d50d828413.png)
 
-![上传图片](feature-committee-roles-images/0100bb315a0e4f6d4c619a0d3955c4e3c81f.png)
+![上传图片](../images/product/0100bb315a0e4f6d4c619a0d3955c4e3c81f.png)
 
-![上传图片](feature-committee-roles-images/010000a2457ec4cb4686b622802e1c77556d.png)
+![上传图片](../images/product/010000a2457ec4cb4686b622802e1c77556d.png)
 
 4.2.1 关键字段说明
 
