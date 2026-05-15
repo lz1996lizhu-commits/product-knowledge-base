@@ -45,7 +45,7 @@ updated: 2026-05-12
 |「归档」|核心归档操作|支持「单个归档」「批量归档」，触发结果归档动作|
 |归档状态|结果归档进度标识|包含「未归档」「已归档」两种状态，是判断是否执行归档的核心依据|
 
-![上传图片](./feature-assessment-completion-images/0100fcd2bdc11da6456ebd930f350429fcdc.png)
+![上传图片](../images/product/0100fcd2bdc11da6456ebd930f350429fcdc.png)
 
 ### 4.2 操作应用场景
 

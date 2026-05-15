@@ -51,7 +51,7 @@ updated: 2026-05-13
 
 填写完成后，点击【保存】按钮保存方案。
 
-![上传图片](feature-talent-archive-collaboration-images/01005ea74519f0de48a5b5eae78185def29a.png)
+![上传图片](../images/product/feature-talent-archive-collaboration-images_01005ea74519f0de48a5b5eae78185def29a.png)
 
 4.2 维护协作规则方案
 
@@ -59,11 +59,11 @@ updated: 2026-05-13
 
 进入【协作规则方案】列表页面，点击"新增"按钮。
 
-![上传图片](feature-talent-archive-collaboration-images/01003e4dfce8f13b4d05b8d35ef21d722f29.png)
+![上传图片](../images/product/feature-talent-archive-collaboration-images_01003e4dfce8f13b4d05b8d35ef21d722f29.png)
 
 在详情页中，填写协作规则方案的基本信息、字段规则和规则配置。
 
-![上传图片](feature-talent-archive-collaboration-images/0100262b8bb8a5d94f0393a337e0d2c1b283.png)
+![上传图片](../images/product/feature-talent-archive-collaboration-images_0100262b8bb8a5d94f0393a337e0d2c1b283.png)
 
 填写完成后，点击【保存】按钮保存方案，或点击【提交】按钮提交审核。
 
@@ -95,7 +95,7 @@ updated: 2026-05-13
 
 进入【协作处理策略】列表页面，点击"新增"按钮，在详情页中，填写协作处理策略的基本信息和策略规则。
 
-![上传图片](feature-talent-archive-collaboration-images/0100cb705db67018456cbaff902284db4628.png)
+![上传图片](../images/product/feature-talent-archive-collaboration-images_0100cb705db67018456cbaff902284db4628.png)
 
 填写完成后，点击【保存】按钮保存方案，或点击【提交】按钮提交审核。
 

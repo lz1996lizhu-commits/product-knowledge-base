@@ -31,7 +31,7 @@ updated: 2026-05-13
 
 ## 3 本应用与其他应用的关联
 
-![上传图片](feature-talent-archive-overview-images/0100c11a0043671e4362a50005a23fd290b9.png)
+![上传图片](../images/product/0100c11a0043671e4362a50005a23fd290b9.png)
 
 ## 4 人才档案与人员档案区别
 

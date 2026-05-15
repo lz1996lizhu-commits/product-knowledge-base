@@ -27,17 +27,17 @@ updated: 2026-05-13
 2. 选择对应场景的通知模板（如笔试通知，对应场景编码通常为 `NOTICE_4`）；
 3. 在模板内容编辑区，点击上方蓝色变量列表中的变量进行插入：
 
-![笔试通知编辑页面](./faq-message-template-variables-images/written-exam-notification-page.png)
+![笔试通知编辑页面](../images/faq/written-exam-notification-page.png)
 
 4. 如果蓝色变量列表中没有需要的变量，需先在【常用变量列表】中新增：
 
-![常用变量列表](./faq-message-template-variables-images/common-variable-list.png)
+![常用变量列表](../images/faq/common-variable-list.png)
 
 5. 新增变量时需选择【取值业务对象】和对应的字段属性。变量配置完成后，再回到模板中选择插入。
 
 > **注意**：选择模板时需先确认【模板常量适用范围】，选择正确的场景：
 > 
-> ![模板常量适用范围选择](./faq-message-template-variables-images/template-scope-selection.png)
+> ![模板常量适用范围选择](../images/faq/template-scope-selection.png)
 
 ### 第二步：确保业务实体中有对应字段
 

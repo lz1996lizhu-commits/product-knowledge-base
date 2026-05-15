@@ -29,7 +29,7 @@ updated: 2026-05-11
 
 ## 2 业务流程图
 
-![业务流程图](feature-internal-recruitment-images/01000ca16f0128a1461aac083ff25d015fcc.png)
+![业务流程图](../images/product/01000ca16f0128a1461aac083ff25d015fcc.png)
 
 ## 3 亮点特性
 
@@ -104,7 +104,7 @@ updated: 2026-05-11
 
 ## 5 本应用与其他应用的关联
 
-![应用关联图](feature-internal-recruitment-images/01006ba2e63a5709428285876c2640bc7c66.png)
+![应用关联图](../images/product/01006ba2e63a5709428285876c2640bc7c66.png)
 
 ## 相关条目
 

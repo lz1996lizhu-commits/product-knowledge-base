@@ -40,7 +40,7 @@ updated: 2026-05-11
 
 ## 暂停招聘职位
 
-![暂停招聘职位](feature-ir-position-images/01004b313599e6154021bcb62bb49235a31c.png)
+![暂停招聘职位](../images/product/01004b313599e6154021bcb62bb49235a31c.png)
 
 ### 1 操作应用场景
 
@@ -50,7 +50,7 @@ updated: 2026-05-11
 
 ## 完成/关闭招聘职位
 
-![完成/关闭招聘职位](feature-ir-position-images/01008b75b14d8e804a1a949c6777a5a97aa6.png)
+![完成/关闭招聘职位](../images/product/01008b75b14d8e804a1a949c6777a5a97aa6.png)
 
 ### 1 操作应用场景
 

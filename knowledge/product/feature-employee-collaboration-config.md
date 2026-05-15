@@ -42,7 +42,7 @@ updated: 2026-05-12
 
 ## 4.1 协作字段配置
 
-![](./feature-employee-collaboration-config-images/01003c4fbc1f049c4810a8b7ad2b5b99a4b6.png)
+![](../images/product/01003c4fbc1f049c4810a8b7ad2b5b99a4b6.png)
 
 ### 4.1.1 关键字段说明
 
@@ -74,7 +74,7 @@ updated: 2026-05-12
 
 ## 4.2 协作规则方案
 
-![](./feature-employee-collaboration-config-images/0100c1224c1645c941f58507fa380b6cb525.png)
+![](../images/product/0100c1224c1645c941f58507fa380b6cb525.png)
 
 ### 4.2.1协作字段默认取值规则说明
 
@@ -94,7 +94,7 @@ updated: 2026-05-12
 
 应用场景：例如，当员工调离某个部门或离职时，希望他们在原部门的档案上的某些信息（比如“管理部门”）保持不变（因为可能用户手动做过修改），而不是被规则覆盖或清空导致档案数据更新错误。可使用“已有档案保持原值”进行设置。
 
-![](./feature-employee-collaboration-config-images/01000e6af6ea7aee4dba97ec8ce4223e19b6.png)
+![](../images/product/01000e6af6ea7aee4dba97ec8ce4223e19b6.png)
 
 **4.2.2关键字段说明**
 
@@ -135,7 +135,7 @@ updated: 2026-05-12
 
 系统已预置“协作处理策略”，可根据实际情况调整或按【绩效管理组织】分开创建。
 
-![](./feature-employee-collaboration-config-images/0100bff50f05a0d14182afb4e01d5755a072.png)
+![](../images/product/0100bff50f05a0d14182afb4e01d5755a072.png)
 
 ### 4.3.1 关键字段说明
 
@@ -154,7 +154,7 @@ updated: 2026-05-12
 
 系统已预置“协作应用配置”，可根据实际情况调整或按【绩效管理组织】分开创建。
 
-![](./feature-employee-collaboration-config-images/0100903f7d34f7e0455ba1f6369eb1202bd9.png)
+![](../images/product/0100903f7d34f7e0455ba1f6369eb1202bd9.png)
 
 ### 4.4.1 关键字段说明
 
@@ -176,7 +176,7 @@ updated: 2026-05-12
 |开始时间|**业务含义：**维护调度计划的开始时间。
 需要设置“开始时间”并启用，员工变动记录才会自动生成。|
 
- ![](./feature-employee-collaboration-config-images/0100b55c35ec0e8c4a40960e97579e676291.png)
+ ![](../images/product/0100b55c35ec0e8c4a40960e97579e676291.png)
 
 ### 4.4新增协作场景应用配置
 
@@ -189,7 +189,7 @@ updated: 2026-05-12
 |最近拉取时间|业务含义：维护协作场景应用配置的最近拉取时间。
 维护为需要从哪个时间开始获取变动生成员工变动记录，员工变动记录才会自动生成。|
 
-![](./feature-employee-collaboration-config-images/0100b819c6e91db2458585fc2a74d44216aa.png)
+![](../images/product/0100b819c6e91db2458585fc2a74d44216aa.png)
 
 ## 5变更记录
 

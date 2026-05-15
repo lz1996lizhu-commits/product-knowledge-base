@@ -27,7 +27,7 @@ updated: 2026-05-13
 
 4.1 新增认证组角色
 
-![上传图片](feature-certification-group-images/01002d2fd22a21cd4786ac18bbde236aa5e4.png)
+![上传图片](../images/product/01002d2fd22a21cd4786ac18bbde236aa5e4.png)
 
 4.1.1 关键字段说明
 
@@ -44,9 +44,9 @@ updated: 2026-05-13
 
 4.2 新增认证组
 
-![上传图片](feature-certification-group-images/01009727e70b9cac46b28c5176acb8187d73.png)
+![上传图片](../images/product/01009727e70b9cac46b28c5176acb8187d73.png)
 
-![上传图片](feature-certification-group-images/01007f88a8bc26fb46c5b58ef1dbcc0d13ba.png)
+![上传图片](../images/product/01007f88a8bc26fb46c5b58ef1dbcc0d13ba.png)
 
 4.2.1 关键字段说明
 
@@ -56,7 +56,7 @@ updated: 2026-05-13
 
 4.3 新增认证组成员
 
-![上传图片](feature-certification-group-images/0100c3ea6c94d52141ec976633d76ac8db14.png)
+![上传图片](../images/product/0100c3ea6c94d52141ec976633d76ac8db14.png)
 
 4.3.1 关键字段说明
 

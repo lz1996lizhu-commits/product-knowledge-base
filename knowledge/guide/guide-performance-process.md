@@ -27,7 +27,7 @@ updated: 2026-05-12
 
 **4.1新增绩效流程**
 
-![](./guide-performance-process-images/0100cf2cdf4c0a0f474a91fc99bbc4885ff2.png)
+![](../images/guide/0100cf2cdf4c0a0f474a91fc99bbc4885ff2.png)
 
 **4.1.1关键字段说明**
 
@@ -146,15 +146,15 @@ updated: 2026-05-12
 
 指标制定流程配置：
 
-![](./guide-performance-process-images/010013750e887e834a6699c2048ffdf837c3.png)
+![](../images/guide/010013750e887e834a6699c2048ffdf837c3.png)
 
 绩效评估流程配置：
 
-![](./guide-performance-process-images/0100be3605a381dc4ab3ad6fd8fab9bc70b1.png)
+![](../images/guide/0100be3605a381dc4ab3ad6fd8fab9bc70b1.png)
 
 绩效面谈流程配置：
 
-![](./guide-performance-process-images/0100a976c12cc95a4a52b3d89a52014f05f5.png)
+![](../images/guide/0100a976c12cc95a4a52b3d89a52014f05f5.png)
 
 ### 5变更记录
 

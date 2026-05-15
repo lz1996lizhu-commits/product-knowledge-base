@@ -25,9 +25,9 @@ updated: 2026-05-13
 
 4.1 新增能力等级方案
 
-![上传图片](feature-competency-management-images/0100c4bc4e74cb8243739f61a0aacbf38db2.png)
+![上传图片](../images/product/0100c4bc4e74cb8243739f61a0aacbf38db2.png)
 
-![上传图片](feature-competency-management-images/01001bee22d480f34dba96d44737c24ae255.png)
+![上传图片](../images/product/01001bee22d480f34dba96d44737c24ae255.png)
 
 4.1.1 关键字段说明
 
@@ -38,9 +38,9 @@ updated: 2026-05-13
 
 4.2 新增能力素质维度
 
-![上传图片](feature-competency-management-images/0100d8c74182d5814dac908f0a6fefaf7cc1.png)
+![上传图片](../images/product/0100d8c74182d5814dac908f0a6fefaf7cc1.png)
 
-![上传图片](feature-competency-management-images/01005a5895ad57874707949d3f1c0b8f1f63.png)
+![上传图片](../images/product/01005a5895ad57874707949d3f1c0b8f1f63.png)
 
 4.2.1 关键字段说明
 
@@ -50,11 +50,11 @@ updated: 2026-05-13
 
 4.3 新增能力素质项
 
-![上传图片](feature-competency-management-images/0100785a22620085475b8c1ef010310088da.png)
+![上传图片](../images/product/0100785a22620085475b8c1ef010310088da.png)
 
-![上传图片](feature-competency-management-images/0100103b0b83d9f441ca9a15b3f217b42aa0.png)
+![上传图片](../images/product/0100103b0b83d9f441ca9a15b3f217b42aa0.png)
 
-![上传图片](feature-competency-management-images/010085dfebeccd1345eea47f915c5384c507.png)
+![上传图片](../images/product/010085dfebeccd1345eea47f915c5384c507.png)
 
 4.3.1 关键字段说明
 
@@ -65,11 +65,11 @@ updated: 2026-05-13
 
 4.4 新增能力素质库
 
-![上传图片](feature-competency-management-images/0100a20410922bcf471aaf6ccec5ffaed144.png)
+![上传图片](../images/product/0100a20410922bcf471aaf6ccec5ffaed144.png)
 
-![上传图片](feature-competency-management-images/010028992b90655348de815817e7d17a52fb.png)
+![上传图片](../images/product/010028992b90655348de815817e7d17a52fb.png)
 
-![上传图片](feature-competency-management-images/0100aaef4a46381f4bd5aa735f314e5f7d9b.png)
+![上传图片](../images/product/0100aaef4a46381f4bd5aa735f314e5f7d9b.png)
 
 4.4.1 关键字段说明
 

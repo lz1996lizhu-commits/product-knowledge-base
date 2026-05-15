@@ -43,7 +43,7 @@ updated: 2026-05-12
 适用场景：此功能适用于针对特定评估对象调整处理人的场景。若流程内系统标准角色已默认带出准确的处理人，则无需使用此功能。|
 ||
 
-![上传图片](./feature-performance-evaluation-images/0100b0d9a2da02a043159dbc8ba4a9ef31f8.png)
+![上传图片](../images/product/0100b0d9a2da02a043159dbc8ba4a9ef31f8.png)
 
 ## 4.2 启动绩效评估
 
@@ -57,7 +57,7 @@ updated: 2026-05-12
 适用场景：评估对象无需执行绩效评估流程，适用类似入职时间晚，或孕产假期间，不参与绩效评估的场景|
 ||
 
-![上传图片](./feature-performance-evaluation-images/0100c360c83e6997468e94fbebf2e184ae2a.png)
+![上传图片](../images/product/0100c360c83e6997468e94fbebf2e184ae2a.png)
 
 ## 4.3 导入指标得分
 
@@ -65,7 +65,7 @@ updated: 2026-05-12
 
 针对评估对象直接导入指标得分，适用于在指标制定环节，指标评分方式为后台导入的指标，导入后指标分数将在流程内不可修改。
 
-![上传图片](./feature-performance-evaluation-images/01001e1a0e891c994ed282c01b4e1705d7b3.png)
+![上传图片](../images/product/01001e1a0e891c994ed282c01b4e1705d7b3.png)
 
 ## 5 绩效评估-评估中
 
@@ -111,9 +111,9 @@ updated: 2026-05-12
 适用场景：任务的处理人由于出差或特定原因，无法处理该任务，可由协办人代处理，系统将留下协办记录。|
 |删除协办人|删除该任务的协办人。|
 
-![上传图片](./feature-performance-evaluation-images/0100447278461db34e00896184cc3afb0f0d.png)
+![上传图片](../images/product/0100447278461db34e00896184cc3afb0f0d.png)
 
-![上传图片](./feature-performance-evaluation-images/01009e67cb572ede45329e415af699f19ad7.png)
+![上传图片](../images/product/01009e67cb572ede45329e415af699f19ad7.png)
 
 ## 6 绩效评估-已完成
 
@@ -123,7 +123,7 @@ updated: 2026-05-12
 
 特定原因下，针对已完成绩效评估的人员调整绩效结果。
 
-![上传图片](./feature-performance-evaluation-images/01000f71b23f9f114a008fa97759427cc3bc.png)
+![上传图片](../images/product/01000f71b23f9f114a008fa97759427cc3bc.png)
 
 ## 6.2 重置评估流程
 
@@ -131,7 +131,7 @@ updated: 2026-05-12
 
 针对绩效评估流程进行流程重置操作，适用于指标需重新评价，或是因人事变动原因导致流程需重新评价场景。
 
-![上传图片](./feature-performance-evaluation-images/01005481cee5c0e5433f9cd65c7cf8aba480.png)
+![上传图片](../images/product/01005481cee5c0e5433f9cd65c7cf8aba480.png)
 
 ## 6.3 录入评估结果
 
@@ -139,7 +139,7 @@ updated: 2026-05-12
 
 适用于未参与指标制定的员工，但需参与绩效评估后续流程的场景，可以直接添加员工并录入绩效结果。
 
-![上传图片](./feature-performance-evaluation-images/0100201c153a111447ce9e3930a12ecd9b3b.png)
+![上传图片](../images/product/0100201c153a111447ce9e3930a12ecd9b3b.png)
 
 ## 7 绩效评估任务
 
@@ -190,7 +190,7 @@ updated: 2026-05-12
 |分值范围|路径：评估表单
 基于评估表单上区域分值生成。|
 
-![上传图片](./feature-performance-evaluation-images/0100566a3fb5745c4d4a80e94def21538a2a.png)
+![上传图片](../images/product/0100566a3fb5745c4d4a80e94def21538a2a.png)
 
 ## 7.5 任务-按指标评分
 
@@ -215,7 +215,7 @@ updated: 2026-05-12
 启用则可针对每一个指标单独设置评估流程。|
 ||
 
-![上传图片](./feature-performance-evaluation-images/010058f7d14110dd4b5aa23e26b2d4f6447f.png)
+![上传图片](../images/product/010058f7d14110dd4b5aa23e26b2d4f6447f.png)
 
 ## 7.6 任务-评总分
 
@@ -234,7 +234,7 @@ updated: 2026-05-12
 |查看详情|点击详情图标，可查看指标以及其他评价人评估的详情记录。|
 ||
 
-![上传图片](./feature-performance-evaluation-images/0100857d2b9757dc420e86178739bdc85e40.png)
+![上传图片](../images/product/0100857d2b9757dc420e86178739bdc85e40.png)
 
 ## 7.7 任务-批量调整总分
 
@@ -251,4 +251,4 @@ updated: 2026-05-12
 |查看详情|点击详情图标，可查看指标以及其他评价人评估的详情记录。|
 ||
 
-![上传图片](./feature-performance-evaluation-images/010052b51b3b820c4aa68c74fb0df230c782.png)
+![上传图片](../images/product/010052b51b3b820c4aa68c74fb0df230c782.png)

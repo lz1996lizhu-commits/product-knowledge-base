@@ -33,7 +33,7 @@ updated: 2026-05-12
 
 ②等级规则（不需要评等级时，可不配置）
 
-![](./guide-evaluation-form-images/0100b71b75fed4dd469186981aa8335a26b2.png)
+![](../images/guide/0100b71b75fed4dd469186981aa8335a26b2.png)
 
 **4.1.1关键字段说明**
 
@@ -117,7 +117,7 @@ updated: 2026-05-12
 |**评估表单-区域信息-附加信息区：**
 附加信息区用于承接按指标拆分关键举措与里程碑业务，本身不参与评价、评分。|
 
-![](./guide-evaluation-form-images/0100c52e0d2a60f9449fa48ab7021f4a8ccb.png)
+![](../images/guide/0100c52e0d2a60f9449fa48ab7021f4a8ccb.png)
 
 **4.1.2配置应用场景**
 

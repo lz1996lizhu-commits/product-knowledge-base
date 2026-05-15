@@ -46,7 +46,7 @@ HR端操作：
 1.  待启动：支持对单个或多个评估对象启动确认，启动后系统将向对应被考核员工发送结果确认待办任务，员工可在待办中查看并处理。
     
 
-![上传图片](./feature-result-confirmation-images/0100f3a66e09ffa44dc2a182658e62295a2e.png)
+![上传图片](../images/product/0100f3a66e09ffa44dc2a182658e62295a2e.png)
 
 2.  确认中：
     
@@ -59,12 +59,12 @@ HR端操作：
     -   针对绩效工作流异常挂起的待办任务（找不到处理人或处理人已离职），列表中的确认状态显示为已终止，可在后台结束异常的绩效结果确认。
         
 
-![上传图片](./feature-result-confirmation-images/010080cc258b9f384dadbb53dcce09bfca69.png)
+![上传图片](../images/product/010080cc258b9f384dadbb53dcce09bfca69.png)
 
 3.  已完成：支持查看所有员工结果确认的最终状态，可查询单个或批量员工的确认反馈结果，完成结果确认情况的统计与核对。
     
 
-![上传图片](./feature-result-confirmation-images/0100aa54066dc3dd4791af42f677e2d31f2c.png)
+![上传图片](../images/product/0100aa54066dc3dd4791af42f677e2d31f2c.png)
 
 员工端操作：
 
@@ -77,7 +77,7 @@ HR端操作：
 -   选择不认同，流程暂存，等待考核负责人协商绩效结果后重新发起确认。
     
 
-![上传图片](./feature-result-confirmation-images/01001b7926a0fcd6490783027d1b309c1609.png)
+![上传图片](../images/product/01001b7926a0fcd6490783027d1b309c1609.png)
 
 ### 4.2 操作应用场景
 

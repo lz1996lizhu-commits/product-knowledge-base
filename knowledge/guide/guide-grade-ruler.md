@@ -29,7 +29,7 @@ updated: 2026-05-12
 
 **4.1新增等级标尺**
 
-![](./guide-grade-ruler-images/01007c4c7160d5484007be7580f2158e2c2e.png)
+![](../images/guide/01007c4c7160d5484007be7580f2158e2c2e.png)
 
 **4.1.1关键字段说明**
 

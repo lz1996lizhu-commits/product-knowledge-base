@@ -37,7 +37,7 @@ updated: 2026-05-12
 
 ##### 4.1.1 新增绩效面谈活动（关联考核活动）
 
-![上传图片](./feature-performance-interview-images/0100630c08f34c4f46d2acc38da98dab6104.png)
+![上传图片](../images/product/0100630c08f34c4f46d2acc38da98dab6104.png)
 
 1\. 在面谈活动列表页点击「新增」按钮，进入【新增绩效面谈活动】页面，填写必填项：绩效管理组织、所属行政组织、编码、名称、面谈年份、面谈周期、起止日期等基本信息；
 
@@ -55,9 +55,9 @@ updated: 2026-05-12
 
 3\. 处理人配置完成后，确认并保存，完成面谈流程的人员权限设置。
 
-![上传图片](./feature-performance-interview-images/01006149afa973204c3aa77de1af1bebe626.png)
+![上传图片](../images/product/01006149afa973204c3aa77de1af1bebe626.png)
 
-![上传图片](./feature-performance-interview-images/0100674fcd8111354f489f9780243a753ee5.png)
+![上传图片](../images/product/0100674fcd8111354f489f9780243a753ee5.png)
 
 ##### 4.1.3 启动绩效面谈（单/批量）
 
@@ -67,9 +67,9 @@ updated: 2026-05-12
 
 3\. 启动后，面谈对象的状态将从“待面谈”流转至“面谈中”。
 
-![上传图片](./feature-performance-interview-images/01002e5fe867f8464b8fac59ca58f87b807c.png)
+![上传图片](../images/product/01002e5fe867f8464b8fac59ca58f87b807c.png)
 
-![上传图片](./feature-performance-interview-images/010013009bb543e44f8c84b4f627a03a77a7.png)
+![上传图片](../images/product/010013009bb543e44f8c84b4f627a03a77a7.png)
 
 ##### 4.1.4 面谈流程监控与异常处理
 
@@ -85,9 +85,9 @@ updated: 2026-05-12
 
 (4) 重置面谈流程：对流程异常的面谈任务，重置后重新启动，使其恢复正常流程；
 
-(5) 点击「结束面谈」，可对已完成面谈且无需后续操作的任务手动终止流程，使其状态流转至「已完成」。![](./feature-performance-interview-images/5252637a-62ac-4c95-91ce-eea75a69a579.png)
+(5) 点击「结束面谈」，可对已完成面谈且无需后续操作的任务手动终止流程，使其状态流转至「已完成」。![](../images/product/5252637a-62ac-4c95-91ce-eea75a69a579.png)
 
-![上传图片](./feature-performance-interview-images/0100a94ab912b8634ed09e8c9c78cfbc7c68.png)
+![上传图片](../images/product/0100a94ab912b8634ed09e8c9c78cfbc7c68.png)
 
 ##### 4.1.5 面谈结果查看
 
@@ -95,9 +95,9 @@ updated: 2026-05-12
 
 2\. 进入对应员工的面谈详情页，展示面谈全流程数据及面谈表填写内容，支持后续查询与统计，为绩效改进和人力决策提供依据。
 
-![上传图片](./feature-performance-interview-images/01008295e58814044b729ba13323da0a8b71.png)
+![上传图片](../images/product/01008295e58814044b729ba13323da0a8b71.png)
 
-![上传图片](./feature-performance-interview-images/010049bf1f5549ba4c05a77d80b7cd5e7df2.png)
+![上传图片](../images/product/010049bf1f5549ba4c05a77d80b7cd5e7df2.png)
 
 ### 4.2 操作应用场景
 

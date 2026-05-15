@@ -46,11 +46,11 @@ updated: 2026-05-12
 
 注意：防止角色重名，以免使用时引发混乱
 
-![](./guide-role-type-images/010069585579188f4eacac2d2897d89ee613.png)
+![](../images/guide/010069585579188f4eacac2d2897d89ee613.png)
 
 角色类型使用的路径：“基础配置>绩效流程>指标制定/绩效评估/绩效面谈>新增流程>角色类型”。详见<绩效流程>文档。
 
-![](./guide-role-type-images/010091d37178d3a843bea33ee64f3382408d.png)
+![](../images/guide/010091d37178d3a843bea33ee64f3382408d.png)
 
 ### 5 变更记录
 

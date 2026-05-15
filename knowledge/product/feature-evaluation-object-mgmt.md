@@ -56,4 +56,4 @@ updated: 2026-05-12
 适用场景：人员离职，或孕产假等场景导致无需参与绩效活动|
 |重新加入考核活动|将退出活动的人员重新加入考核活动，被加入的人员将初始化状态，重新开始完整的绩效流程|
 
-![上传图片](./feature-evaluation-object-mgmt-images/0100b96dd657f1ab4fd994ebb69f9624a6df.png)
+![上传图片](../images/product/0100b96dd657f1ab4fd994ebb69f9624a6df.png)

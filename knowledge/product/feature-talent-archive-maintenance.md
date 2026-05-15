@@ -63,7 +63,7 @@ updated: 2026-05-13
 4.  如选择"选人"方式，在员工F7中选择需要创建档案的员工。
     
 
-![上传图片](feature-talent-archive-maintenance-images/0100ade695abaaf749b79af21b3684bae954.png)
+![上传图片](../images/product/0100ade695abaaf749b79af21b3684bae954.png)
 
 **第二步：确认名单并创建档案**
 
@@ -80,7 +80,7 @@ updated: 2026-05-13
 4.  确认无误后，点击【创建档案】按钮，系统将按待执行列表批量创建人才档案。
     
 
-![上传图片](feature-talent-archive-maintenance-images/010060b3fedc1f3a409ca367af4c98591ba4.png)
+![上传图片](../images/product/010060b3fedc1f3a409ca367af4c98591ba4.png)
 
 ### 4.1.3 关键字段说明
 
@@ -154,7 +154,7 @@ updated: 2026-05-13
 4.  如选择"选人"方式，在员工F7中选择需要失效档案的员工。
     
 
-![上传图片](feature-talent-archive-maintenance-images/0100d83aaba037b1413bb8a04bfc53570886.png)
+![上传图片](../images/product/0100d83aaba037b1413bb8a04bfc53570886.png)
 
 **第二步：确认名单并失效档案**
 
@@ -171,7 +171,7 @@ updated: 2026-05-13
 5.  确认无误后，点击【失效档案】按钮，系统将按待执行列表中的档案批量执行失效操作。
     
 
-![上传图片](feature-talent-archive-maintenance-images/0100544bc2c5c8f249c79fba52de09a32541.png)
+![上传图片](../images/product/0100544bc2c5c8f249c79fba52de09a32541.png)
 
 ### 4.2.3 关键字段说明
 

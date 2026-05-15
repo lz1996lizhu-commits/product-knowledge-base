@@ -51,11 +51,11 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![部署集成方案1](guide-moka-integration-images/0100aa6a49f0e5274195adb07f0cd4f3203b.png)
+![部署集成方案1](../images/guide/0100aa6a49f0e5274195adb07f0cd4f3203b.png)
 
-![部署集成方案2](guide-moka-integration-images/0100af639938ee394b8981030b45e7cfc6dc.png)
+![部署集成方案2](../images/guide/0100af639938ee394b8981030b45e7cfc6dc.png)
 
-![部署集成方案3](guide-moka-integration-images/0100ab373aed576c41ce90cb014fbd124a14.png)
+![部署集成方案3](../images/guide/0100ab373aed576c41ce90cb014fbd124a14.png)
 
 ##### 2.2.1.2 启用WebAPI
 
@@ -68,7 +68,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![启用WebAPI](guide-moka-integration-images/0100b592f73e3437468e955def33b4cb1b94.png)
+![启用WebAPI](../images/guide/0100b592f73e3437468e955def33b4cb1b94.png)
 
 ##### 2.2.1.3 启用苍穹微服务
 
@@ -81,7 +81,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![启用苍穹微服务](guide-moka-integration-images/010085a25e36d66b4146aeb770219462153f.png)
+![启用苍穹微服务](../images/guide/010085a25e36d66b4146aeb770219462153f.png)
 
 ##### 2.2.1.4 发布服务流程
 
@@ -94,7 +94,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![发布服务流程](guide-moka-integration-images/0100725575126200481ebfb8400650433feb.png)
+![发布服务流程](../images/guide/0100725575126200481ebfb8400650433feb.png)
 
 #### 2.2.2 连接配置
 
@@ -117,9 +117,9 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![新增Moka连接1](guide-moka-integration-images/0100ead904aa69ec4759a0d922ca16a7693a.png)
+![新增Moka连接1](../images/guide/0100ead904aa69ec4759a0d922ca16a7693a.png)
 
-![新增Moka连接2](guide-moka-integration-images/0100797b6dfe149a4ba68a1634308a36d0f8.png)
+![新增Moka连接2](../images/guide/0100797b6dfe149a4ba68a1634308a36d0f8.png)
 
 ##### 2.2.2.2 新增"当前账套"连接配置
 
@@ -132,9 +132,9 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![新增当前账套连接1](guide-moka-integration-images/010074ca6ca973d841a5a76295fb6e9c0beb.png)
+![新增当前账套连接1](../images/guide/010074ca6ca973d841a5a76295fb6e9c0beb.png)
 
-![新增当前账套连接2](guide-moka-integration-images/010005c8bba29ee041b9bd7237bfac87e809.png)
+![新增当前账套连接2](../images/guide/010005c8bba29ee041b9bd7237bfac87e809.png)
 
 ##### 2.2.2.4 修改数据源
 
@@ -148,9 +148,9 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![修改数据源1](guide-moka-integration-images/0100a607a1fedad241cfb0a0e5e73b517645.png)
+![修改数据源1](../images/guide/0100a607a1fedad241cfb0a0e5e73b517645.png)
 
-![修改数据源2](guide-moka-integration-images/01005763fd1b7b394f58af6c5010a7c57daf.png)
+![修改数据源2](../images/guide/01005763fd1b7b394f58af6c5010a7c57daf.png)
 
 #### 2.2.3 调度任务配置
 
@@ -162,7 +162,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![调度任务配置](guide-moka-integration-images/01002dd54756868e483fa8f6dd367a2cf6f7.png)
+![调度任务配置](../images/guide/01002dd54756868e483fa8f6dd367a2cf6f7.png)
 
 #### 2.2.4 生态租户配置
 
@@ -172,9 +172,9 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![生态租户配置1](guide-moka-integration-images/0100a3da4b9dd7b64941b1914b40e98b6f05.png)
+![生态租户配置1](../images/guide/0100a3da4b9dd7b64941b1914b40e98b6f05.png)
 
-![生态租户配置2](guide-moka-integration-images/01003f44c2a724c5494e8017baf1d5c6d4de.png)
+![生态租户配置2](../images/guide/01003f44c2a724c5494e8017baf1d5c6d4de.png)
 
 #### 2.2.5 第三方应用注册
 
@@ -189,7 +189,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![第三方应用注册](guide-moka-integration-images/0100dd4c40b379f24202b874d87f34038a98.png)
+![第三方应用注册](../images/guide/0100dd4c40b379f24202b874d87f34038a98.png)
 
 #### 2.2.6 Moka功能开发与配置
 
@@ -201,7 +201,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![获取接口地址](guide-moka-integration-images/01005cc37d63732f4dd8b3b81b95cdf40d75.png)
+![获取接口地址](../images/guide/01005cc37d63732f4dd8b3b81b95cdf40d75.png)
 
 ##### 2.2.6.2 获取"sendSysMsgs"接口地址
 
@@ -220,7 +220,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![获取sendSysMsgs接口](guide-moka-integration-images/0100d492c8698bae4efe9b9d6b0920d6989e.png)
+![获取sendSysMsgs接口](../images/guide/0100d492c8698bae4efe9b9d6b0920d6989e.png)
 
 ##### 2.2.6.3 Moka导入功能开发与配置
 
@@ -248,7 +248,7 @@ updated: 2026-05-11
 
 **功能截图：**
 
-![API调用测试](guide-moka-integration-images/0100d729e8d9441842c3957145a0eb365de3.png)
+![API调用测试](../images/guide/0100d729e8d9441842c3957145a0eb365de3.png)
 
 ##### 2.2.7.2 Postman调用测试
 

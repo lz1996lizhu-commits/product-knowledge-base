@@ -57,9 +57,9 @@ updated: 2026-05-12
 4.  手动输入该员工的综合绩效得分，选择综合绩效等级，确认信息无误后点击保存。
     
 
-![上传图片](./feature-performance-result-images/01007e190650180b4e04923d922a0ae05281.png)
+![上传图片](../images/product/01007e190650180b4e04923d922a0ae05281.png)
 
-![上传图片](./feature-performance-result-images/0100e45b28b880b343ab9b69dc2aabadd716.png)
+![上传图片](../images/product/0100e45b28b880b343ab9b69dc2aabadd716.png)
 
 ##### 4.1.2 绩效结果批量导入（含历史绩效数据）
 
@@ -74,9 +74,9 @@ updated: 2026-05-12
 5.  导入完成后，可在列表页查看导入的绩效结果。
     
 
-![上传图片](./feature-performance-result-images/01009438669f7f504445ba14cea2c0e0c17f.png)
+![上传图片](../images/product/01009438669f7f504445ba14cea2c0e0c17f.png)
 
-![上传图片](./feature-performance-result-images/010001faba2b3d1a4d36a3b62a6db4eaab37.png)
+![上传图片](../images/product/010001faba2b3d1a4d36a3b62a6db4eaab37.png)
 
 ### 4.2 操作应用场景
 

@@ -33,7 +33,7 @@ updated: 2026-05-12
 
 **4.1** **新增评分分制**
 
-![](./guide-scoring-scale-images/0100086eecc7b02e45e1bcca90fa47515252.png)
+![](../images/guide/0100086eecc7b02e45e1bcca90fa47515252.png)
 
 **4.1.1** **关键字段说明**
 

@@ -37,7 +37,7 @@ updated: 2026-05-11
 
 ## 获取变动进展
 
-![获取变动进展](feature-ir-hire-application-images/0100dd1feffcddc94740bff71d982d855b23.png)
+![获取变动进展](../images/product/0100dd1feffcddc94740bff71d982d855b23.png)
 
 ### 1 操作应用场景
 
