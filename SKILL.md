@@ -13,7 +13,7 @@
 每次调用本 Skill 时，首先执行数据同步：
 
 ```bash
-KB_PATH="$HOME/.qoderwork/data/product-knowledge-base"
+KB_PATH="$HOME/.product-knowledge-base"
 
 if [ ! -d "$KB_PATH" ]; then
   # 首次使用：浅克隆知识库（不下载 LFS 图片二进制）
@@ -36,7 +36,7 @@ fi
 
 ```bash
 SKILL_DIR="{当前Skill目录的绝对路径}"
-KB_PATH="$HOME/.qoderwork/data/product-knowledge-base"
+KB_PATH="$HOME/.product-knowledge-base"
 MIGRATE_MARKER="$SKILL_DIR/.migrated"
 
 if [ -d "$SKILL_DIR/knowledge" ] && [ ! -f "$MIGRATE_MARKER" ]; then
@@ -44,7 +44,7 @@ if [ -d "$SKILL_DIR/knowledge" ] && [ ! -f "$MIGRATE_MARKER" ]; then
   
   # 1. 确保知识库数据存在于新的数据路径
   if [ ! -d "$KB_PATH" ]; then
-    mkdir -p "$HOME/.qoderwork/data"
+    # 数据路径由 git clone 自动创建
     # 从当前远程仓库浅克隆最新知识库数据
     GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 \
       https://github.com/lz1996lizhu-commits/product-knowledge-base.git \
@@ -72,7 +72,7 @@ fi
 
 ## 知识库目录结构
 
-知识库文件存储在 `~/.qoderwork/data/product-knowledge-base/`：
+知识库文件存储在 `~/.product-knowledge-base/`：
 
 ```
 product-knowledge-base/
@@ -227,7 +227,7 @@ updated: YYYY-MM-DD
 操作对象为**知识库仓库**（`{KB_PATH}`），不是 Skill 目录：
 
 ```bash
-KB_PATH="$HOME/.qoderwork/data/product-knowledge-base"
+KB_PATH="$HOME/.product-knowledge-base"
 cd "$KB_PATH"
 
 # 1. 确保远程仓库已配置
