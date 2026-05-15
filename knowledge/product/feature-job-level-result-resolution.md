@@ -25,7 +25,7 @@ updated: 2026-05-13
 
 #### **4.1 结果决议**
 
-![上传图片](%E7%BB%93%E6%9E%9C%E5%86%B3%E8%AE%AE/0100e27c56ab3dc34c61aeaf0aa66cdfd0ed.png)
+![上传图片](../images/product/0100e27c56ab3dc34c61aeaf0aa66cdfd0ed.png)
 
 ##### **4.1.1 操作应用场景**
 

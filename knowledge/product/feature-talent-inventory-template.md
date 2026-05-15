@@ -25,9 +25,9 @@ updated: 2026-05-14
 
 **4.1 新增盘点活动模板**
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E6%A8%A1%E6%9D%BF/01091aa69b973ee94a1babdbb855c81f15fb.png)
+![](../images/product/01091aa69b973ee94a1babdbb855c81f15fb.png)
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E6%A8%A1%E6%9D%BF/0109a31607b88e1f4586b8586f0cc6341658.png)
+![](../images/product/0109a31607b88e1f4586b8586f0cc6341658.png)
 
 **4.1.1 页面构成说明**
 
