@@ -17,7 +17,7 @@ updated: 2026-05-14
 
 **1.2 产品结构图**
 
-![上传图片](%E4%BA%BA%E6%89%8D%E7%9B%98%E7%82%B9%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/0100b7e94939316f4b1f9cfa43b3966fea64.png)
+![上传图片](../images/product/0100b7e94939316f4b1f9cfa43b3966fea64.png)
 
 **1.3 业务场景**
 
@@ -25,7 +25,7 @@ updated: 2026-05-14
 
 **2 业务流程图**
 
-![上传图片](%E4%BA%BA%E6%89%8D%E7%9B%98%E7%82%B9%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/01004d0b19e010e14073b67f556df1041699.png)
+![上传图片](../images/product/01004d0b19e010e14073b67f556df1041699.png)
 
 **3 亮点特性**
 
@@ -40,7 +40,7 @@ updated: 2026-05-14
     更新截图
     
 
-![](%E4%BA%BA%E6%89%8D%E7%9B%98%E7%82%B9%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/0109e1993b6595394c9686b195ebf20d0578.png)
+![](../images/product/0109e1993b6595394c9686b195ebf20d0578.png)
 
 **3.2 协作管理，支撑统分有序的过程管理**
 
@@ -53,7 +53,7 @@ updated: 2026-05-14
     更新截图
     
 
-![](%E4%BA%BA%E6%89%8D%E7%9B%98%E7%82%B9%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/010982f638d0014a4cb582eb798b7f6530b3.png)
+![](../images/product/010982f638d0014a4cb582eb798b7f6530b3.png)
 
 **3.3 拖拽校准，辅助可视、高效在线校准**
 
@@ -70,7 +70,7 @@ updated: 2026-05-14
     更新截图
     
 
-**![](%E4%BA%BA%E6%89%8D%E7%9B%98%E7%82%B9%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/01095808b007ab744e2a8a27ad0215fbc5aa.png)**
+**![](../images/product/01095808b007ab744e2a8a27ad0215fbc5aa.png)**
 
 **4 功能清单**
 
@@ -97,4 +97,4 @@ updated: 2026-05-14
 
 **5 本应用与其他应用的关联**
 
-![](%E4%BA%BA%E6%89%8D%E7%9B%98%E7%82%B9%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/0109ac9c6f6b373b43dc846f84b4aaecce70.png)
+![](../images/product/0109ac9c6f6b373b43dc846f84b4aaecce70.png)
