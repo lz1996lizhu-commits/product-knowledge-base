@@ -75,6 +75,7 @@
 | product/feature-talent-inventory-template.md | 盘点活动模板 | 人才盘点,盘点活动模板,模板配置 | 2026-05-14 |
 | product/feature-talent-inventory-evaluation-scheme.md | 盘点维度评估方案 | 人才盘点,盘点维度,评估方案,基础配置 | 2026-05-14 |
 | product/feature-talent-inventory-evaluation-item.md | 评估项 | 人才盘点,评估项,基础配置 | 2026-05-14 |
+| product/feature-cadre-management.md | 干部管理整体介绍 | 干部管理,整体介绍,人才发展云,任免流程,任期管理 | 2026-05-09 |
 
 ## 业务流程 (business)
 
@@ -127,3 +128,16 @@
 | guide/guide-talent-inventory-process.md | 盘点活动：盘点过程 | 人才盘点,盘点过程,操作指南 | 2026-05-14 |
 | guide/guide-talent-inventory-calibration.md | 盘点活动：在线校准 | 人才盘点,在线校准,校准会,操作指南 | 2026-05-14 |
 | guide/guide-talent-inventory-grouping.md | 手把手教学，助你清晰划分盘点组 | 人才盘点,盘点组,操作指南 | 2026-05-14 |
+| guide/guide-cadre-deliberation.md | 酝酿动议 | 干部管理,酝酿动议,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-appointment-nomination.md | 任命提名 | 干部管理,任命提名,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-investigation.md | 考察 | 干部管理,考察,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-investigation-collaboration.md | 考察协作 | 干部管理,考察协作,考察,操作指南 | 2026-05-09 |
+| guide/guide-cadre-evaluation.md | 评议 | 干部管理,评议,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-evaluation-collaboration.md | 评议协作 | 干部管理,评议协作,评议,操作指南 | 2026-05-09 |
+| guide/guide-cadre-publicity.md | 公示 | 干部管理,公示,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-publication.md | 发布 | 干部管理,发布,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-dismissal.md | 免职申请 | 干部管理,免职申请,任免流程,操作指南 | 2026-05-09 |
+| guide/guide-cadre-term.md | 干部任期 | 干部管理,干部任期,任期管理,操作指南 | 2026-05-09 |
+| guide/guide-cadre-probation.md | 干部试用及转正 | 干部管理,试用期,转正,操作指南 | 2026-05-09 |
+| guide/guide-cadre-probation-investigation.md | 转正考察及协作 | 干部管理,转正考察,考察协作,操作指南 | 2026-05-09 |

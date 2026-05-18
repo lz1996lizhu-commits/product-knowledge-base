@@ -125,6 +125,19 @@
 
 ### 操作指南
 - guide/guide-interviewer.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-evaluation-collaboration.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-dismissal.md
+- guide/guide-cadre-term.md
+- guide/guide-cadre-probation.md
+- guide/guide-cadre-probation-investigation.md
 - guide/guide-performance-indicators.md
 - guide/guide-talent-inventory-calibration.md
 - guide/guide-talent-inventory-create-activity.md
@@ -229,6 +242,9 @@
 
 ## 发
 
+### 发布
+- guide/guide-cadre-publication.md
+
 ### 发起入职
 - product/feature-express-onboard-application.md
 
@@ -244,8 +260,25 @@
 
 ## 干
 
+### 干部任期
+- guide/guide-cadre-term.md
+
 ### 干部管理
 - product/feature-talent-development.md
+- product/feature-cadre-management.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-evaluation-collaboration.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-dismissal.md
+- guide/guide-cadre-term.md
+- guide/guide-cadre-probation.md
+- guide/guide-cadre-probation-investigation.md
 
 ## 个
 
@@ -507,6 +540,15 @@
 - product/feature-job-level-overview.md
 
 ## 考
+
+### 考察
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-probation-investigation.md
+
+### 考察协作
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-probation-investigation.md
 
 ### 考核活动
 - product/feature-assessment-completion.md
@@ -774,6 +816,13 @@
 
 ## 评
 
+### 评议
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-evaluation-collaboration.md
+
+### 评议协作
+- guide/guide-cadre-evaluation-collaboration.md
+
 ### 评定过程配置
 - product/feature-job-level-application-materials.md
 - product/feature-job-level-review-method.md
@@ -891,6 +940,7 @@
 
 ### 人才发展云
 - product/feature-job-level-overview.md
+- product/feature-cadre-management.md
 
 ### 人才供应
 - product/feature-talent-supply.md
@@ -957,6 +1007,24 @@
 - product/feature-certification-group.md
 
 ## 任
+
+### 任免流程
+- product/feature-cadre-management.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-dismissal.md
+
+### 任命提名
+- guide/guide-cadre-appointment-nomination.md
+
+### 任期管理
+- product/feature-cadre-management.md
+- guide/guide-cadre-term.md
 
 ### 任职经历
 - product/feature-talent-archive-overview.md
@@ -1269,6 +1337,9 @@
 ## 整
 
 ### 整体介绍
+- product/feature-cadre-management.md
+
+### 整体介绍
 - product/feature-performance-overview.md
 - product/feature-talent-inventory-overview.md
 
@@ -1357,6 +1428,12 @@
 
 ## 转
 
+### 转正
+- guide/guide-cadre-probation.md
+
+### 转正考察
+- guide/guide-cadre-probation-investigation.md
+
 ### 转职位
 - product/feature-ir-candidate.md
 
@@ -1366,6 +1443,9 @@
 - guide/guide-apply-progress-config.md
 
 ## 资
+
+### 资格审查
+- guide/guide-cadre-qualification-review.md
 
 ### 资料复核
 - product/feature-job-level-document-review.md
@@ -1384,3 +1464,23 @@
 
 ### 组织映射
 - product/feature-express-eco-tenant.md
+## 公
+
+### 公示
+- guide/guide-cadre-publicity.md
+
+## 免
+
+### 免职申请
+- guide/guide-cadre-dismissal.md
+
+## 试
+
+### 试用期
+- guide/guide-cadre-probation.md
+
+## 酝
+
+### 酝酿动议
+- guide/guide-cadre-deliberation.md
+
