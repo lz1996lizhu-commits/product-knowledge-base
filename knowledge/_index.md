@@ -99,6 +99,7 @@
 | faq/faq-homepage-scheme-missing.md | 首页方案数据在系统中不存在，可能已经被删除 | AI星瀚,人才星图,数据迁移,平台配置,栅栏视图 | 2026-05-14 |
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
+| faq/faq-performance-leave-evaluator.md | 离职人员参与绩效考核（设置评估人及自评节点处理） | 绩效考核,离职人员,设置评估人,评估对象,自评,标品变通 | 2026-05-18 |
 
 ## 操作指南 (guide)
 
