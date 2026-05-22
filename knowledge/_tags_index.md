@@ -1638,7 +1638,6 @@
 - product/feature-person-job-matching-agent.md
 
 
-
 <!-- ===== spec 分类标签（2026-05-26 新增）===== -->
 
 ## 测
@@ -1661,6 +1660,9 @@
 - spec/spec-talent-starmap.md
 
 ## 功
+
+### 宫格配置
+- faq/faq-talent-inventory-grid-types.md
 
 ### 功能规格
 - spec/spec-cadre-management.md
@@ -1832,4 +1834,3 @@
 
 ### 首页方案
 - spec/spec-talent-starmap.md
-
