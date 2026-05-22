@@ -14,14 +14,14 @@
 | product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述 | 2026-05-12 |
 | product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
 | product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
-| product/feature-evaluation-object-mgmt.md | 评估对象管理 | 评估对象,考核活动,考核组,考核责任人 | 2026-05-12 |
-| product/feature-indicator-setting.md | 指标制定 | 指标制定,绩效指标,KPI,考核活动 | 2026-05-12 |
-| product/feature-performance-evaluation.md | 绩效评估 | 绩效评估,绩效评价,考核活动,评分 | 2026-05-12 |
-| product/feature-result-summary.md | 结果汇总 | 结果汇总,绩效汇总,考核活动,绩效数据 | 2026-05-12 |
-| product/feature-result-confirmation.md | 结果确认 | 结果确认,绩效确认,考核活动,员工反馈 | 2026-05-12 |
-| product/feature-assessment-completion.md | 考核完成 | 考核完成,结果归档,绩效归档,考核活动 | 2026-05-12 |
-| product/feature-performance-interview.md | 绩效面谈 | 绩效面谈,面谈活动,绩效改进,考核活动 | 2026-05-12 |
-| product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-12 |
+| product/feature-evaluation-object-mgmt.md | 评估对象管理 | 评估对象,考核活动,考核组,考核责任人 | 2026-05-21 |
+| product/feature-indicator-setting.md | 指标制定 | 指标制定,绩效指标,KPI,考核活动 | 2026-05-21 |
+| product/feature-performance-evaluation.md | 绩效评估 | 绩效评估,绩效评价,考核活动,评分 | 2026-05-21 |
+| product/feature-result-summary.md | 结果汇总 | 结果汇总,绩效汇总,考核活动,绩效数据 | 2026-05-21 |
+| product/feature-result-confirmation.md | 结果确认 | 结果确认,绩效确认,考核活动,员工反馈 | 2026-05-21 |
+| product/feature-assessment-completion.md | 考核完成 | 考核完成,结果归档,绩效归档,考核活动 | 2026-05-21 |
+| product/feature-performance-interview.md | 绩效面谈 | 绩效面谈,面谈活动,绩效改进,考核活动 | 2026-05-20 |
+| product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
 | product/feature-my-performance.md | 我的绩效 | 我的绩效,员工自助,绩效查询,绩效结果 | 2026-05-12 |
 | product/feature-employee-change-overview.md | 员工变动协作方案整体介绍 | 员工变动,协作方案,绩效档案,人事变动 | 2026-05-12 |
 | product/feature-employee-change-processing.md | 员工变动处理 | 员工变动,变动处理,绩效档案,入职,调动,离职 | 2026-05-12 |
@@ -76,6 +76,9 @@
 | product/feature-talent-inventory-evaluation-scheme.md | 盘点维度评估方案 | 人才盘点,盘点维度,评估方案,基础配置 | 2026-05-14 |
 | product/feature-talent-inventory-evaluation-item.md | 评估项 | 人才盘点,评估项,基础配置 | 2026-05-14 |
 | product/feature-cadre-management.md | 干部管理整体介绍 | 干部管理,整体介绍,人才发展云,任免流程,任期管理 | 2026-05-09 |
+| product/feature-scoring-scale.md | 评分分制 | 评分分制,基础配置,绩效配置,分制 | 2026-05-21 |
+| product/feature-evaluation-form.md | 评估表单 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-20 |
+| product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | 人岗匹配,智能体,技能画像,AI,人才管理 | 2026-05-20 |
 
 ## 业务流程 (business)
 
