@@ -1484,3 +1484,156 @@
 ### 酝酿动议
 - guide/guide-cadre-deliberation.md
 
+
+## 评
+### 评分
+- product/feature-performance-evaluation.md
+
+### 评估表单
+- product/feature-evaluation-form.md
+
+### 评分分制
+- product/feature-scoring-scale.md
+
+### 评估对象
+- product/feature-evaluation-object-mgmt.md
+
+
+## 考
+### 考核活动
+- product/feature-evaluation-object-mgmt.md
+- product/feature-result-confirmation.md
+- product/feature-performance-evaluation.md
+- product/feature-result-summary.md
+- product/feature-assessment-completion.md
+- product/feature-indicator-setting.md
+- product/feature-performance-interview.md
+
+### 考核完成
+- product/feature-assessment-completion.md
+
+### 考核责任人
+- product/feature-evaluation-object-mgmt.md
+
+### 考核组
+- product/feature-evaluation-object-mgmt.md
+
+
+## 结
+### 结果管理
+- product/feature-performance-result.md
+
+### 结果归档
+- product/feature-assessment-completion.md
+
+### 结果汇总
+- product/feature-result-summary.md
+
+### 结果确认
+- product/feature-result-confirmation.md
+
+
+## 绩
+### 绩效改进
+- product/feature-performance-interview.md
+
+### 绩效归档
+- product/feature-assessment-completion.md
+
+### 绩效面谈
+- product/feature-performance-interview.md
+
+### 绩效配置
+- product/feature-scoring-scale.md
+- product/feature-evaluation-form.md
+
+### 绩效指标
+- product/feature-indicator-setting.md
+
+### 绩效汇总
+- product/feature-result-summary.md
+
+### 绩效结果
+- product/feature-performance-result.md
+
+### 绩效数据
+- product/feature-performance-result.md
+- product/feature-result-summary.md
+
+### 绩效评估
+- product/feature-performance-evaluation.md
+
+### 绩效评价
+- product/feature-performance-evaluation.md
+
+### 绩效确认
+- product/feature-result-confirmation.md
+
+
+## 员
+### 员工反馈
+- product/feature-result-confirmation.md
+
+
+## 历
+### 历史绩效
+- product/feature-performance-result.md
+
+
+## 指
+### 指标制定
+- product/feature-indicator-setting.md
+
+
+## A
+### AI
+- product/feature-person-job-matching-agent.md
+
+## B
+### BSC
+- product/feature-evaluation-form.md
+
+## K
+### KPI
+- product/feature-indicator-setting.md
+- product/feature-evaluation-form.md
+
+
+## 基
+### 基础配置
+- product/feature-scoring-scale.md
+- product/feature-evaluation-form.md
+
+
+## 分
+### 分制
+- product/feature-scoring-scale.md
+
+
+## P
+### PBC
+- product/feature-evaluation-form.md
+
+
+## 面
+### 面谈活动
+- product/feature-performance-interview.md
+
+
+## 人
+### 人才管理
+- product/feature-person-job-matching-agent.md
+
+### 人岗匹配
+- product/feature-person-job-matching-agent.md
+
+
+## 智
+### 智能体
+- product/feature-person-job-matching-agent.md
+
+
+## 技
+### 技能画像
+- product/feature-person-job-matching-agent.md
+
