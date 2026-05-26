@@ -1637,3 +1637,199 @@
 ### 技能画像
 - product/feature-person-job-matching-agent.md
 
+
+
+<!-- ===== spec 分类标签（2026-05-26 新增）===== -->
+
+## 测
+
+### 测试用例
+- spec/spec-cadre-management.md
+- spec/spec-hr-self-service.md
+- spec/spec-internal-recruitment.md
+- spec/spec-interviewer-portal.md
+- spec/spec-job-level.md
+- spec/spec-qualification.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+## 功
+
+### 功能规格
+- spec/spec-cadre-management.md
+- spec/spec-hr-self-service.md
+- spec/spec-internal-recruitment.md
+- spec/spec-interviewer-portal.md
+- spec/spec-job-level.md
+- spec/spec-qualification.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+## S
+
+### spec
+- spec/spec-cadre-management.md
+- spec/spec-hr-self-service.md
+- spec/spec-internal-recruitment.md
+- spec/spec-interviewer-portal.md
+- spec/spec-job-level.md
+- spec/spec-qualification.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+<!-- 模块级标签补充：将 spec 文件挂入对应模块标签 -->
+
+## 干（spec补充）
+
+### 干部管理（spec）
+- spec/spec-cadre-management.md
+
+## 继（spec补充）
+
+### 继任计划
+- spec/spec-succession-plan.md
+
+### 继任池
+- spec/spec-succession-plan.md
+
+### 关键岗位
+- spec/spec-succession-plan.md
+
+## 储（spec补充）
+
+### 人才储备池
+- spec/spec-talent-pool.md
+
+### 人才入池
+- spec/spec-talent-pool.md
+
+### 人才出池
+- spec/spec-talent-pool.md
+
+## 档（spec补充）
+
+### 人才档案（spec）
+- spec/spec-talent-archive.md
+
+## 人（spec补充）
+
+### 人才发展基础服务（spec）
+- spec/spec-talent-dev-foundation.md
+
+### 人才盘点（spec）
+- spec/spec-talent-inventory.md
+
+### 人才星图（spec）
+- spec/spec-talent-starmap.md
+
+### 人人面试官（spec）
+- spec/spec-interviewer-portal.md
+
+### 人才供应
+- spec/spec-internal-recruitment.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+
+### 人才发展
+- spec/spec-cadre-management.md
+- spec/spec-job-level.md
+- spec/spec-qualification.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+## 任（spec补充）
+
+### 任职资格（spec）
+- spec/spec-qualification.md
+
+### 任职资格认证
+- spec/spec-qualification.md
+
+### 资格标准
+- spec/spec-qualification.md
+
+## 职（spec补充）
+
+### 职级评定（spec）
+- spec/spec-job-level.md
+
+## 内（spec补充）
+
+### 内部招聘（spec）
+- spec/spec-internal-recruitment.md
+
+## 招（spec补充）
+
+### 招聘服务直通车（spec）
+- spec/spec-recruitment-express.md
+
+### 招聘基础服务（spec）
+- spec/spec-recruitment-foundation.md
+
+### 招聘基础数据
+- spec/spec-recruitment-master-data.md
+
+## 员（spec补充）
+
+### HR自助服务中心
+- spec/spec-hr-self-service.md
+
+### 员工服务
+- spec/spec-hr-self-service.md
+- spec/spec-interviewer-portal.md
+
+### 自助服务
+- spec/spec-hr-self-service.md
+
+## 盘（spec补充）
+
+### 校准会
+- spec/spec-talent-inventory.md
+
+### 九宫格
+- spec/spec-talent-inventory.md
+
+## 业（spec补充）
+
+### 业务配置
+- spec/spec-recruitment-foundation.md
+
+## 数（spec补充）
+
+### 基础数据
+- spec/spec-recruitment-master-data.md
+
+### 数据管理
+- spec/spec-recruitment-master-data.md
+
+## 首（spec补充）
+
+### 首页方案
+- spec/spec-talent-starmap.md
+
