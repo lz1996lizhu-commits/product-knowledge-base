@@ -22,6 +22,8 @@
 ## F
 
 ### FAQ
+- faq/faq-job-level-no-add-button.md
+- faq/faq-talent-inventory-grid-types.md
 - faq/faq-performance-terminology.md
 - faq/faq-product-overview.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
@@ -533,6 +535,7 @@
 - product/feature-job-level-result-resolution.md
 
 ### 晋升提名
+- faq/faq-job-level-no-add-button.md
 - product/feature-job-level-promotion-nomination.md
 
 ### 晋升通道
@@ -828,6 +831,7 @@
 - product/feature-job-level-review-method.md
 
 ### 评定计划
+- faq/faq-job-level-no-add-button.md
 - product/feature-job-level-evaluation-plan.md
 
 ### 评定流程
@@ -958,6 +962,7 @@
 - product/feature-internal-recruitment.md
 
 ### 人才盘点
+- faq/faq-talent-inventory-grid-types.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
 - faq/faq-talent-inventory-managed-vs-collaborated.md
 - guide/guide-talent-inventory-calibration.md
@@ -1205,6 +1210,9 @@
 ### 新增档案
 - product/feature-performance-archive.md
 
+### 新增按钮
+- faq/faq-job-level-no-add-button.md
+
 ## 薪
 
 ### 薪酬定薪
@@ -1370,6 +1378,7 @@
 - product/feature-talent-development.md
 
 ### 职级申报
+- faq/faq-job-level-no-add-button.md
 - product/feature-job-level-application.md
 
 ### 职级职等调整
@@ -1755,6 +1764,7 @@
 - spec/spec-talent-dev-foundation.md
 
 ### 人才盘点（spec）
+- faq/faq-talent-inventory-grid-types.md
 - spec/spec-talent-inventory.md
 
 ### 人才星图（spec）
@@ -1815,6 +1825,7 @@
 ## 员（spec补充）
 
 ### HR自助服务中心
+- faq/faq-job-level-no-add-button.md
 - spec/spec-hr-self-service.md
 
 ### 员工服务
@@ -1830,6 +1841,7 @@
 - spec/spec-talent-inventory.md
 
 ### 九宫格
+- faq/faq-talent-inventory-grid-types.md
 - spec/spec-talent-inventory.md
 
 ## 业（spec补充）
