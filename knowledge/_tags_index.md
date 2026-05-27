@@ -22,6 +22,7 @@
 ## F
 
 ### FAQ
+- faq/faq-talent-inventory-grid-types.md
 - faq/faq-performance-terminology.md
 - faq/faq-product-overview.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
@@ -958,6 +959,7 @@
 - product/feature-internal-recruitment.md
 
 ### 人才盘点
+- faq/faq-talent-inventory-grid-types.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
 - faq/faq-talent-inventory-managed-vs-collaborated.md
 - guide/guide-talent-inventory-calibration.md
@@ -1755,6 +1757,7 @@
 - spec/spec-talent-dev-foundation.md
 
 ### 人才盘点（spec）
+- faq/faq-talent-inventory-grid-types.md
 - spec/spec-talent-inventory.md
 
 ### 人才星图（spec）
@@ -1830,6 +1833,7 @@
 - spec/spec-talent-inventory.md
 
 ### 九宫格
+- faq/faq-talent-inventory-grid-types.md
 - spec/spec-talent-inventory.md
 
 ## 业（spec补充）
