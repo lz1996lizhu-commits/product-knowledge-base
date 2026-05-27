@@ -103,6 +103,7 @@
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
 | faq/faq-talent-inventory-grid-types.md | 人才盘点宫格配置是否支持12宫格？ | 人才盘点,FAQ,宫格配置,九宫格,四宫格,十六宫格,六宫格 | 2026-05-27 |
+| faq/faq-job-level-no-add-button.md | HR自助服务中心职级申报为什么没有新增按钮 | 职级申报,HR自助服务中心,新增按钮,评定计划,晋升提名,FAQ | 2026-05-27 |
 
 ## 操作指南 (guide)
 
