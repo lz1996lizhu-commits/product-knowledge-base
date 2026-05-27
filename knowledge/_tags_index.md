@@ -1648,6 +1648,11 @@
 - spec/spec-internal-recruitment.md
 - spec/spec-interviewer-portal.md
 - spec/spec-job-level.md
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
 - spec/spec-qualification.md
 - spec/spec-recruitment-express.md
 - spec/spec-recruitment-foundation.md
@@ -1670,6 +1675,11 @@
 - spec/spec-internal-recruitment.md
 - spec/spec-interviewer-portal.md
 - spec/spec-job-level.md
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
 - spec/spec-qualification.md
 - spec/spec-recruitment-express.md
 - spec/spec-recruitment-foundation.md
@@ -1689,6 +1699,11 @@
 - spec/spec-internal-recruitment.md
 - spec/spec-interviewer-portal.md
 - spec/spec-job-level.md
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
 - spec/spec-qualification.md
 - spec/spec-recruitment-express.md
 - spec/spec-recruitment-foundation.md
@@ -1835,3 +1850,136 @@
 ### 首页方案
 - spec/spec-talent-starmap.md
 
+
+## 六
+
+### 六宫格
+- faq/faq-talent-inventory-grid-types.md
+
+## 四
+
+### 四宫格
+- faq/faq-talent-inventory-grid-types.md
+
+## 十
+
+### 十六宫格
+- faq/faq-talent-inventory-grid-types.md
+
+
+<!-- ===== 目标绩效云 spec 分类标签（2026-05-27 新增）===== -->
+
+## 目（spec补充）
+
+### 目标绩效（spec）
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
+
+### 个人绩效考核
+- spec/spec-performance-individual.md
+- spec/spec-performance-personal.md
+
+### 绩效基础服务
+- spec/spec-performance-foundation.md
+
+### 绩效主数据
+- spec/spec-performance-master-data.md
+
+### 绩效自助服务
+- spec/spec-performance-self-service.md
+
+## 考（spec补充）
+
+### 考核计划（spec）
+- spec/spec-performance-individual.md
+
+### 考核活动（spec）
+- spec/spec-performance-individual.md
+- spec/spec-performance-personal.md
+
+### 考核完成（spec）
+- spec/spec-performance-individual.md
+
+## 指（spec补充）
+
+### 指标制定（spec）
+- spec/spec-performance-individual.md
+- spec/spec-performance-personal.md
+
+## 绩（spec补充）
+
+### 绩效评估（spec）
+- spec/spec-performance-individual.md
+
+### 绩效面谈（spec）
+- spec/spec-performance-individual.md
+
+### 绩效流程（spec）
+- spec/spec-performance-foundation.md
+- spec/spec-performance-personal.md
+
+### 绩效档案（spec）
+- spec/spec-performance-master-data.md
+
+### 绩效配置（spec）
+- spec/spec-performance-foundation.md
+
+## 评（spec补充）
+
+### 评估对象（spec）
+- spec/spec-performance-individual.md
+
+### 评估表单（spec）
+- spec/spec-performance-foundation.md
+
+### 评分分制（spec）
+- spec/spec-performance-foundation.md
+
+## 结（spec补充）
+
+### 结果校准（spec）
+- spec/spec-performance-individual.md
+
+### 结果汇总（spec）
+- spec/spec-performance-individual.md
+
+### 结果确认（spec）
+- spec/spec-performance-individual.md
+
+## 基（spec补充）
+
+### 基础配置（spec）
+- spec/spec-performance-foundation.md
+
+### 许可控制
+- spec/spec-performance-master-data.md
+
+## 等（spec补充）
+
+### 等级规则（spec）
+- spec/spec-performance-foundation.md
+
+## 角（spec补充）
+
+### 角色类型（spec）
+- spec/spec-performance-foundation.md
+
+## 员（spec补充-绩效）
+
+### HR自助服务
+- spec/spec-performance-self-service.md
+
+### 团队绩效
+- spec/spec-performance-self-service.md
+
+### 我的绩效（spec）
+- spec/spec-performance-self-service.md
+
+### 员工自助（spec）
+- spec/spec-performance-self-service.md
+
+### 平台待办
+- spec/spec-performance-self-service.md
