@@ -4,7 +4,7 @@ category: product
 tags: [内部招聘,录用申请,录用审批,变动进展,人事变动]
 author: 知识库管理员
 created: 2026-05-11
-updated: 2026-05-27
+updated: 2026-05-28
 ---
 
 # 录用申请（内部招聘）
@@ -37,7 +37,7 @@ updated: 2026-05-27
 
 # 获取变动进展
 
-![上传图片](../images/0100dd1feffcddc94740bff71d982d855b23.png)
+![上传图片](./images/0100dd1feffcddc94740bff71d982d855b23.png)
 
 ## 1 操作应用场景
 

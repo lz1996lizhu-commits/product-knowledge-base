@@ -18,22 +18,22 @@
 | product/feature-employee-collaboration-config.md | 员工协作配置 | 员工协作,协作配置,绩效档案,变动协同 | 2026-05-12 |
 | product/feature-evaluation-form.md | 评估表单 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-20 |
 | product/feature-evaluation-object-mgmt.md | 评估对象管理 | 评估对象,考核活动,考核组,考核责任人 | 2026-05-21 |
-| product/feature-express-candidate.md | 候选人（直通车） | 招聘服务直通车,候选人,候选人管理,简历解析,导入候选人,批量新增 | 2026-05-27 |
-| product/feature-express-eco-tenant.md | 生态租户 | 招聘服务直通车,生态租户,第三方招聘系统,组织映射,数据管理归属 | 2026-05-27 |
-| product/feature-express-hire-application.md | 录用申请（直通车） | 招聘服务直通车,录用申请,录用审批,薪酬定薪,录用通知书 | 2026-05-27 |
-| product/feature-express-hire-notice.md | 录用通知（直通车） | 招聘服务直通车,录用通知,邮件通知,短信通知,候选人回复,录用通知书 | 2026-05-27 |
-| product/feature-express-offer-letter.md | 录用通知书（Offer Letter）（直通车） | 招聘服务直通车,录用通知书,Offer Letter,加密附件,在线链接,有效期 | 2026-05-11 |
-| product/feature-express-onboard-application.md | 入职协同申请（直通车） | 招聘服务直通车,入职协同,入职申请,发起入职,人事变动状态回传 | 2026-05-27 |
-| product/feature-express-position.md | 招聘职位（直通车） | 招聘服务直通车,招聘职位,职位管理,导入职位,职位信息 | 2026-05-27 |
+| product/feature-express-candidate.md | 候选人（直通车） | 招聘服务直通车,候选人,候选人管理,简历解析,导入候选人,批量新增 | 2026-05-28 |
+| product/feature-express-eco-tenant.md | 生态租户 | 招聘服务直通车,生态租户,第三方招聘系统,组织映射,数据管理归属 | 2026-05-28 |
+| product/feature-express-hire-application.md | 录用申请（直通车） | 招聘服务直通车,录用申请,录用审批,薪酬定薪,录用通知书 | 2026-05-28 |
+| product/feature-express-hire-notice.md | 录用通知（直通车） | 招聘服务直通车,录用通知,邮件通知,短信通知,候选人回复,录用通知书 | 2026-05-28 |
+| product/feature-express-offer-letter.md | 录用通知书（Offer Letter）（直通车） | 招聘服务直通车,录用通知书,Offer Letter,加密附件,在线链接,有效期 | 2026-05-28 |
+| product/feature-express-onboard-application.md | 入职协同申请（直通车） | 招聘服务直通车,入职协同,入职申请,发起入职,人事变动状态回传 | 2026-05-28 |
+| product/feature-express-position.md | 招聘职位（直通车） | 招聘服务直通车,招聘职位,职位管理,导入职位,职位信息 | 2026-05-28 |
 | product/feature-indicator-setting.md | 指标制定 | 指标制定,绩效指标,KPI,考核活动 | 2026-05-21 |
 | product/feature-internal-recruitment.md | 内部招聘整体介绍 | 内部招聘,人才流动,招聘职位,候选人管理,面试,录用,人才库,应聘许可 | 2026-05-27 |
 | product/feature-interviewer-portal.md | 人人面试官 | 内部招聘,人人面试官,面试官工作台,简历筛选,面试评价,待办任务 | 2026-05-27 |
-| product/feature-ir-advertisement.md | 广告（内部招聘） | 内部招聘,招聘广告,广告管理,广告审批,置顶,急招 | 2026-05-27 |
-| product/feature-ir-apply-permission.md | 应聘许可 | 内部招聘,应聘许可,权限管控,许可占用,许可释放 | 2026-05-27 |
-| product/feature-ir-candidate.md | 候选人（内部招聘） | 内部招聘,候选人,候选人管理,锁定,淘汰,转职位,确认变动 | 2026-05-27 |
-| product/feature-ir-hire-application.md | 录用申请（内部招聘） | 内部招聘,录用申请,录用审批,变动进展,人事变动 | 2026-05-27 |
-| product/feature-ir-interview.md | 面试（内部招聘） | 内部招聘,面试,面试管理,面试评价,催促答复,修改总评 | 2026-05-27 |
-| product/feature-ir-position.md | 招聘职位（内部招聘） | 内部招聘,招聘职位,职位管理,职位发布,职位状态 | 2026-05-27 |
+| product/feature-ir-advertisement.md | 广告（内部招聘） | 内部招聘,招聘广告,广告管理,广告审批,置顶,急招 | 2026-05-28 |
+| product/feature-ir-apply-permission.md | 应聘许可 | 内部招聘,应聘许可,权限管控,许可占用,许可释放 | 2026-05-28 |
+| product/feature-ir-candidate.md | 候选人（内部招聘） | 内部招聘,候选人,候选人管理,锁定,淘汰,转职位,确认变动 | 2026-05-28 |
+| product/feature-ir-hire-application.md | 录用申请（内部招聘） | 内部招聘,录用申请,录用审批,变动进展,人事变动 | 2026-05-28 |
+| product/feature-ir-interview.md | 面试（内部招聘） | 内部招聘,面试,面试管理,面试评价,催促答复,修改总评 | 2026-05-28 |
+| product/feature-ir-position.md | 招聘职位（内部招聘） | 内部招聘,招聘职位,职位管理,职位发布,职位状态 | 2026-05-28 |
 | product/feature-job-level-application.md | 职级申报 | 职级评定,职级申报,评定流程,员工申报,申报结果,结果通知 | 2026-05-13 |
 | product/feature-job-level-application-materials.md | 申报材料 | 职级评定,申报材料,基础配置,评定过程配置,材料清单 | 2026-05-13 |
 | product/feature-job-level-application-qualification.md | 申请资格 | 职级评定,申请资格,基础配置,标准配置,晋升通道,绿色晋升 | 2026-05-13 |
@@ -62,7 +62,7 @@
 | product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
 | product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | 人岗匹配,智能体,技能画像,AI,人才管理 | 2026-05-20 |
-| product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka,混合云 | 2026-05-27 |
+| product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka,混合云 | 2026-05-28 |
 | product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | 招聘基础服务,基础数据,业务配置,招聘流程,消息模板,面试评价表,参数配置 | 2026-05-27 |
 | product/feature-result-confirmation.md | 结果确认 | 结果确认,绩效确认,考核活动,员工反馈 | 2026-05-21 |
 | product/feature-result-summary.md | 结果汇总 | 结果汇总,绩效汇总,考核活动,绩效数据 | 2026-05-21 |
@@ -133,7 +133,7 @@
 | guide/guide-interview-evaluation-form.md | 面试评价表配置 | 招聘基础服务,面试评价表,评价维度,评分规则,模板配置 | 2026-05-27 |
 | guide/guide-ir-params-config.md | 内部招聘参数配置 | 招聘基础服务,参数配置,内部招聘,AI辅助,广告参数,面试参数,录用参数 | 2026-05-27 |
 | guide/guide-message-template.md | 消息模板配置 | 招聘基础服务,消息模板,通知模板,面试通知,录用通知,笔试通知 | 2026-05-27 |
-| guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-05-27 |
+| guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-05-28 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
