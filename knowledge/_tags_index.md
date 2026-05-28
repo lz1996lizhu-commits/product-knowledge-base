@@ -96,6 +96,11 @@
 ### 变量配置
 - guide/guide-offer-letter-template.md
 
+## 表
+
+### 表单插件
+- faq/faq-switch-salary-param-by-field.md
+
 ## 标
 
 ### 标准简历
@@ -211,6 +216,11 @@
 ### 第三方招聘系统
 - product/feature-express-eco-tenant.md
 
+## 定
+
+### 定薪方式
+- faq/faq-switch-salary-param-by-field.md
+
 ## 调
 
 ### 调动
@@ -226,6 +236,7 @@
 
 ### 二开
 - faq/faq-message-template-variables.md
+- faq/faq-switch-salary-param-by-field.md
 
 ## 发
 
@@ -581,6 +592,7 @@
 - product/feature-recruitment-express.md
 
 ### 录用申请
+- faq/faq-switch-salary-param-by-field.md
 - product/feature-express-hire-application.md
 - product/feature-ir-hire-application.md
 
@@ -1140,6 +1152,7 @@
 ## 薪
 
 ### 薪酬定薪
+- faq/faq-switch-salary-param-by-field.md
 - product/feature-express-hire-application.md
 
 ## 行
@@ -1223,6 +1236,7 @@
 
 ### 招聘服务直通车
 - faq/faq-express-terminology.md
+- faq/faq-switch-salary-param-by-field.md
 - guide/guide-express-params-config.md
 - guide/guide-integration-external-recruitment.md
 - guide/guide-moka-integration.md
@@ -1260,6 +1274,9 @@
 
 ### 招聘渠道
 - guide/guide-recruitment-channel.md
+
+### 招聘定薪
+- faq/faq-switch-salary-param-by-field.md
 
 ### 招聘职位
 - product/feature-express-position.md

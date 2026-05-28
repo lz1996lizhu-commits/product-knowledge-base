@@ -98,6 +98,7 @@
 | faq/faq-homepage-scheme-missing.md | 首页方案数据在系统中不存在，可能已经被删除 | AI星瀚,人才星图,数据迁移,平台配置,栅栏视图 | 2026-05-14 |
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
+| faq/faq-switch-salary-param-by-field.md | 如何根据录用申请单据字段动态切换定薪方式 | 定薪方式,录用申请,二开,表单插件,招聘定薪,薪酬定薪,招聘服务直通车 | 2026-05-28 |
 
 ## 操作指南 (guide)
 
