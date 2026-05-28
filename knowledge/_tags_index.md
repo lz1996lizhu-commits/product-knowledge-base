@@ -293,11 +293,6 @@
 ### 变量配置
 - guide/guide-offer-letter-template.md
 
-## 表
-
-### 表单插件
-- faq/faq-switch-salary-param-by-field.md
-
 ## 标
 
 ### 标准简历
@@ -307,6 +302,11 @@
 - product/feature-job-level-application-qualification.md
 - product/feature-job-level-evaluation-form.md
 - product/feature-job-level-standard.md
+
+## 表
+
+### 表单插件
+- faq/faq-switch-salary-param-by-field.md
 
 ## 材
 
@@ -602,11 +602,6 @@
 ### 第三方招聘系统
 - product/feature-express-eco-tenant.md
 
-## 定
-
-### 定薪方式
-- faq/faq-switch-salary-param-by-field.md
-
 ## 调
 
 ### 调动
@@ -617,6 +612,9 @@
 
 ### 定时任务
 - spec/spec-人才发展云-任职资格-定时任务.md
+
+### 定薪方式
+- faq/faq-switch-salary-param-by-field.md
 
 ## 短
 
@@ -2542,6 +2540,9 @@
 
 ## 招
 
+### 招聘定薪
+- faq/faq-switch-salary-param-by-field.md
+
 ### 招聘服务直通车
 - faq/faq-express-terminology.md
 - faq/faq-switch-salary-param-by-field.md
@@ -2601,8 +2602,6 @@
 
 ### 招聘业务配置
 - spec/spec-人才供应云-招聘基础数据-招聘业务配置.md
-### 招聘定薪
-- faq/faq-switch-salary-param-by-field.md
 
 ### 招聘职位
 - product/feature-express-position.md

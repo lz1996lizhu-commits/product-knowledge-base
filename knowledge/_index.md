@@ -97,14 +97,11 @@
 | faq/faq-homepage-scheme-missing.md | 首页方案数据在系统中不存在，可能已经被删除 | AI星瀚,人才星图,数据迁移,平台配置,栅栏视图 | 2026-05-14 |
 | faq/faq-ir-interview-reply.md | 候选人收到面试通知后如何答复 | 内部招聘,面试通知,候选人答复,在线回复,消息模板 | 2026-05-11 |
 | faq/faq-ir-terminology.md | 内部招聘术语解释 | 内部招聘,术语,个人简历,投递简历,标准简历 | 2026-05-27 |
-| faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
-| faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
-| faq/faq-switch-salary-param-by-field.md | 如何根据录用申请单据字段动态切换定薪方式 | 定薪方式,录用申请,二开,表单插件,招聘定薪,薪酬定薪,招聘服务直通车 | 2026-05-28 |
-| faq/faq-talent-inventory-grid-types.md | 人才盘点宫格配置是否支持12宫格？ | 人才盘点,FAQ,宫格配置,九宫格,四宫格,十六宫格,六宫格 | 2026-05-27 |
 | faq/faq-job-level-no-add-button.md | HR自助服务中心职级申报为什么没有新增按钮 | 职级申报,HR自助服务中心,新增按钮,评定计划,晋升提名,FAQ | 2026-05-27 |
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | 消息模板,常用变量,笔试通知,字段扩展,二开 | 2026-05-13 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | 术语,FAQ,绩效术语,考核计划,评估对象范围 | 2026-05-12 |
 | faq/faq-product-overview.md | 金蝶AI HR产品常见问题 | FAQ,产品架构,版本,模块关系,平台 | 2026-05-09 |
+| faq/faq-switch-salary-param-by-field.md | 如何根据录用申请单据字段动态切换定薪方式 | 定薪方式,录用申请,二开,表单插件,招聘定薪,薪酬定薪,招聘服务直通车 | 2026-05-28 |
 | faq/faq-talent-inventory-grid-types.md | 人才盘点宫格配置是否支持12宫格？ | 人才盘点,FAQ,宫格配置,九宫格,四宫格,十六宫格,六宫格 | 2026-05-27 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
