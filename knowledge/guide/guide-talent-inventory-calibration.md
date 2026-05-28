@@ -4,7 +4,7 @@ category: guide
 tags: [人才盘点, 在线校准, 校准会, 操作指南]
 author: 产品团队
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-18
 ---
 
 ## 盘点活动：在线校准
@@ -25,9 +25,9 @@ updated: 2026-05-14
 
 **4.1创建校准会**
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%BA%BF%E6%A0%A1%E5%87%86/010994f1f25b57ea485f88cae98bdb94f209.png)
+![](../images/guide/010994f1f25b57ea485f88cae98bdb94f209.png)
 
-![上传图片](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%BA%BF%E6%A0%A1%E5%87%86/0100e8bc21a363b14516806209557eb330e2.png)
+![上传图片](../images/guide/0100e8bc21a363b14516806209557eb330e2.png)
 
 **4.1.1 关键字段说明**
 
@@ -51,13 +51,13 @@ updated: 2026-05-14
 |已校准人员|已校准人员面板，查看宫格落位发生过变化的盘点对象。|
 |校准看板|查看宫格中每个格子的人员分布变化情况。|
 
-![上传图片](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%BA%BF%E6%A0%A1%E5%87%86/010057152bd683c64642a4a43ddaf8a1c9b8.png)
+![上传图片](../images/guide/010057152bd683c64642a4a43ddaf8a1c9b8.png)
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%BA%BF%E6%A0%A1%E5%87%86/0109a562818e84b340aa90941a7167fab72d.png)
+![](../images/guide/0109a562818e84b340aa90941a7167fab72d.png)
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%BA%BF%E6%A0%A1%E5%87%86/01091ce8f958218c4fe8b1374652b9dd86c7.png)
+![](../images/guide/01091ce8f958218c4fe8b1374652b9dd86c7.png)
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%BA%BF%E6%A0%A1%E5%87%86/01097976c5262d47420ea669b71c77ab423f.png)
+![](../images/guide/01097976c5262d47420ea669b71c77ab423f.png)
 
 **4.1.1 关键字段说明**
 

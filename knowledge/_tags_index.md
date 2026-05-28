@@ -22,6 +22,8 @@
 ## F
 
 ### FAQ
+- faq/faq-job-level-no-add-button.md
+- faq/faq-talent-inventory-grid-types.md
 - faq/faq-performance-terminology.md
 - faq/faq-product-overview.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
@@ -130,6 +132,19 @@
 
 ### 操作指南
 - guide/guide-interviewer.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-evaluation-collaboration.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-dismissal.md
+- guide/guide-cadre-term.md
+- guide/guide-cadre-probation.md
+- guide/guide-cadre-probation-investigation.md
 - guide/guide-performance-indicators.md
 - guide/guide-talent-inventory-calibration.md
 - guide/guide-talent-inventory-create-activity.md
@@ -240,6 +255,9 @@
 
 ## 发
 
+### 发布
+- guide/guide-cadre-publication.md
+
 ### 发起入职
 - product/feature-express-onboard-application.md
 
@@ -255,8 +273,25 @@
 
 ## 干
 
+### 干部任期
+- guide/guide-cadre-term.md
+
 ### 干部管理
 - product/feature-talent-development.md
+- product/feature-cadre-management.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-evaluation-collaboration.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-dismissal.md
+- guide/guide-cadre-term.md
+- guide/guide-cadre-probation.md
+- guide/guide-cadre-probation-investigation.md
 
 ## 个
 
@@ -511,6 +546,7 @@
 - product/feature-job-level-result-resolution.md
 
 ### 晋升提名
+- faq/faq-job-level-no-add-button.md
 - product/feature-job-level-promotion-nomination.md
 
 ### 晋升通道
@@ -518,6 +554,15 @@
 - product/feature-job-level-overview.md
 
 ## 考
+
+### 考察
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-probation-investigation.md
+
+### 考察协作
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-probation-investigation.md
 
 ### 考核活动
 - product/feature-assessment-completion.md
@@ -786,11 +831,19 @@
 
 ## 评
 
+### 评议
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-evaluation-collaboration.md
+
+### 评议协作
+- guide/guide-cadre-evaluation-collaboration.md
+
 ### 评定过程配置
 - product/feature-job-level-application-materials.md
 - product/feature-job-level-review-method.md
 
 ### 评定计划
+- faq/faq-job-level-no-add-button.md
 - product/feature-job-level-evaluation-plan.md
 
 ### 评定流程
@@ -903,6 +956,7 @@
 
 ### 人才发展云
 - product/feature-job-level-overview.md
+- product/feature-cadre-management.md
 
 ### 人才供应
 - product/feature-talent-supply.md
@@ -920,6 +974,7 @@
 - product/feature-internal-recruitment.md
 
 ### 人才盘点
+- faq/faq-talent-inventory-grid-types.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
 - faq/faq-talent-inventory-managed-vs-collaborated.md
 - guide/guide-talent-inventory-calibration.md
@@ -969,6 +1024,24 @@
 - product/feature-certification-group.md
 
 ## 任
+
+### 任免流程
+- product/feature-cadre-management.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-dismissal.md
+
+### 任命提名
+- guide/guide-cadre-appointment-nomination.md
+
+### 任期管理
+- product/feature-cadre-management.md
+- guide/guide-cadre-term.md
 
 ### 任职经历
 - product/feature-talent-archive-overview.md
@@ -1149,6 +1222,9 @@
 ### 新增档案
 - product/feature-performance-archive.md
 
+### 新增按钮
+- faq/faq-job-level-no-add-button.md
+
 ## 薪
 
 ### 薪酬定薪
@@ -1286,6 +1362,9 @@
 ## 整
 
 ### 整体介绍
+- product/feature-cadre-management.md
+
+### 整体介绍
 - product/feature-performance-overview.md
 - product/feature-talent-inventory-overview.md
 
@@ -1316,6 +1395,7 @@
 - product/feature-talent-development.md
 
 ### 职级申报
+- faq/faq-job-level-no-add-button.md
 - product/feature-job-level-application.md
 
 ### 职级职等调整
@@ -1374,6 +1454,12 @@
 
 ## 转
 
+### 转正
+- guide/guide-cadre-probation.md
+
+### 转正考察
+- guide/guide-cadre-probation-investigation.md
+
 ### 转职位
 - product/feature-ir-candidate.md
 
@@ -1383,6 +1469,9 @@
 - guide/guide-apply-progress-config.md
 
 ## 资
+
+### 资格审查
+- guide/guide-cadre-qualification-review.md
 
 ### 资料复核
 - product/feature-job-level-document-review.md
@@ -1401,3 +1490,525 @@
 
 ### 组织映射
 - product/feature-express-eco-tenant.md
+## 公
+
+### 公示
+- guide/guide-cadre-publicity.md
+
+## 免
+
+### 免职申请
+- guide/guide-cadre-dismissal.md
+
+## 试
+
+### 试用期
+- guide/guide-cadre-probation.md
+
+## 酝
+
+### 酝酿动议
+- guide/guide-cadre-deliberation.md
+
+
+## 评
+### 评分
+- product/feature-performance-evaluation.md
+
+### 评估表单
+- product/feature-evaluation-form.md
+
+### 评分分制
+- product/feature-scoring-scale.md
+
+### 评估对象
+- product/feature-evaluation-object-mgmt.md
+
+
+## 考
+### 考核活动
+- product/feature-evaluation-object-mgmt.md
+- product/feature-result-confirmation.md
+- product/feature-performance-evaluation.md
+- product/feature-result-summary.md
+- product/feature-assessment-completion.md
+- product/feature-indicator-setting.md
+- product/feature-performance-interview.md
+
+### 考核完成
+- product/feature-assessment-completion.md
+
+### 考核责任人
+- product/feature-evaluation-object-mgmt.md
+
+### 考核组
+- product/feature-evaluation-object-mgmt.md
+
+
+## 结
+### 结果管理
+- product/feature-performance-result.md
+
+### 结果归档
+- product/feature-assessment-completion.md
+
+### 结果汇总
+- product/feature-result-summary.md
+
+### 结果确认
+- product/feature-result-confirmation.md
+
+
+## 绩
+### 绩效改进
+- product/feature-performance-interview.md
+
+### 绩效归档
+- product/feature-assessment-completion.md
+
+### 绩效面谈
+- product/feature-performance-interview.md
+
+### 绩效配置
+- product/feature-scoring-scale.md
+- product/feature-evaluation-form.md
+
+### 绩效指标
+- product/feature-indicator-setting.md
+
+### 绩效汇总
+- product/feature-result-summary.md
+
+### 绩效结果
+- product/feature-performance-result.md
+
+### 绩效数据
+- product/feature-performance-result.md
+- product/feature-result-summary.md
+
+### 绩效评估
+- product/feature-performance-evaluation.md
+
+### 绩效评价
+- product/feature-performance-evaluation.md
+
+### 绩效确认
+- product/feature-result-confirmation.md
+
+
+## 员
+### 员工反馈
+- product/feature-result-confirmation.md
+
+
+## 历
+### 历史绩效
+- product/feature-performance-result.md
+
+
+## 指
+### 指标制定
+- product/feature-indicator-setting.md
+
+
+## A
+### AI
+- product/feature-person-job-matching-agent.md
+
+## B
+### BSC
+- product/feature-evaluation-form.md
+
+## K
+### KPI
+- product/feature-indicator-setting.md
+- product/feature-evaluation-form.md
+
+
+## 基
+### 基础配置
+- product/feature-scoring-scale.md
+- product/feature-evaluation-form.md
+
+
+## 分
+### 分制
+- product/feature-scoring-scale.md
+
+
+## P
+### PBC
+- product/feature-evaluation-form.md
+
+
+## 面
+### 面谈活动
+- product/feature-performance-interview.md
+
+
+## 人
+### 人才管理
+- product/feature-person-job-matching-agent.md
+
+### 人岗匹配
+- product/feature-person-job-matching-agent.md
+
+
+## 智
+### 智能体
+- product/feature-person-job-matching-agent.md
+
+
+## 技
+### 技能画像
+- product/feature-person-job-matching-agent.md
+
+
+<!-- ===== spec 分类标签（2026-05-26 新增）===== -->
+
+## 测
+
+### 测试用例
+- spec/spec-cadre-management.md
+- spec/spec-hr-self-service.md
+- spec/spec-internal-recruitment.md
+- spec/spec-interviewer-portal.md
+- spec/spec-job-level.md
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
+- spec/spec-qualification.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+## 功
+
+### 宫格配置
+- faq/faq-talent-inventory-grid-types.md
+
+### 功能规格
+- spec/spec-cadre-management.md
+- spec/spec-hr-self-service.md
+- spec/spec-internal-recruitment.md
+- spec/spec-interviewer-portal.md
+- spec/spec-job-level.md
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
+- spec/spec-qualification.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+## S
+
+### spec
+- spec/spec-cadre-management.md
+- spec/spec-hr-self-service.md
+- spec/spec-internal-recruitment.md
+- spec/spec-interviewer-portal.md
+- spec/spec-job-level.md
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
+- spec/spec-qualification.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+<!-- 模块级标签补充：将 spec 文件挂入对应模块标签 -->
+
+## 干（spec补充）
+
+### 干部管理（spec）
+- spec/spec-cadre-management.md
+
+## 继（spec补充）
+
+### 继任计划
+- spec/spec-succession-plan.md
+
+### 继任池
+- spec/spec-succession-plan.md
+
+### 关键岗位
+- spec/spec-succession-plan.md
+
+## 储（spec补充）
+
+### 人才储备池
+- spec/spec-talent-pool.md
+
+### 人才入池
+- spec/spec-talent-pool.md
+
+### 人才出池
+- spec/spec-talent-pool.md
+
+## 档（spec补充）
+
+### 人才档案（spec）
+- spec/spec-talent-archive.md
+
+## 人（spec补充）
+
+### 人才发展基础服务（spec）
+- spec/spec-talent-dev-foundation.md
+
+### 人才盘点（spec）
+- faq/faq-talent-inventory-grid-types.md
+- spec/spec-talent-inventory.md
+
+### 人才星图（spec）
+- spec/spec-talent-starmap.md
+
+### 人人面试官（spec）
+- spec/spec-interviewer-portal.md
+
+### 人才供应
+- spec/spec-internal-recruitment.md
+- spec/spec-recruitment-express.md
+- spec/spec-recruitment-foundation.md
+- spec/spec-recruitment-master-data.md
+
+### 人才发展
+- spec/spec-cadre-management.md
+- spec/spec-job-level.md
+- spec/spec-qualification.md
+- spec/spec-succession-plan.md
+- spec/spec-talent-archive.md
+- spec/spec-talent-dev-foundation.md
+- spec/spec-talent-inventory.md
+- spec/spec-talent-pool.md
+- spec/spec-talent-starmap.md
+
+## 任（spec补充）
+
+### 任职资格（spec）
+- spec/spec-qualification.md
+
+### 任职资格认证
+- spec/spec-qualification.md
+
+### 资格标准
+- spec/spec-qualification.md
+
+## 职（spec补充）
+
+### 职级评定（spec）
+- spec/spec-job-level.md
+
+## 内（spec补充）
+
+### 内部招聘（spec）
+- spec/spec-internal-recruitment.md
+
+## 招（spec补充）
+
+### 招聘服务直通车（spec）
+- spec/spec-recruitment-express.md
+
+### 招聘基础服务（spec）
+- spec/spec-recruitment-foundation.md
+
+### 招聘基础数据
+- spec/spec-recruitment-master-data.md
+
+## 员（spec补充）
+
+### HR自助服务中心
+- faq/faq-job-level-no-add-button.md
+- spec/spec-hr-self-service.md
+
+### 员工服务
+- spec/spec-hr-self-service.md
+- spec/spec-interviewer-portal.md
+
+### 自助服务
+- spec/spec-hr-self-service.md
+
+## 盘（spec补充）
+
+### 校准会
+- spec/spec-talent-inventory.md
+
+### 九宫格
+- faq/faq-talent-inventory-grid-types.md
+- spec/spec-talent-inventory.md
+
+## 业（spec补充）
+
+### 业务配置
+- spec/spec-recruitment-foundation.md
+
+## 数（spec补充）
+
+### 基础数据
+- spec/spec-recruitment-master-data.md
+
+### 数据管理
+- spec/spec-recruitment-master-data.md
+
+## 首（spec补充）
+
+### 首页方案
+- spec/spec-talent-starmap.md
+
+
+## 六
+
+### 六宫格
+- faq/faq-talent-inventory-grid-types.md
+
+## 四
+
+### 四宫格
+- faq/faq-talent-inventory-grid-types.md
+
+## 十
+
+### 十六宫格
+- faq/faq-talent-inventory-grid-types.md
+
+
+<!-- ===== 目标绩效云 spec 分类标签（2026-05-27 新增）===== -->
+
+## 目（spec补充）
+
+### 目标绩效（spec）
+- spec/spec-performance-foundation.md
+- spec/spec-performance-individual.md
+- spec/spec-performance-master-data.md
+- spec/spec-performance-personal.md
+- spec/spec-performance-self-service.md
+
+### 个人绩效考核
+- spec/spec-performance-individual.md
+- spec/spec-performance-personal.md
+
+### 绩效基础服务
+- spec/spec-performance-foundation.md
+
+### 绩效主数据
+- spec/spec-performance-master-data.md
+
+### 绩效自助服务
+- spec/spec-performance-self-service.md
+
+## 考（spec补充）
+
+### 考核计划（spec）
+- spec/spec-performance-individual.md
+
+### 考核活动（spec）
+- spec/spec-performance-individual.md
+- spec/spec-performance-personal.md
+
+### 考核完成（spec）
+- spec/spec-performance-individual.md
+
+## 指（spec补充）
+
+### 指标制定（spec）
+- spec/spec-performance-individual.md
+- spec/spec-performance-personal.md
+
+## 绩（spec补充）
+
+### 绩效评估（spec）
+- spec/spec-performance-individual.md
+
+### 绩效面谈（spec）
+- spec/spec-performance-individual.md
+
+### 绩效流程（spec）
+- spec/spec-performance-foundation.md
+- spec/spec-performance-personal.md
+
+### 绩效档案（spec）
+- spec/spec-performance-master-data.md
+
+### 绩效配置（spec）
+- spec/spec-performance-foundation.md
+
+## 评（spec补充）
+
+### 评估对象（spec）
+- spec/spec-performance-individual.md
+
+### 评估表单（spec）
+- spec/spec-performance-foundation.md
+
+### 评分分制（spec）
+- spec/spec-performance-foundation.md
+
+## 结（spec补充）
+
+### 结果校准（spec）
+- spec/spec-performance-individual.md
+
+### 结果汇总（spec）
+- spec/spec-performance-individual.md
+
+### 结果确认（spec）
+- spec/spec-performance-individual.md
+
+## 基（spec补充）
+
+### 基础配置（spec）
+- spec/spec-performance-foundation.md
+
+### 许可控制
+- spec/spec-performance-master-data.md
+
+## 等（spec补充）
+
+### 等级规则（spec）
+- spec/spec-performance-foundation.md
+
+## 角（spec补充）
+
+### 角色类型（spec）
+- spec/spec-performance-foundation.md
+
+## 员（spec补充-绩效）
+
+### HR自助服务
+- spec/spec-performance-self-service.md
+
+### 团队绩效
+- spec/spec-performance-self-service.md
+
+### 我的绩效（spec）
+- spec/spec-performance-self-service.md
+
+### 员工自助（spec）
+- spec/spec-performance-self-service.md
+
+### 平台待办
+- spec/spec-performance-self-service.md

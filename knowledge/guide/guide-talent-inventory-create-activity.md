@@ -4,7 +4,7 @@ category: guide
 tags: [人才盘点, 盘点活动, 创建活动, 操作指南]
 author: 产品团队
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-18
 ---
 
 ## 盘点活动：创建活动
@@ -25,7 +25,7 @@ updated: 2026-05-14
 
 **4.1新建盘点活动**
 
-![](%E7%9B%98%E7%82%B9%E6%B4%BB%E5%8A%A8%E5%88%9B%E5%BB%BA%E6%B4%BB%E5%8A%A8/0109eae08ce1f2214bb287755e4bfba4ca19.png)
+![](../images/guide/0109eae08ce1f2214bb287755e4bfba4ca19.png)
 
 **4.1.1 关键字段说明**
 
