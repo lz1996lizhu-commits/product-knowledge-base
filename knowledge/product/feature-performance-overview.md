@@ -1,10 +1,10 @@
 ---
 title: 目标绩效云整体介绍
 category: product
-tags: [目标绩效, 绩效考核, 绩效管理, 整体介绍, 产品概述]
+tags: [目标绩效, 绩效考核, 绩效管理, 整体介绍, 产品概述, KPI, BSC, PBC]
 author: HR产品部
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-29
 ---
 
 ## 1.应用场景

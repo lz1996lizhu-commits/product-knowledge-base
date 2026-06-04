@@ -22,6 +22,7 @@
 - guide/guide-evaluation-form.md
 - guide/guide-performance-indicators.md
 - product/feature-evaluation-form.md
+- product/feature-performance-overview.md
 
 ## D
 
@@ -64,6 +65,7 @@
 - guide/guide-performance-indicators.md
 - product/feature-evaluation-form.md
 - product/feature-indicator-setting.md
+- product/feature-performance-overview.md
 
 ## M
 
@@ -91,6 +93,7 @@
 - guide/guide-evaluation-form.md
 - guide/guide-performance-indicators.md
 - product/feature-evaluation-form.md
+- product/feature-performance-overview.md
 
 ## s
 
@@ -325,9 +328,6 @@
 
 ### 操作按钮
 - spec/spec-人才发展云-人才档案-操作按钮.md
-
-### 操作说明
-- product/feature-talent-archive-maintenance.md
 
 ### 操作指南
 - guide/guide-cadre-appointment-nomination.md
@@ -1322,7 +1322,6 @@
 
 ### 考察
 - guide/guide-cadre-investigation.md
-- guide/guide-cadre-investigation-collaboration.md
 
 ### 考察协作
 - guide/guide-cadre-investigation-collaboration.md
@@ -1781,6 +1780,11 @@
 ### 企业内员工
 - product/feature-committee-roles.md
 
+## 签
+
+### 签发
+- guide/guide-cadre-publication.md
+
 ## 渠
 
 ### 渠道管理
@@ -1997,6 +2001,7 @@
 
 ### 人才管理
 - product/feature-person-job-matching-agent.md
+- product/feature-talent-archive-maintenance.md
 - product/feature-talent-archive-overview.md
 
 ### 人才管理组织
@@ -2113,6 +2118,7 @@
 - guide/guide-cadre-dismissal.md
 - guide/guide-cadre-evaluation.md
 - guide/guide-cadre-investigation.md
+- guide/guide-cadre-investigation-collaboration.md
 - guide/guide-cadre-publication.md
 - guide/guide-cadre-publicity.md
 - guide/guide-cadre-qualification-review.md
