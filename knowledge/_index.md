@@ -8,7 +8,7 @@
 | 文件 | 标题 | 标签 | 更新日期 |
 |------|------|------|----------|
 | product/feature-assessment-completion.md | 考核完成 | 考核完成,结果归档,绩效归档,考核活动 | 2026-05-21 |
-| product/feature-cadre-management.md | 干部管理整体介绍 | 干部管理,整体介绍,人才发展云,任免流程,任期管理 | 2026-05-09 |
+| product/feature-cadre-management.md | 干部管理整体介绍 | 干部管理,整体介绍,人才发展云,任免流程,任期管理 | 2026-05-29 |
 | product/feature-certification-group.md | 认证组 | 认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组 | 2026-05-13 |
 | product/feature-committee-architecture.md | 专委会架构与专委会组织 | 专委会架构,专委会组织,人才管理组织,行政组织,职位体系 | 2026-05-13 |
 | product/feature-committee-roles.md | 专委会角色与专委会成员 | 专委会角色,专委会成员,企业内员工,外部人员 | 2026-05-13 |
@@ -57,7 +57,7 @@
 | product/feature-performance-archive-overview.md | 个人绩效档案整体介绍 | 绩效档案,个人档案,档案管理,员工变动 | 2026-05-12 |
 | product/feature-performance-evaluation.md | 绩效评估 | 绩效评估,绩效评价,考核活动,评分 | 2026-05-21 |
 | product/feature-performance-interview.md | 绩效面谈 | 绩效面谈,面谈活动,绩效改进,考核活动 | 2026-05-20 |
-| product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述 | 2026-05-12 |
+| product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述,KPI,BSC,PBC | 2026-05-29 |
 | product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
 | product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
 | product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
@@ -69,8 +69,8 @@
 | product/feature-scoring-scale.md | 评分分制 | 评分分制,基础配置,绩效配置,分制 | 2026-05-21 |
 | product/feature-talent-archive-change.md | 人才档案-员工变动及处理 | 人才档案,员工变动,入职,调动,离职,兼职,变动处理 | 2026-05-13 |
 | product/feature-talent-archive-collaboration.md | 人才档案-员工协作配置 | 人才档案,员工协作,协作配置,自动处理,手动处理 | 2026-05-13 |
-| product/feature-talent-archive-maintenance.md | 人才档案的维护与业务说明 | 人才档案,批量创建,批量失效,档案维护,操作说明 | 2026-05-13 |
-| product/feature-talent-archive-overview.md | 人才档案整体介绍 | 人才档案,人才管理,人员档案,任职经历,管理关系 | 2026-05-13 |
+| product/feature-talent-archive-maintenance.md | 人才档案的维护与业务说明 | 人才档案,批量创建,批量失效,人才管理,档案维护 | 2026-05-29 |
+| product/feature-talent-archive-overview.md | 人才档案整体介绍 | 人才档案,人才管理,人员档案,任职经历,管理关系 | 2026-05-29 |
 | product/feature-talent-development.md | 人才发展云产品概述 | 人才发展,人才档案,任职资格,职级评定,人才盘点,干部管理 | 2026-05-09 |
 | product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | 人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系 | 2026-05-13 |
 | product/feature-talent-inventory-evaluation-item.md | 评估项 | 人才盘点,评估项,基础配置 | 2026-05-14 |
@@ -111,18 +111,18 @@
 | 文件 | 标题 | 标签 | 更新日期 |
 |------|------|------|----------|
 | guide/guide-apply-progress-config.md | 应聘进展配置 | 招聘基础服务,应聘进展,候选人可见性,环节展示,状态展示 | 2026-05-27 |
-| guide/guide-cadre-appointment-nomination.md | 任命提名 | 干部管理,任命提名,任免流程,操作指南 | 2026-05-18 |
-| guide/guide-cadre-deliberation.md | 酝酿动议 | 干部管理,酝酿动议,任免流程,操作指南 | 2026-05-18 |
-| guide/guide-cadre-dismissal.md | 免职申请 | 干部管理,免职申请,任免流程,操作指南 | 2026-05-18 |
+| guide/guide-cadre-appointment-nomination.md | 任命提名 | 干部管理,任命提名,任免流程,操作指南 | 2026-05-29 |
+| guide/guide-cadre-deliberation.md | 酝酿动议 | 干部管理,酝酿动议,任免流程,操作指南 | 2026-05-29 |
+| guide/guide-cadre-dismissal.md | 免职申请 | 干部管理,免职申请,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-evaluation.md | 评议 | 干部管理,评议,任免流程,操作指南 | 2026-05-18 |
 | guide/guide-cadre-evaluation-collaboration.md | 评议协作 | 干部管理,评议协作,评议,操作指南 | 2026-05-18 |
-| guide/guide-cadre-investigation.md | 考察 | 干部管理,考察,任免流程,操作指南 | 2026-05-18 |
-| guide/guide-cadre-investigation-collaboration.md | 考察协作 | 干部管理,考察协作,考察,操作指南 | 2026-05-18 |
+| guide/guide-cadre-investigation.md | 考察 | 干部管理,考察,任免流程,操作指南 | 2026-05-29 |
+| guide/guide-cadre-investigation-collaboration.md | 考察协作 | 干部管理,考察协作,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-probation.md | 干部试用及转正 | 干部管理,试用期,转正,操作指南 | 2026-05-18 |
 | guide/guide-cadre-probation-investigation.md | 转正考察及协作 | 干部管理,转正考察,考察协作,操作指南 | 2026-05-18 |
-| guide/guide-cadre-publication.md | 发布 | 干部管理,发布,任免流程,操作指南 | 2026-05-18 |
+| guide/guide-cadre-publication.md | 签发/发布 | 干部管理,签发,发布,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-publicity.md | 公示 | 干部管理,公示,任免流程,操作指南 | 2026-05-18 |
-| guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-18 |
+| guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | 干部管理,干部任期,任期管理,操作指南 | 2026-05-18 |
 | guide/guide-evaluation-form.md | 评估表单配置指南 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-12 |
 | guide/guide-express-params-config.md | 招聘服务直通车参数配置 | 招聘基础服务,参数配置,招聘服务直通车,简历解析,录用参数,入职协同参数,生态组织参数 | 2026-05-27 |
