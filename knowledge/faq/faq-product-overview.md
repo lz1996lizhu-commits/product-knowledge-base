@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 
-aliases: []
+aliases: [产品 FAQ, 产品架构 FAQ]
 ---
 
 # 金蝶AI HR产品常见问题

@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-13
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [结果审批, 晋升结果审批]
 ---
 
 ## 结果报批

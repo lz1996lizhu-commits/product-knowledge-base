@@ -6,7 +6,7 @@ author: 金蝶AI HR
 created: 2026-03-01
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [TD 基础服务]
 ---
 
 ## 人才发展基础服务整体介绍

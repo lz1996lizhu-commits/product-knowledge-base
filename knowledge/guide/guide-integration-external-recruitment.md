@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 人才供应云
-aliases: []
+aliases: [外部招聘集成]
 ---
 
 # 招聘服务直通车——外部招聘系统集成方案

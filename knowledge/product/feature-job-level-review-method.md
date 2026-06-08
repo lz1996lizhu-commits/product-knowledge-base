@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-13
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [答辩方式]
 ---
 
 ## 评审方式

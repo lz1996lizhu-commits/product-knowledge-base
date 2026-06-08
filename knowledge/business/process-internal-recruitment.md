@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 人才供应云
-aliases: []
+aliases: [内部招聘流程, 内招流程]
 ---
 
 # 内部招聘全流程

@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
 cloud: 目标绩效云
-aliases: []
+aliases: [考核计划整体介绍]
 ---
 
 ## 考核计划的整体介绍

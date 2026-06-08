@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-14
 updated: 2026-05-14
 cloud: 人才发展云
-aliases: []
+aliases: [人才九宫格, 9宫格, 12宫格, 九宫格盘点]
 ---
 
 ## 人才盘点整体介绍

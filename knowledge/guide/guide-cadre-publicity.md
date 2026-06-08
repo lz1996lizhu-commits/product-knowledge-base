@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-09
 updated: 2026-05-18
 cloud: 人才发展云
-aliases: []
+aliases: [干部公示]
 ---
 
 ## 公示

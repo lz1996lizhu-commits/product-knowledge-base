@@ -6,7 +6,7 @@ author: 金蝶AI HR
 created: 2026-05-13
 updated: 2026-05-29
 cloud: 人才发展云
-aliases: []
+aliases: [员工档案]
 ---
 
 ## 1.1 产品介绍

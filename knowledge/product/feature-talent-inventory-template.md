@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-14
 updated: 2026-05-14
 cloud: 人才发展云
-aliases: []
+aliases: [盘点模板]
 ---
 
 ## 盘点活动模板

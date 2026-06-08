@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-28
 cloud: 人才供应云
-aliases: []
+aliases: [录用消息]
 ---
 
 # 录用通知（直通车）

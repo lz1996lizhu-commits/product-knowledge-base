@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-28
 updated: 2026-05-28
 cloud: 人才供应云
-aliases: []
+aliases: [定薪字段切换]
 ---
 
 # 如何根据录用申请单据字段动态切换定薪方式

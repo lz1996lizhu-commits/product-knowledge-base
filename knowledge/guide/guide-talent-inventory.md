@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 人才发展云
-aliases: []
+aliases: [人才盘点指南]
 ---
 
 # 人才盘点操作指南

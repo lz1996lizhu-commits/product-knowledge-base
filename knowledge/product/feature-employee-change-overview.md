@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
 cloud: 目标绩效云
-aliases: []
+aliases: [员工变动协作, 变动协同]
 ---
 
 ## 员工变动协作方案整体介绍

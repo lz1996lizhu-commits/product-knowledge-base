@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 目标绩效云
-aliases: []
+aliases: [绩效考核流程, 绩效流程]
 ---
 
 # 绩效考核活动流程

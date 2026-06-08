@@ -6,7 +6,7 @@ author: 金蝶AI HR
 created: 2026-03-01
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [专业委员会]
 ---
 
 ## 专委会架构与专委会组织

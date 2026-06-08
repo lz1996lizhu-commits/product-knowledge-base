@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-27
 updated: 2026-05-27
 cloud: 人才发展云
-aliases: []
+aliases: [职级申报无新增按钮]
 ---
 
 # HR自助服务中心职级申报为什么没有新增按钮

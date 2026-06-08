@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
 cloud: 目标绩效云
-aliases: []
+aliases: [员工绩效门户]
 ---
 
 ## 我的绩效

@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-28
 cloud: 人才供应云
-aliases: []
+aliases: [Offer, 聘书]
 ---
 
 # 录用通知书（Offer Letter）（直通车）

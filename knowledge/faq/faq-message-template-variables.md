@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-13
 updated: 2026-05-13
 cloud: 
-aliases: []
+aliases: [消息模板变量]
 ---
 
 # 消息模板变量取不到值/如何扩展业务字段到消息模板

@@ -6,7 +6,7 @@ author: 金蝶AI HR
 created: 2026-05-13
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [档案变动, 档案变更]
 ---
 
 ## 1 功能介绍

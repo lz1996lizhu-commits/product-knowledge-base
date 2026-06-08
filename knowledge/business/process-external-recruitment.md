@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 人才供应云
-aliases: []
+aliases: [外部招聘流程, 外招流程]
 ---
 
 # 外部招聘录用流程（招聘服务直通车）

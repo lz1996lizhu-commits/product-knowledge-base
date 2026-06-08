@@ -7,7 +7,7 @@ created: 2026-05-12
 updated: 2026-05-21
 source: 金蝶云社区知识库
 cloud: 目标绩效云
-aliases: []
+aliases: [考核对象]
 ---
 
 # 1 功能介绍

@@ -6,7 +6,7 @@ author: 金蝶AI HR
 created: 2026-03-01
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [评审组, 评定组]
 ---
 
 ## 认证组

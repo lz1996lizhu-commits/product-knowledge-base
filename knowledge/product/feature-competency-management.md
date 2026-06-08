@@ -6,7 +6,7 @@ author: 金蝶AI HR
 created: 2026-03-01
 updated: 2026-05-13
 cloud: 人才发展云
-aliases: []
+aliases: [能力素质, 胜任力, 胜任力模型, 能力模型, Competency]
 ---
 
 ## 能力素质管理

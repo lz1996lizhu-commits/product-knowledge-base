@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-27
 cloud: 人才供应云
-aliases: []
+aliases: [内招, 内部人才流动]
 ---
 
 # 内部招聘整体介绍

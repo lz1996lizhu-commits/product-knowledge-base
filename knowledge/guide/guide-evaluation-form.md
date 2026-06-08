@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
 cloud: 目标绩效云
-aliases: []
+aliases: [考核表配置, 评估表配置]
 ---
 
 ### 1功能介绍

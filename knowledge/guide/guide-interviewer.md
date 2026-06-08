@@ -6,7 +6,7 @@ author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
 cloud: 人才供应云
-aliases: []
+aliases: [面试官管理]
 ---
 
 # 人人面试官操作指南

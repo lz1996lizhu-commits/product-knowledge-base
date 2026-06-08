@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-28
 cloud: 人才供应云
-aliases: []
+aliases: [应聘者, 求职者, Candidate]
 ---
 
 # 候选人（直通车）

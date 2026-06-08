@@ -6,7 +6,7 @@ author: 产品团队
 created: 2026-05-14
 updated: 2026-05-14
 cloud: 人才发展云
-aliases: []
+aliases: [盘点评估方案]
 ---
 
 ## 盘点维度评估方案

@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-27
 cloud: 人才供应云
-aliases: []
+aliases: [招聘流程配置]
 ---
 
 # 招聘流程

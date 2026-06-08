@@ -6,7 +6,7 @@ author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-27
 cloud: 人才供应云
-aliases: []
+aliases: [Offer 模板]
 ---
 
 # 录用通知书模板（Offer Letter模板）
