@@ -18,13 +18,20 @@
 ## a
 
 ### ai
+- product/feature-express-ai-resume-parsing.md
 - product/feature-person-job-matching-agent.md
 
 ### ai辅助
 - guide/guide-ir-params-config.md
 
+### ai简历解析
+- product/feature-express-ai-resume-parsing.md
+
 ### ai星瀚
 - faq/faq-homepage-scheme-missing.md
+
+### ai增强
+- product/feature-express-ai-resume-parsing.md
 
 ### api对接
 - guide/guide-moka-integration.md
@@ -892,6 +899,7 @@
 ## 候
 
 ### 候选人
+- product/feature-express-ai-resume-parsing.md
 - product/feature-express-candidate.md
 - product/feature-ir-candidate.md
 - spec/spec-人才供应云-招聘服务直通车-候选人.md
@@ -1154,6 +1162,7 @@
 
 ### 简历解析
 - guide/guide-express-params-config.md
+- product/feature-express-ai-resume-parsing.md
 - product/feature-express-candidate.md
 
 ### 简历筛选
@@ -2434,6 +2443,7 @@
 
 ### 外部招聘
 - business/process-external-recruitment.md
+- product/feature-express-ai-resume-parsing.md
 - product/feature-recruitment-express.md
 - product/feature-talent-supply.md
 
@@ -2700,6 +2710,7 @@
 ## 招
 
 ### 招聘
+- product/feature-express-ai-resume-parsing.md
 - product/feature-talent-supply.md
 
 ### 招聘定薪
@@ -2780,6 +2791,7 @@
 ## 直
 
 ### 直通车
+- product/feature-express-ai-resume-parsing.md
 - product/feature-recruitment-express.md
 
 ### 直通车参数配置
@@ -2891,6 +2903,9 @@
 - spec/spec-目标绩效云-集成场景用例-指标制定.md
 
 ## 智
+
+### 智能简历解析
+- product/feature-express-ai-resume-parsing.md
 
 ### 智能体
 - product/feature-person-job-matching-agent.md
