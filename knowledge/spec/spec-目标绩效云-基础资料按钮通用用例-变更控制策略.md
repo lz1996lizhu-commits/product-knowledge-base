@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 6
 source: 测试用例库导出（拆分自: spec-performance-foundation.md）
+cloud: 目标绩效云
+aliases: []
 ---
 
 # 目标绩效云-基础资料按钮通用用例-变更控制策略

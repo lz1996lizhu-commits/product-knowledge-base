@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 15
 source: 测试用例库导出（拆分自: spec-performance-individual.md, spec-performance-self-service.md）
+cloud: 目标绩效云
+aliases: []
 ---
 
 # 目标绩效云-HR自助服务（PC端）-我的已办

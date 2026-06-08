@@ -5,6 +5,8 @@ tags: [评估表单, 基础配置, 绩效配置, KPI, BSC, PBC]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: [考核表配置, 评估表配置]
 ---
 
 ### 1功能介绍

@@ -5,6 +5,8 @@ tags: [认证组,认证组角色,认证组成员,专委会认证组,行政组织
 author: 金蝶AI HR
 created: 2026-03-01
 updated: 2026-05-13
+cloud: 人才发展云
+aliases: [评审组, 评定组]
 ---
 
 ## 认证组

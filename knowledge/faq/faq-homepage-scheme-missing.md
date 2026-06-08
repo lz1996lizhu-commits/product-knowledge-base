@@ -5,6 +5,8 @@ tags: [AI星瀚, 人才星图, 数据迁移, 平台配置, 栅栏视图]
 author: kingdee
 created: 2026-05-14
 updated: 2026-05-14
+cloud: 人才发展云
+aliases: []
 ---
 
 # 首页方案数据在系统中不存在，可能已经被删除

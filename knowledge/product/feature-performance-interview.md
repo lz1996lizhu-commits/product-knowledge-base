@@ -6,6 +6,8 @@ author: HR产品部
 created: 2026-05-12
 updated: 2026-05-20
 source: 金蝶云社区知识库
+cloud: 目标绩效云
+aliases: [1on1, 一对一, 考核面谈]
 ---
 
 ## **1 功能介绍**

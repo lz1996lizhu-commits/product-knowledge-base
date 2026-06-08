@@ -5,6 +5,8 @@ tags: [人才档案, 人才管理, 人员档案, 任职经历, 管理关系]
 author: 金蝶AI HR
 created: 2026-05-13
 updated: 2026-05-29
+cloud: 人才发展云
+aliases: [员工档案]
 ---
 
 ## 1.1 产品介绍

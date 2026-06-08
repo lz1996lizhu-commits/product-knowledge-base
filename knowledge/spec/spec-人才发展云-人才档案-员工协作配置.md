@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 14
 source: 测试用例库导出（拆分自: spec-talent-archive.md）
+cloud: 人才发展云
+aliases: []
 ---
 
 # 人才发展云-人才档案-员工协作配置

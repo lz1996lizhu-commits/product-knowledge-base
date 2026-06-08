@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 1423
 source: 测试用例库导出（拆分自: spec-performance-foundation.md, spec-performance-master-data.md）
+cloud: 目标绩效云
+aliases: []
 ---
 
 # 目标绩效云-个人绩效考核-基础配置

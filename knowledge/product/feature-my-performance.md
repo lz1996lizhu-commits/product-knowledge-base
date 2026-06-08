@@ -5,6 +5,8 @@ tags: [我的绩效, 员工自助, 绩效查询, 绩效结果]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: [员工绩效门户]
 ---
 
 ## 我的绩效

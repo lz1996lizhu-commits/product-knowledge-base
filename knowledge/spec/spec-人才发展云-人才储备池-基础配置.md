@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 450
 source: 测试用例库导出（拆分自: spec-talent-pool.md）
+cloud: 人才发展云
+aliases: []
 ---
 
 # 人才发展云-人才储备池-基础配置

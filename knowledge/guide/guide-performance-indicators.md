@@ -5,6 +5,8 @@ tags: [绩效指标, KPI, BSC, PBC, 指标制定, 操作指南]
 author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
+cloud: 目标绩效云
+aliases: [KPI 配置, 指标配置]
 ---
 
 # 绩效指标制定指南

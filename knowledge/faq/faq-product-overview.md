@@ -5,6 +5,8 @@ tags: [FAQ, 产品架构, 版本, 模块关系, 平台]
 author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
+cloud: 
+aliases: [产品 FAQ, 产品架构 FAQ]
 ---
 
 # 金蝶AI HR产品常见问题

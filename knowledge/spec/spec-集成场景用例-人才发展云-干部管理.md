@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 83
 source: 测试用例库导出（拆分自: spec-cadre-management.md）
+cloud: 人才发展云
+aliases: []
 ---
 
 # 集成场景用例-人才发展云-干部管理

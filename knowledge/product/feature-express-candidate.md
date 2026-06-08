@@ -5,6 +5,8 @@ tags: [招聘服务直通车,候选人,候选人管理,简历解析,导入候选
 author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-28
+cloud: 人才供应云
+aliases: [应聘者, 求职者, Candidate]
 ---
 
 # 候选人（直通车）
