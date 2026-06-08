@@ -5,6 +5,8 @@ tags: [人才盘点, FAQ, 盘点对象]
 author: 产品团队
 created: 2026-05-14
 updated: 2026-05-14
+cloud: 人才发展云
+aliases: []
 ---
 
 ## 已加入盘点对象与未加入盘点对象有什么区别？

@@ -5,6 +5,8 @@ tags: [术语, FAQ, 绩效术语, 考核计划, 评估对象范围]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 术语解释

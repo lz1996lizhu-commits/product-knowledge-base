@@ -5,6 +5,8 @@ tags: [考核计划, 绩效计划, 评估对象, 考核周期]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 1功能介绍

@@ -5,6 +5,8 @@ tags: [干部管理,试用期,转正,操作指南]
 author: 产品团队
 created: 2026-05-09
 updated: 2026-05-18
+cloud: 人才发展云
+aliases: []
 ---
 
 ## 干部试用及转正

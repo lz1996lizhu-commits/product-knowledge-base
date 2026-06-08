@@ -5,6 +5,8 @@ tags: [任职资格, 认证流程, 人才发展, 评委评议]
 author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
+cloud: 人才发展云
+aliases: []
 ---
 
 # 任职资格认证流程

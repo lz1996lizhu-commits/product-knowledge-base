@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 54
 source: 测试用例库导出（拆分自: spec-job-level.md）
+cloud: 人才发展云
+aliases: []
 ---
 
 # 集成场景用例-人才发展云-职级评定

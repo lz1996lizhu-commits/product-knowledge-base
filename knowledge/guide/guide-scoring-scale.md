@@ -5,6 +5,8 @@ tags: [评分分制, 基础配置, 绩效配置, 分制]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 评分分制

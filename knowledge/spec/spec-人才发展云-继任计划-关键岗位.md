@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 193
 source: 测试用例库导出（拆分自: spec-succession-plan.md）
+cloud: 人才发展云
+aliases: []
 ---
 
 # 人才发展云-继任计划-关键岗位

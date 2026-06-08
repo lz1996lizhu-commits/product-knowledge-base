@@ -5,6 +5,8 @@ tags: [人才档案,员工变动,入职,调动,离职,兼职,变动处理]
 author: 金蝶AI HR
 created: 2026-05-13
 updated: 2026-05-13
+cloud: 人才发展云
+aliases: []
 ---
 
 ## 1 功能介绍

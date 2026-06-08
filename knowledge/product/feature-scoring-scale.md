@@ -6,6 +6,8 @@ author: HR产品部
 created: 2026-05-20
 updated: 2026-05-21
 source: 金蝶云社区知识库
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 1 功能介绍

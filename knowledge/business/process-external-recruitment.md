@@ -5,6 +5,8 @@ tags: [外部招聘, 社会招聘, Moka集成, 录用通知书, 入职协同]
 author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
+cloud: 人才供应云
+aliases: []
 ---
 
 # 外部招聘录用流程（招聘服务直通车）

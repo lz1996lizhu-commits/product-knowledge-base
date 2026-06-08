@@ -5,6 +5,8 @@ tags: [员工协作, 协作配置, 绩效档案, 变动协同]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 员工协作配置

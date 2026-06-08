@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 517
 source: 测试用例库导出（拆分自: spec-recruitment-express.md）
+cloud: 人才供应云
+aliases: []
 ---
 
 # 人才供应云-招聘服务直通车-候选人

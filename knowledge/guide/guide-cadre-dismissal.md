@@ -5,6 +5,8 @@ tags: [干部管理, 免职申请, 任免流程, 操作指南]
 author: 产品团队
 created: 2026-05-09
 updated: 2026-05-29
+cloud: 人才发展云
+aliases: []
 ---
 
 ## 1 功能介绍

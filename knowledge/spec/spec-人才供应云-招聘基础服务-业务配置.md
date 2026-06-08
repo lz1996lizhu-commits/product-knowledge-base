@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 173
 source: 测试用例库导出（拆分自: spec-recruitment-foundation.md）
+cloud: 人才供应云
+aliases: []
 ---
 
 # 人才供应云-招聘基础服务-业务配置

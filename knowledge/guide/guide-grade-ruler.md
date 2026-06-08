@@ -5,6 +5,8 @@ tags: [等级标尺, 基础配置, 绩效配置, 集团管控]
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-12
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 等级标尺

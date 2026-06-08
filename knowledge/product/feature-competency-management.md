@@ -5,6 +5,8 @@ tags: [能力素质管理,能力等级方案,能力素质维度,能力素质项,
 author: 金蝶AI HR
 created: 2026-03-01
 updated: 2026-05-13
+cloud: 人才发展云
+aliases: []
 ---
 
 ## 能力素质管理

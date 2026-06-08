@@ -2,51 +2,41 @@
 
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从条目 frontmatter 重建。
 
-## A
+## a
 
-### AI
+### ai
 - product/feature-person-job-matching-agent.md
 
-### AI辅助
+### ai辅助
 - guide/guide-ir-params-config.md
 
-### AI星瀚
+### ai星瀚
 - faq/faq-homepage-scheme-missing.md
 
-### API对接
+### api对接
 - guide/guide-moka-integration.md
 
-## B
+## b
 
-### BSC
+### bsc
 - guide/guide-evaluation-form.md
 - guide/guide-performance-indicators.md
 - product/feature-evaluation-form.md
 - product/feature-performance-overview.md
 
-## D
+## d
 
-### DFX
+### dfx
 - spec/spec-人才发展云-人才档案-DFX.md
 - spec/spec-人才供应云-人人面试官-DFX.md
 
-## F
+## h
 
-### FAQ
-- faq/faq-job-level-no-add-button.md
-- faq/faq-performance-terminology.md
-- faq/faq-product-overview.md
-- faq/faq-talent-inventory-grid-types.md
-- faq/faq-talent-inventory-joined-vs-unjoined.md
-- faq/faq-talent-inventory-managed-vs-collaborated.md
-
-## H
-
-### HR
+### hr
 - product/feature-job-level-document-review.md
 - spec/spec-人才发展云-职级评定-HR.md
 
-### HR自助服务（PC端）
+### hr自助服务（pc端）
 - spec/spec-目标绩效云-HR自助服务（PC端）-平台待办已办任务.md
 - spec/spec-目标绩效云-HR自助服务（PC端）-平台消息.md
 - spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md
@@ -54,212 +44,46 @@
 - spec/spec-目标绩效云-HR自助服务（PC端）-我的绩效.md
 - spec/spec-目标绩效云-HR自助服务（PC端）-我的已办.md
 
-### HR自助服务中心
+### hr自助服务中心
 - faq/faq-job-level-no-add-button.md
 - spec/spec-人才供应云-HR自助服务中心-我要应聘.md
 
-## K
+## k
 
-### KPI
+### kpi
 - guide/guide-evaluation-form.md
 - guide/guide-performance-indicators.md
 - product/feature-evaluation-form.md
 - product/feature-indicator-setting.md
 - product/feature-performance-overview.md
 
-## M
+## m
 
-### Moka
+### moka
 - guide/guide-integration-external-recruitment.md
 - guide/guide-moka-integration.md
 - product/feature-recruitment-express.md
 
-### Moka集成
+### moka集成
 - business/process-external-recruitment.md
 - product/feature-talent-supply.md
 
-## O
+## o
 
-### Offer Letter
+### offer letter
 - guide/guide-offer-letter-template.md
 - product/feature-express-offer-letter.md
 
-### OpenAPI
+### openapi
 - guide/guide-integration-external-recruitment.md
 
-## P
+## p
 
-### PBC
+### pbc
 - guide/guide-evaluation-form.md
 - guide/guide-performance-indicators.md
 - product/feature-evaluation-form.md
 - product/feature-performance-overview.md
-
-## s
-
-### spec
-- spec/spec-集成场景用例-人才发展云-干部管理.md
-- spec/spec-集成场景用例-人才发展云-继任计划.md
-- spec/spec-集成场景用例-人才发展云-人才储备池.md
-- spec/spec-集成场景用例-人才发展云-人才档案.md
-- spec/spec-集成场景用例-人才发展云-人才发展基础服务.md
-- spec/spec-集成场景用例-人才发展云-人才盘点.md
-- spec/spec-集成场景用例-人才发展云-任职资格.md
-- spec/spec-集成场景用例-人才发展云-职级评定.md
-- spec/spec-集成场景用例-人才供应云-内部招聘.md
-- spec/spec-集成场景用例-人才供应云-招聘服务直通车.md
-- spec/spec-目标绩效云-HR自助服务（PC端）-平台待办已办任务.md
-- spec/spec-目标绩效云-HR自助服务（PC端）-平台消息.md
-- spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md
-- spec/spec-目标绩效云-HR自助服务（PC端）-我的待办.md
-- spec/spec-目标绩效云-HR自助服务（PC端）-我的绩效.md
-- spec/spec-目标绩效云-HR自助服务（PC端）-我的已办.md
-- spec/spec-目标绩效云-个人绩效考核-个人绩效结果.md
-- spec/spec-目标绩效云-个人绩效考核-基础服务.md
-- spec/spec-目标绩效云-个人绩效考核-基础配置.md
-- spec/spec-目标绩效云-个人绩效考核-绩效档案.md
-- spec/spec-目标绩效云-个人绩效考核-绩效面谈.md
-- spec/spec-目标绩效云-个人绩效考核-绩效评估.md
-- spec/spec-目标绩效云-个人绩效考核-绩效校准.md
-- spec/spec-目标绩效云-个人绩效考核-结果汇总.md
-- spec/spec-目标绩效云-个人绩效考核-结果确认.md
-- spec/spec-目标绩效云-个人绩效考核-考核计划.md
-- spec/spec-目标绩效云-个人绩效考核-校准活动.md
-- spec/spec-目标绩效云-个人绩效考核-指标制定.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-变更控制策略.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-分配.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-分配查询（按数据）.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-分配查询（按组织）.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-管理权转让.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-取消分配.md
-- spec/spec-目标绩效云-基础资料按钮通用用例-未分配查询.md
-- spec/spec-目标绩效云-集成场景用例-绩效档案.md
-- spec/spec-目标绩效云-集成场景用例-绩效结果.md
-- spec/spec-目标绩效云-集成场景用例-绩效面谈.md
-- spec/spec-目标绩效云-集成场景用例-绩效评估.md
-- spec/spec-目标绩效云-集成场景用例-绩效校准.md
-- spec/spec-目标绩效云-集成场景用例-结果汇总.md
-- spec/spec-目标绩效云-集成场景用例-结果确认.md
-- spec/spec-目标绩效云-集成场景用例-考核活动.md
-- spec/spec-目标绩效云-集成场景用例-指标制定.md
-- spec/spec-目标绩效云-新建库用例.md
-- spec/spec-目标绩效云-许可测试.md
-- spec/spec-目标绩效云-许可测试-档案变动任务许可占用.md
-- spec/spec-目标绩效云-许可测试-个人绩效档案列表许可占用.md
-- spec/spec-目标绩效云-许可测试-许可控制清单校验.md
-- spec/spec-目标绩效云-许可测试-许可套件校验.md
-- spec/spec-人才发展云-干部管理-对接核心人力.md
-- spec/spec-人才发展云-干部管理-干部管理工作台.md
-- spec/spec-人才发展云-干部管理-干部管理许可.md
-- spec/spec-人才发展云-干部管理-干部履历.md
-- spec/spec-人才发展云-干部管理-干部任免管理.md
-- spec/spec-人才发展云-干部管理-干部任期初始化.md
-- spec/spec-人才发展云-干部管理-干部任期管理.md
-- spec/spec-人才发展云-干部管理-干部任期明细报表.md
-- spec/spec-人才发展云-干部管理-干部试用期管理.md
-- spec/spec-人才发展云-干部管理-公共系统.md
-- spec/spec-人才发展云-干部管理-基础配置.md
-- spec/spec-人才发展云-干部管理-任免OP改造.md
-- spec/spec-人才发展云-继任计划-关键岗位.md
-- spec/spec-人才发展云-继任计划-基础配置.md
-- spec/spec-人才发展云-继任计划-继任地图.md
-- spec/spec-人才发展云-继任计划-继任候选人推荐.md
-- spec/spec-人才发展云-继任计划-继任申请单.md
-- spec/spec-人才发展云-继任计划-继任梯队管理.md
-- spec/spec-人才发展云-继任计划-继任者管理.md
-- spec/spec-人才发展云-人才储备池-储备池许可.md
-- spec/spec-人才发展云-人才储备池-基础配置.md
-- spec/spec-人才发展云-人才储备池-人才储备池.md
-- spec/spec-人才发展云-人才档案-DFX.md
-- spec/spec-人才发展云-人才档案-操作按钮.md
-- spec/spec-人才发展云-人才档案-列表.md
-- spec/spec-人才发展云-人才档案-人才档案F7.md
-- spec/spec-人才发展云-人才档案-事务变动匹配规则处理档案.md
-- spec/spec-人才发展云-人才档案-详情页.md
-- spec/spec-人才发展云-人才档案-员工变动及处理.md
-- spec/spec-人才发展云-人才档案-员工协作配置.md
-- spec/spec-人才发展云-人才发展基础服务-基础资料.md
-- spec/spec-人才发展云-人才发展基础服务-接口查询.md
-- spec/spec-人才发展云-人才发展基础服务-能力词典.md
-- spec/spec-人才发展云-人才发展基础服务-能力库.md
-- spec/spec-人才发展云-人才发展基础服务-人才发展基础服务许可.md
-- spec/spec-人才发展云-人才发展基础服务-认证组.md
-- spec/spec-人才发展云-人才发展基础服务-任职资格组织.md
-- spec/spec-人才发展云-人才发展基础服务-业务协同管理.md
-- spec/spec-人才发展云-人才发展基础服务-专委会组织.md
-- spec/spec-人才发展云-人才发展基础服务-专业委员会.md
-- spec/spec-人才发展云-人才盘点-基础配置.md
-- spec/spec-人才发展云-人才盘点-盘点活动.md
-- spec/spec-人才发展云-人才盘点-盘点计划.md
-- spec/spec-人才发展云-人才盘点-人才盘点许可.md
-- spec/spec-人才发展云-人才盘点-应用及菜单.md
-- spec/spec-人才发展云-人才星图-画像视图配置.md
-- spec/spec-人才发展云-人才星图-全景人才画像.md
-- spec/spec-人才发展云-人才星图-人才搜索.md
-- spec/spec-人才发展云-任职资格-待办消息.md
-- spec/spec-人才发展云-任职资格-定时任务.md
-- spec/spec-人才发展云-任职资格-二开需求.md
-- spec/spec-人才发展云-任职资格-公示管理.md
-- spec/spec-人才发展云-任职资格-基础配置.md
-- spec/spec-人才发展云-任职资格-认证公示.md
-- spec/spec-人才发展云-任职资格-认证计划.md
-- spec/spec-人才发展云-任职资格-认证结果通知.md
-- spec/spec-人才发展云-任职资格-认证考核.md
-- spec/spec-人才发展云-任职资格-认证申请.md
-- spec/spec-人才发展云-任职资格-认证申诉.md
-- spec/spec-人才发展云-任职资格-任职资格工作台.md
-- spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
-- spec/spec-人才发展云-任职资格-任职资格许可.md
-- spec/spec-人才发展云-任职资格-团队空间视图.md
-- spec/spec-人才发展云-任职资格-员工门户.md
-- spec/spec-人才发展云-任职资格-员工自评.md
-- spec/spec-人才发展云-任职资格-资格认证.md
-- spec/spec-人才发展云-任职资格-资格审查.md
-- spec/spec-人才发展云-职级评定-HR.md
-- spec/spec-人才发展云-职级评定-报批管理.md
-- spec/spec-人才发展云-职级评定-工作台.md
-- spec/spec-人才发展云-职级评定-公共设置.md
-- spec/spec-人才发展云-职级评定-基础配置.md
-- spec/spec-人才发展云-职级评定-结果报批.md
-- spec/spec-人才发展云-职级评定-结果决议.md
-- spec/spec-人才发展云-职级评定-晋升提名.md
-- spec/spec-人才发展云-职级评定-名单确认.md
-- spec/spec-人才发展云-职级评定-评定计划.md
-- spec/spec-人才发展云-职级评定-评定流程.md
-- spec/spec-人才发展云-职级评定-评审安排.md
-- spec/spec-人才发展云-职级评定-评审评议.md
-- spec/spec-人才发展云-职级评定-员工.md
-- spec/spec-人才发展云-职级评定-职级申报结果表.md
-- spec/spec-人才发展云-职级评定-职级申报结果表数据升级.md
-- spec/spec-人才发展云-职级评定-职级职等调整.md
-- spec/spec-人才发展云-职级评定-资料复核.md
-- spec/spec-人才供应云-HR自助服务中心-我要应聘.md
-- spec/spec-人才供应云-内部招聘-候选人管理.md
-- spec/spec-人才供应云-内部招聘-录用决策.md
-- spec/spec-人才供应云-内部招聘-面试.md
-- spec/spec-人才供应云-内部招聘-内部招聘首页.md
-- spec/spec-人才供应云-内部招聘-渠道广告.md
-- spec/spec-人才供应云-内部招聘-人才库管理.md
-- spec/spec-人才供应云-内部招聘-许可.md
-- spec/spec-人才供应云-内部招聘-运营管理.md
-- spec/spec-人才供应云-内部招聘-招聘职位.md
-- spec/spec-人才供应云-人人面试官-DFX.md
-- spec/spec-人才供应云-人人面试官-简历筛选.md
-- spec/spec-人才供应云-人人面试官-面试评价.md
-- spec/spec-人才供应云-人人面试官-首页.md
-- spec/spec-人才供应云-招聘服务直通车-工作台.md
-- spec/spec-人才供应云-招聘服务直通车-候选人.md
-- spec/spec-人才供应云-招聘服务直通车-候选人日志.md
-- spec/spec-人才供应云-招聘服务直通车-录用申请.md
-- spec/spec-人才供应云-招聘服务直通车-录用通知.md
-- spec/spec-人才供应云-招聘服务直通车-入职协同单.md
-- spec/spec-人才供应云-招聘服务直通车-生态链接.md
-- spec/spec-人才供应云-招聘基础服务-参数配置.md
-- spec/spec-人才供应云-招聘基础服务-业务配置.md
-- spec/spec-人才供应云-招聘基础数据-基础资料.md
-- spec/spec-人才供应云-招聘基础数据-渠道管理.md
-- spec/spec-人才供应云-招聘基础数据-消息管理.md
-- spec/spec-人才供应云-招聘基础数据-招聘业务配置.md
 
 ## 版
 
@@ -328,29 +152,6 @@
 
 ### 操作按钮
 - spec/spec-人才发展云-人才档案-操作按钮.md
-
-### 操作指南
-- guide/guide-cadre-appointment-nomination.md
-- guide/guide-cadre-deliberation.md
-- guide/guide-cadre-dismissal.md
-- guide/guide-cadre-evaluation.md
-- guide/guide-cadre-evaluation-collaboration.md
-- guide/guide-cadre-investigation.md
-- guide/guide-cadre-investigation-collaboration.md
-- guide/guide-cadre-probation.md
-- guide/guide-cadre-probation-investigation.md
-- guide/guide-cadre-publication.md
-- guide/guide-cadre-publicity.md
-- guide/guide-cadre-qualification-review.md
-- guide/guide-cadre-term.md
-- guide/guide-interviewer.md
-- guide/guide-performance-indicators.md
-- guide/guide-talent-inventory.md
-- guide/guide-talent-inventory-calibration.md
-- guide/guide-talent-inventory-create-activity.md
-- guide/guide-talent-inventory-grouping.md
-- guide/guide-talent-inventory-object-grouping.md
-- guide/guide-talent-inventory-process.md
 
 ## 测
 
@@ -519,11 +320,6 @@
 - spec/spec-人才供应云-招聘基础数据-招聘业务配置.md
 
 ## 产
-
-### 产品概述
-- product/feature-job-level-overview.md
-- product/feature-performance-overview.md
-- product/feature-talent-inventory-overview.md
 
 ### 产品架构
 - faq/faq-product-overview.md
@@ -1023,30 +819,6 @@
 
 ### 基础服务
 - spec/spec-目标绩效云-个人绩效考核-基础服务.md
-
-### 基础配置
-- guide/guide-evaluation-form.md
-- guide/guide-grade-rule.md
-- guide/guide-grade-ruler.md
-- guide/guide-performance-process.md
-- guide/guide-role-type.md
-- guide/guide-scoring-scale.md
-- product/feature-evaluation-form.md
-- product/feature-job-level-application-materials.md
-- product/feature-job-level-application-qualification.md
-- product/feature-job-level-evaluation-form.md
-- product/feature-job-level-review-method.md
-- product/feature-job-level-standard.md
-- product/feature-scoring-scale.md
-- product/feature-talent-inventory-evaluation-item.md
-- product/feature-talent-inventory-evaluation-scheme.md
-- spec/spec-目标绩效云-个人绩效考核-基础配置.md
-- spec/spec-人才发展云-干部管理-基础配置.md
-- spec/spec-人才发展云-继任计划-基础配置.md
-- spec/spec-人才发展云-人才储备池-基础配置.md
-- spec/spec-人才发展云-人才盘点-基础配置.md
-- spec/spec-人才发展云-任职资格-基础配置.md
-- spec/spec-人才发展云-职级评定-基础配置.md
 
 ### 基础数据
 - product/feature-recruitment-foundation.md
@@ -1844,7 +1616,7 @@
 - spec/spec-人才发展云-人才档案-员工变动及处理.md
 - spec/spec-人才发展云-人才档案-员工协作配置.md
 
-### 人才档案F7
+### 人才档案f7
 - spec/spec-人才发展云-人才档案-人才档案F7.md
 
 ### 人才发展
@@ -2109,7 +1881,7 @@
 
 ## 任
 
-### 任免OP改造
+### 任免op改造
 - spec/spec-人才发展云-干部管理-任免OP改造.md
 
 ### 任免流程
@@ -2614,13 +2386,6 @@
 - product/feature-internal-recruitment.md
 - product/feature-ir-position.md
 - spec/spec-人才供应云-内部招聘-招聘职位.md
-
-## 整
-
-### 整体介绍
-- product/feature-cadre-management.md
-- product/feature-performance-overview.md
-- product/feature-talent-inventory-overview.md
 
 ## 职
 

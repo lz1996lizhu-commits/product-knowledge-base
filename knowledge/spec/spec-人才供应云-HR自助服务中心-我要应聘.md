@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 163
 source: 测试用例库导出（拆分自: spec-hr-self-service.md）
+cloud: 人才供应云
+aliases: []
 ---
 
 # 人才供应云-HR自助服务中心-我要应聘

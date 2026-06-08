@@ -5,6 +5,8 @@ tags: [目标绩效, 绩效考核, 绩效管理, 整体介绍, 产品概述, KPI
 author: HR产品部
 created: 2026-05-12
 updated: 2026-05-29
+cloud: 目标绩效云
+aliases: []
 ---
 
 ## 1.应用场景

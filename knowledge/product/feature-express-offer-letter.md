@@ -5,6 +5,8 @@ tags: [招聘服务直通车,录用通知书,Offer Letter,加密附件,在线链
 author: 知识库管理员
 created: 2026-05-11
 updated: 2026-05-28
+cloud: 人才供应云
+aliases: []
 ---
 
 # 录用通知书（Offer Letter）（直通车）

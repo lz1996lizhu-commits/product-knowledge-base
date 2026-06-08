@@ -5,6 +5,8 @@ tags: [人才盘点, 盘点计划, 盘点活动, 校准, 操作指南]
 author: HR产品部
 created: 2026-05-09
 updated: 2026-05-09
+cloud: 人才发展云
+aliases: []
 ---
 
 # 人才盘点操作指南

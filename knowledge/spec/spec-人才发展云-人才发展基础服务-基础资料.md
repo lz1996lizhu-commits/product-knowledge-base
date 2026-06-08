@@ -7,6 +7,8 @@ created: 2026-05-28
 updated: 2026-05-28
 test_case_count: 506
 source: 测试用例库导出（拆分自: spec-talent-dev-foundation.md）
+cloud: 人才发展云
+aliases: []
 ---
 
 # 人才发展云-人才发展基础服务-基础资料

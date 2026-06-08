@@ -5,6 +5,8 @@ tags: [人才盘点, 盘点活动模板, 模板配置]
 author: 产品团队
 created: 2026-05-14
 updated: 2026-05-14
+cloud: 人才发展云
+aliases: []
 ---
 
 ## 盘点活动模板
