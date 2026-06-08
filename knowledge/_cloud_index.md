@@ -233,7 +233,7 @@
 | spec/spec-目标绩效云-许可测试-许可控制清单校验.md | 目标绩效云-许可测试-许可控制清单校验测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-许可测试-许可套件校验.md | 目标绩效云-许可测试-许可套件校验测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （64 条）
+## 人才供应云 （65 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -254,6 +254,7 @@
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-channel.md | 招聘渠道配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-process-config.md | 招聘流程配置 | guide | 2026-05-27 |
+| product/feature-express-ai-resume-parsing.md | AI增强功能介绍（直通车） | product | 2026-06-08 |
 | product/feature-express-candidate.md | 候选人（直通车） | product | 2026-05-28 |
 | product/feature-express-eco-tenant.md | 生态租户 | product | 2026-05-28 |
 | product/feature-express-hire-application.md | 录用申请（直通车） | product | 2026-05-28 |

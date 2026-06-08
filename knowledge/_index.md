@@ -18,6 +18,7 @@
 | product/feature-employee-collaboration-config.md | 员工协作配置 | 员工协作,协作配置,绩效档案,变动协同 | 2026-05-12 |
 | product/feature-evaluation-form.md | 评估表单 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-20 |
 | product/feature-evaluation-object-mgmt.md | 评估对象管理 | 评估对象,考核活动,考核组,考核责任人 | 2026-05-21 |
+| product/feature-express-ai-resume-parsing.md | AI增强功能介绍（直通车） | AI,简历解析,招聘,直通车,候选人,外部招聘 | 2026-06-08 |
 | product/feature-express-candidate.md | 候选人（直通车） | 招聘服务直通车,候选人,候选人管理,简历解析,导入候选人,批量新增 | 2026-05-28 |
 | product/feature-express-eco-tenant.md | 生态租户 | 招聘服务直通车,生态租户,第三方招聘系统,组织映射,数据管理归属 | 2026-05-28 |
 | product/feature-express-hire-application.md | 录用申请（直通车） | 招聘服务直通车,录用申请,录用审批,薪酬定薪,录用通知书 | 2026-05-28 |
