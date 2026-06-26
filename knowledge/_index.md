@@ -62,6 +62,12 @@
 | product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
 | product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
 | product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准 | 2026-05-09 |
+| product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述,KPI,BSC,PBC | 2026-06-26 |
+| product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
+| product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
+| product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
+| product/feature-performance-strategy-insights.md | 目标绩效管理体系与业务洞察 | 目标绩效,绩效管理,战略落地,企业发展阶段,职位体系,KPI,BSC,PBC,OKR,绩效趋势 | 2026-06-26 |
+| product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准,V8.0,绩效政策,考核计划,绩效档案,指标库,角色类型 | 2026-06-26 |
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | 人岗匹配,智能体,技能画像,AI,人才管理 | 2026-05-20 |
 | product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka,混合云 | 2026-05-28 |
 | product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | 招聘基础服务,基础数据,业务配置,招聘流程,消息模板,面试评价表,参数配置 | 2026-05-27 |
@@ -75,6 +81,7 @@
 | product/feature-talent-archive-overview.md | 人才档案整体介绍 | 人才档案,人才管理,人员档案,任职经历,管理关系 | 2026-05-29 |
 | product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | 人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系 | 2026-05-13 |
 | product/feature-talent-development.md | 人才发展云产品概述 | 人才发展,人才档案,任职资格,职级评定,人才盘点,干部管理,人才储备池,继任计划,人才星图,能力素质,V8.0 | 2026-06-26 |
+| product/feature-talent-development.md | 人才发展云产品概述 | 人才发展,人才档案,任职资格,职级评定,人才盘点,干部管理 | 2026-05-09 |
 | product/feature-talent-inventory-evaluation-item.md | 评估项 | 人才盘点,评估项,基础配置 | 2026-05-14 |
 | product/feature-talent-inventory-evaluation-scheme.md | 盘点维度评估方案 | 人才盘点,盘点维度,评估方案,基础配置 | 2026-05-14 |
 | product/feature-talent-inventory-overview.md | 人才盘点整体介绍 | 人才盘点,整体介绍,产品概述 | 2026-05-14 |
@@ -90,6 +97,7 @@
 |------|------|------|----------|
 | business/process-external-recruitment.md | 外部招聘录用流程 | 外部招聘,社会招聘,Moka集成,录用通知书,入职协同 | 2026-05-09 |
 | business/process-internal-recruitment.md | 内部招聘全流程 | 内部招聘,招聘流程,职位发布,面试,录用 | 2026-05-09 |
+| business/process-performance-implementation.md | 目标绩效云交付实施配置指南 | 目标绩效,交付实施,绩效配置,绩效规则,考核计划,考核活动,绩效落地 | 2026-06-26 |
 | business/process-performance-review.md | 绩效考核活动流程 | 绩效考核,指标制定,绩效评估,结果校准,结果确认 | 2026-05-09 |
 | business/process-qualification.md | 任职资格认证流程 | 任职资格,认证流程,人才发展,评委评议 | 2026-05-09 |
 

@@ -61,6 +61,7 @@
 | product/feature-talent-archive-overview.md | 人才档案整体介绍 | product | 2026-05-29 |
 | product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | product | 2026-05-13 |
 | product/feature-talent-development.md | 人才发展云产品概述 | product | 2026-06-26 |
+| product/feature-talent-development.md | 人才发展云产品概述 | product | 2026-05-09 |
 | product/feature-talent-inventory-evaluation-item.md | 评估项 | product | 2026-05-14 |
 | product/feature-talent-inventory-evaluation-scheme.md | 盘点维度评估方案 | product | 2026-05-14 |
 | product/feature-talent-inventory-overview.md | 人才盘点整体介绍 | product | 2026-05-14 |
@@ -162,10 +163,11 @@
 | spec/spec-集成场景用例-人才发展云-继任计划.md | 集成场景用例-人才发展云-继任计划测试用例规格 | spec | 2026-05-28 |
 | spec/spec-集成场景用例-人才发展云-职级评定.md | 集成场景用例-人才发展云-职级评定测试用例规格 | spec | 2026-05-28 |
 
-## 目标绩效云 （69 条）
+## 目标绩效云 （71 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
+| business/process-performance-implementation.md | 目标绩效云交付实施配置指南 | business | 2026-06-26 |
 | business/process-performance-review.md | 绩效考核活动流程 | business | 2026-05-09 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | faq | 2026-05-12 |
 | guide/guide-evaluation-form.md | 评估表单配置指南 | guide | 2026-05-12 |
@@ -192,6 +194,12 @@
 | product/feature-performance-plan.md | 考核计划 | product | 2026-05-12 |
 | product/feature-performance-result.md | 绩效结果 | product | 2026-05-21 |
 | product/feature-performance.md | 目标绩效云产品概述 | product | 2026-05-09 |
+| product/feature-performance-overview.md | 目标绩效云整体介绍 | product | 2026-06-26 |
+| product/feature-performance-plan-overview.md | 考核计划的整体介绍 | product | 2026-05-12 |
+| product/feature-performance-plan.md | 考核计划 | product | 2026-05-12 |
+| product/feature-performance-result.md | 绩效结果 | product | 2026-05-21 |
+| product/feature-performance-strategy-insights.md | 目标绩效管理体系与业务洞察 | product | 2026-06-26 |
+| product/feature-performance.md | 目标绩效云产品概述 | product | 2026-06-26 |
 | product/feature-result-confirmation.md | 结果确认 | product | 2026-05-21 |
 | product/feature-result-summary.md | 结果汇总 | product | 2026-05-21 |
 | product/feature-scoring-scale.md | 评分分制 | product | 2026-05-21 |
