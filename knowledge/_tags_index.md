@@ -142,6 +142,7 @@
 ## v
 
 ### v8.0
+- product/feature-talent-development.md
 - product/feature-performance.md
 
 ## 一
@@ -254,6 +255,558 @@
 - faq/faq-product-overview.md
 
 ## 人
+
+### 人事变动
+- product/feature-employee-change-overview.md
+- product/feature-ir-hire-application.md
+
+### 人事变动状态回传
+- product/feature-express-onboard-application.md
+
+### 人人面试官
+- guide/guide-interviewer.md
+- product/feature-interviewer-portal.md
+- spec/spec-人才供应云-人人面试官-DFX.md
+- spec/spec-人才供应云-人人面试官-简历筛选.md
+- spec/spec-人才供应云-人人面试官-面试评价.md
+- spec/spec-人才供应云-人人面试官-首页.md
+
+### 人员档案
+- product/feature-job-level-batch-adjustment.md
+- product/feature-talent-archive-overview.md
+
+### 人岗匹配
+- product/feature-person-job-matching-agent.md
+
+### 人才九宫格
+- product/feature-talent-inventory-overview.md
+
+### 人才供应
+- product/feature-talent-supply.md
+
+### 人才供应云
+- product/feature-talent-supply.md
+- spec/spec-人才供应云-HR自助服务中心-我要应聘.md
+- spec/spec-人才供应云-人人面试官-DFX.md
+- spec/spec-人才供应云-人人面试官-简历筛选.md
+- spec/spec-人才供应云-人人面试官-面试评价.md
+- spec/spec-人才供应云-人人面试官-首页.md
+- spec/spec-人才供应云-内部招聘-人才库管理.md
+- spec/spec-人才供应云-内部招聘-候选人管理.md
+- spec/spec-人才供应云-内部招聘-内部招聘首页.md
+- spec/spec-人才供应云-内部招聘-录用决策.md
+- spec/spec-人才供应云-内部招聘-招聘职位.md
+- spec/spec-人才供应云-内部招聘-渠道广告.md
+- spec/spec-人才供应云-内部招聘-许可.md
+- spec/spec-人才供应云-内部招聘-运营管理.md
+- spec/spec-人才供应云-内部招聘-面试.md
+- spec/spec-人才供应云-招聘基础数据-基础资料.md
+- spec/spec-人才供应云-招聘基础数据-招聘业务配置.md
+- spec/spec-人才供应云-招聘基础数据-消息管理.md
+- spec/spec-人才供应云-招聘基础数据-渠道管理.md
+- spec/spec-人才供应云-招聘基础服务-业务配置.md
+- spec/spec-人才供应云-招聘基础服务-参数配置.md
+- spec/spec-人才供应云-招聘服务直通车-候选人.md
+- spec/spec-人才供应云-招聘服务直通车-候选人日志.md
+- spec/spec-人才供应云-招聘服务直通车-入职协同单.md
+- spec/spec-人才供应云-招聘服务直通车-工作台.md
+- spec/spec-人才供应云-招聘服务直通车-录用申请.md
+- spec/spec-人才供应云-招聘服务直通车-录用通知.md
+- spec/spec-人才供应云-招聘服务直通车-生态链接.md
+- spec/spec-集成场景用例-人才供应云-内部招聘.md
+- spec/spec-集成场景用例-人才供应云-招聘服务直通车.md
+
+### 人才储备
+- product/feature-talent-pool.md
+
+### 人才储备池
+- product/feature-talent-development.md
+- product/feature-talent-pool.md
+- spec/spec-人才发展云-人才储备池-人才储备池.md
+- spec/spec-人才发展云-人才储备池-储备池许可.md
+- spec/spec-人才发展云-人才储备池-基础配置.md
+- spec/spec-集成场景用例-人才发展云-人才储备池.md
+
+### 人才发展
+- business/process-qualification.md
+- product/feature-succession-plan.md
+- product/feature-talent-development.md
+- product/feature-talent-pool.md
+- product/feature-talent-star-map.md
+
+### 人才发展云
+- product/feature-cadre-management.md
+- product/feature-job-level-overview.md
+- spec/spec-人才发展云-人才储备池-人才储备池.md
+- spec/spec-人才发展云-人才储备池-储备池许可.md
+- spec/spec-人才发展云-人才储备池-基础配置.md
+- spec/spec-人才发展云-人才发展基础服务-专业委员会.md
+- spec/spec-人才发展云-人才发展基础服务-专委会组织.md
+- spec/spec-人才发展云-人才发展基础服务-业务协同管理.md
+- spec/spec-人才发展云-人才发展基础服务-人才发展基础服务许可.md
+- spec/spec-人才发展云-人才发展基础服务-任职资格组织.md
+- spec/spec-人才发展云-人才发展基础服务-基础资料.md
+- spec/spec-人才发展云-人才发展基础服务-接口查询.md
+- spec/spec-人才发展云-人才发展基础服务-能力库.md
+- spec/spec-人才发展云-人才发展基础服务-能力词典.md
+- spec/spec-人才发展云-人才发展基础服务-认证组.md
+- spec/spec-人才发展云-人才星图-人才搜索.md
+- spec/spec-人才发展云-人才星图-全景人才画像.md
+- spec/spec-人才发展云-人才星图-画像视图配置.md
+- spec/spec-人才发展云-人才档案-DFX.md
+- spec/spec-人才发展云-人才档案-事务变动匹配规则处理档案.md
+- spec/spec-人才发展云-人才档案-人才档案F7.md
+- spec/spec-人才发展云-人才档案-列表.md
+- spec/spec-人才发展云-人才档案-员工协作配置.md
+- spec/spec-人才发展云-人才档案-员工变动及处理.md
+- spec/spec-人才发展云-人才档案-操作按钮.md
+- spec/spec-人才发展云-人才档案-详情页.md
+- spec/spec-人才发展云-人才盘点-人才盘点许可.md
+- spec/spec-人才发展云-人才盘点-基础配置.md
+- spec/spec-人才发展云-人才盘点-应用及菜单.md
+- spec/spec-人才发展云-人才盘点-盘点活动.md
+- spec/spec-人才发展云-人才盘点-盘点计划.md
+- spec/spec-人才发展云-任职资格-二开需求.md
+- spec/spec-人才发展云-任职资格-任职资格工作台.md
+- spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
+- spec/spec-人才发展云-任职资格-任职资格许可.md
+- spec/spec-人才发展云-任职资格-公示管理.md
+- spec/spec-人才发展云-任职资格-员工自评.md
+- spec/spec-人才发展云-任职资格-员工门户.md
+- spec/spec-人才发展云-任职资格-团队空间视图.md
+- spec/spec-人才发展云-任职资格-基础配置.md
+- spec/spec-人才发展云-任职资格-定时任务.md
+- spec/spec-人才发展云-任职资格-待办消息.md
+- spec/spec-人才发展云-任职资格-认证公示.md
+- spec/spec-人才发展云-任职资格-认证申诉.md
+- spec/spec-人才发展云-任职资格-认证申请.md
+- spec/spec-人才发展云-任职资格-认证结果通知.md
+- spec/spec-人才发展云-任职资格-认证考核.md
+- spec/spec-人才发展云-任职资格-认证计划.md
+- spec/spec-人才发展云-任职资格-资格审查.md
+- spec/spec-人才发展云-任职资格-资格认证.md
+- spec/spec-人才发展云-干部管理-任免OP改造.md
+- spec/spec-人才发展云-干部管理-公共系统.md
+- spec/spec-人才发展云-干部管理-基础配置.md
+- spec/spec-人才发展云-干部管理-对接核心人力.md
+- spec/spec-人才发展云-干部管理-干部任免管理.md
+- spec/spec-人才发展云-干部管理-干部任期初始化.md
+- spec/spec-人才发展云-干部管理-干部任期明细报表.md
+- spec/spec-人才发展云-干部管理-干部任期管理.md
+- spec/spec-人才发展云-干部管理-干部履历.md
+- spec/spec-人才发展云-干部管理-干部管理工作台.md
+- spec/spec-人才发展云-干部管理-干部管理许可.md
+- spec/spec-人才发展云-干部管理-干部试用期管理.md
+- spec/spec-人才发展云-继任计划-关键岗位.md
+- spec/spec-人才发展云-继任计划-基础配置.md
+- spec/spec-人才发展云-继任计划-继任候选人推荐.md
+- spec/spec-人才发展云-继任计划-继任地图.md
+- spec/spec-人才发展云-继任计划-继任梯队管理.md
+- spec/spec-人才发展云-继任计划-继任申请单.md
+- spec/spec-人才发展云-继任计划-继任者管理.md
+- spec/spec-人才发展云-职级评定-HR.md
+- spec/spec-人才发展云-职级评定-公共设置.md
+- spec/spec-人才发展云-职级评定-名单确认.md
+- spec/spec-人才发展云-职级评定-员工.md
+- spec/spec-人才发展云-职级评定-基础配置.md
+- spec/spec-人才发展云-职级评定-工作台.md
+- spec/spec-人才发展云-职级评定-报批管理.md
+- spec/spec-人才发展云-职级评定-晋升提名.md
+- spec/spec-人才发展云-职级评定-结果决议.md
+- spec/spec-人才发展云-职级评定-结果报批.md
+- spec/spec-人才发展云-职级评定-职级申报结果表.md
+- spec/spec-人才发展云-职级评定-职级申报结果表数据升级.md
+- spec/spec-人才发展云-职级评定-职级职等调整.md
+- spec/spec-人才发展云-职级评定-评定流程.md
+- spec/spec-人才发展云-职级评定-评定计划.md
+- spec/spec-人才发展云-职级评定-评审安排.md
+- spec/spec-人才发展云-职级评定-评审评议.md
+- spec/spec-人才发展云-职级评定-资料复核.md
+- spec/spec-集成场景用例-人才发展云-人才储备池.md
+- spec/spec-集成场景用例-人才发展云-人才发展基础服务.md
+- spec/spec-集成场景用例-人才发展云-人才档案.md
+- spec/spec-集成场景用例-人才发展云-人才盘点.md
+- spec/spec-集成场景用例-人才发展云-任职资格.md
+- spec/spec-集成场景用例-人才发展云-干部管理.md
+- spec/spec-集成场景用例-人才发展云-继任计划.md
+- spec/spec-集成场景用例-人才发展云-职级评定.md
+
+### 人才发展云v8.0
+- product/feature-talent-development.md
+
+### 人才发展基础服务
+- product/feature-talent-dev-foundation.md
+- spec/spec-人才发展云-人才发展基础服务-专业委员会.md
+- spec/spec-人才发展云-人才发展基础服务-专委会组织.md
+- spec/spec-人才发展云-人才发展基础服务-业务协同管理.md
+- spec/spec-人才发展云-人才发展基础服务-人才发展基础服务许可.md
+- spec/spec-人才发展云-人才发展基础服务-任职资格组织.md
+- spec/spec-人才发展云-人才发展基础服务-基础资料.md
+- spec/spec-人才发展云-人才发展基础服务-接口查询.md
+- spec/spec-人才发展云-人才发展基础服务-能力库.md
+- spec/spec-人才发展云-人才发展基础服务-能力词典.md
+- spec/spec-人才发展云-人才发展基础服务-认证组.md
+- spec/spec-集成场景用例-人才发展云-人才发展基础服务.md
+
+### 人才发展基础服务许可
+- spec/spec-人才发展云-人才发展基础服务-人才发展基础服务许可.md
+
+### 人才发展整体介绍
+- product/feature-talent-development.md
+
+### 人才培养
+- product/feature-talent-pool.md
+
+### 人才对比
+- product/feature-talent-star-map.md
+
+### 人才库
+- product/feature-internal-recruitment.md
+
+### 人才库管理
+- spec/spec-人才供应云-内部招聘-人才库管理.md
+
+### 人才搜索
+- product/feature-talent-star-map.md
+- spec/spec-人才发展云-人才星图-人才搜索.md
+
+### 人才星图
+- faq/faq-homepage-scheme-missing.md
+- product/feature-talent-development.md
+- product/feature-talent-star-map.md
+- spec/spec-人才发展云-人才星图-人才搜索.md
+- spec/spec-人才发展云-人才星图-全景人才画像.md
+- spec/spec-人才发展云-人才星图-画像视图配置.md
+
+### 人才档案
+- product/feature-talent-archive-change.md
+- product/feature-talent-archive-collaboration.md
+- product/feature-talent-archive-maintenance.md
+- product/feature-talent-archive-overview.md
+- product/feature-talent-development.md
+- spec/spec-人才发展云-人才档案-DFX.md
+- spec/spec-人才发展云-人才档案-事务变动匹配规则处理档案.md
+- spec/spec-人才发展云-人才档案-人才档案F7.md
+- spec/spec-人才发展云-人才档案-列表.md
+- spec/spec-人才发展云-人才档案-员工协作配置.md
+- spec/spec-人才发展云-人才档案-员工变动及处理.md
+- spec/spec-人才发展云-人才档案-操作按钮.md
+- spec/spec-人才发展云-人才档案-详情页.md
+- spec/spec-集成场景用例-人才发展云-人才档案.md
+
+### 人才档案f7
+- spec/spec-人才发展云-人才档案-人才档案F7.md
+
+### 人才梯队
+- product/feature-succession-plan.md
+- product/feature-talent-pool.md
+
+### 人才池
+- product/feature-talent-pool.md
+
+### 人才流动
+- product/feature-internal-recruitment.md
+
+### 人才画像
+- product/feature-talent-star-map.md
+
+### 人才盘点
+- faq/faq-talent-inventory-grid-types.md
+- faq/faq-talent-inventory-joined-vs-unjoined.md
+- faq/faq-talent-inventory-managed-vs-collaborated.md
+- guide/guide-talent-inventory-calibration.md
+- guide/guide-talent-inventory-create-activity.md
+- guide/guide-talent-inventory-grouping.md
+- guide/guide-talent-inventory-object-grouping.md
+- guide/guide-talent-inventory-process.md
+- guide/guide-talent-inventory.md
+- product/feature-talent-development.md
+- product/feature-talent-inventory-evaluation-item.md
+- product/feature-talent-inventory-evaluation-scheme.md
+- product/feature-talent-inventory-overview.md
+- product/feature-talent-inventory-plan.md
+- product/feature-talent-inventory-template.md
+- spec/spec-人才发展云-人才盘点-人才盘点许可.md
+- spec/spec-人才发展云-人才盘点-基础配置.md
+- spec/spec-人才发展云-人才盘点-应用及菜单.md
+- spec/spec-人才发展云-人才盘点-盘点活动.md
+- spec/spec-人才发展云-人才盘点-盘点计划.md
+- spec/spec-集成场景用例-人才发展云-人才盘点.md
+
+### 人才盘点指南
+- guide/guide-talent-inventory.md
+
+### 人才盘点许可
+- spec/spec-人才发展云-人才盘点-人才盘点许可.md
+
+### 人才管理
+- product/feature-person-job-matching-agent.md
+- product/feature-talent-archive-maintenance.md
+- product/feature-talent-archive-overview.md
+
+### 人才管理组织
+- product/feature-committee-architecture.md
+
+## 任
+
+### 任免op改造
+- spec/spec-人才发展云-干部管理-任免OP改造.md
+
+### 任免流程
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-dismissal.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-qualification-review.md
+- product/feature-cadre-management.md
+
+### 任命
+- guide/guide-cadre-appointment-nomination.md
+
+### 任命提名
+- guide/guide-cadre-appointment-nomination.md
+
+### 任期生成
+- guide/guide-cadre-term.md
+
+### 任期管理
+- guide/guide-cadre-term.md
+- product/feature-cadre-management.md
+
+### 任职经历
+- product/feature-talent-archive-overview.md
+
+### 任职资格
+- business/process-qualification.md
+- product/feature-talent-development.md
+- spec/spec-人才发展云-任职资格-二开需求.md
+- spec/spec-人才发展云-任职资格-任职资格工作台.md
+- spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
+- spec/spec-人才发展云-任职资格-任职资格许可.md
+- spec/spec-人才发展云-任职资格-公示管理.md
+- spec/spec-人才发展云-任职资格-员工自评.md
+- spec/spec-人才发展云-任职资格-员工门户.md
+- spec/spec-人才发展云-任职资格-团队空间视图.md
+- spec/spec-人才发展云-任职资格-基础配置.md
+- spec/spec-人才发展云-任职资格-定时任务.md
+- spec/spec-人才发展云-任职资格-待办消息.md
+- spec/spec-人才发展云-任职资格-认证公示.md
+- spec/spec-人才发展云-任职资格-认证申诉.md
+- spec/spec-人才发展云-任职资格-认证申请.md
+- spec/spec-人才发展云-任职资格-认证结果通知.md
+- spec/spec-人才发展云-任职资格-认证考核.md
+- spec/spec-人才发展云-任职资格-认证计划.md
+- spec/spec-人才发展云-任职资格-资格审查.md
+- spec/spec-人才发展云-任职资格-资格认证.md
+- spec/spec-集成场景用例-人才发展云-任职资格.md
+
+### 任职资格工作台
+- spec/spec-人才发展云-任职资格-任职资格工作台.md
+
+### 任职资格流程页历史数据升级
+- spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
+
+### 任职资格组织
+- spec/spec-人才发展云-人才发展基础服务-任职资格组织.md
+
+### 任职资格认证
+- business/process-qualification.md
+
+### 任职资格许可
+- spec/spec-人才发展云-任职资格-任职资格许可.md
+
+## 企
+
+### 企业内员工
+- product/feature-committee-roles.md
+
+## 修
+
+### 修改总评
+- product/feature-ir-interview.md
+
+## 候
+
+### 候选人
+- product/feature-express-ai-resume-parsing.md
+- product/feature-express-candidate.md
+- product/feature-ir-candidate.md
+- spec/spec-人才供应云-招聘服务直通车-候选人.md
+
+### 候选人可见性
+- guide/guide-apply-progress-config.md
+
+### 候选人回复
+- product/feature-express-hire-notice.md
+
+### 候选人日志
+- spec/spec-人才供应云-招聘服务直通车-候选人日志.md
+
+### 候选人答复
+- faq/faq-ir-interview-reply.md
+
+### 候选人管理
+- product/feature-express-candidate.md
+- product/feature-internal-recruitment.md
+- product/feature-ir-candidate.md
+- spec/spec-人才供应云-内部招聘-候选人管理.md
+
+## 储
+
+### 储备池
+- product/feature-talent-pool.md
+
+### 储备池许可
+- spec/spec-人才发展云-人才储备池-储备池许可.md
+
+## 催
+
+### 催促答复
+- product/feature-ir-interview.md
+
+## 免
+
+### 免职
+- guide/guide-cadre-dismissal.md
+
+### 免职申请
+- guide/guide-cadre-dismissal.md
+
+## 入
+
+### 入池
+- product/feature-talent-pool.md
+
+### 入职
+- product/feature-employee-change-processing.md
+- product/feature-talent-archive-change.md
+
+### 入职协同
+- business/process-external-recruitment.md
+- product/feature-express-onboard-application.md
+- product/feature-recruitment-express.md
+
+### 入职协同单
+- spec/spec-人才供应云-招聘服务直通车-入职协同单.md
+
+### 入职协同参数
+- guide/guide-express-params-config.md
+
+### 入职申请
+- product/feature-express-onboard-application.md
+
+## 全
+
+### 全文检索
+- product/feature-talent-star-map.md
+
+### 全景人才画像
+- spec/spec-人才发展云-人才星图-全景人才画像.md
+
+## 公
+
+### 公共系统
+- spec/spec-人才发展云-干部管理-公共系统.md
+
+### 公共设置
+- spec/spec-人才发展云-职级评定-公共设置.md
+
+### 公示
+- guide/guide-cadre-publicity.md
+
+### 公示管理
+- spec/spec-人才发展云-任职资格-公示管理.md
+
+## 六
+
+### 六宫格
+- faq/faq-talent-inventory-grid-types.md
+
+## 关
+
+### 关键岗位
+- product/feature-succession-plan.md
+- spec/spec-人才发展云-继任计划-关键岗位.md
+
+## 兼
+
+### 兼职
+- product/feature-talent-archive-change.md
+
+## 内
+
+### 内招
+- product/feature-internal-recruitment.md
+
+### 内招流程
+- business/process-internal-recruitment.md
+
+### 内推
+- guide/guide-recruitment-channel.md
+
+### 内部人才流动
+- product/feature-internal-recruitment.md
+
+### 内部录用申请
+- product/feature-ir-hire-application.md
+
+### 内部招聘
+- business/process-internal-recruitment.md
+- faq/faq-ir-interview-reply.md
+- faq/faq-ir-terminology.md
+- guide/guide-interviewer.md
+- guide/guide-ir-params-config.md
+- product/feature-internal-recruitment.md
+- product/feature-interviewer-portal.md
+- product/feature-ir-advertisement.md
+- product/feature-ir-apply-permission.md
+- product/feature-ir-candidate.md
+- product/feature-ir-hire-application.md
+- product/feature-ir-interview.md
+- product/feature-ir-position.md
+- product/feature-talent-supply.md
+- spec/spec-人才供应云-内部招聘-人才库管理.md
+- spec/spec-人才供应云-内部招聘-候选人管理.md
+- spec/spec-人才供应云-内部招聘-内部招聘首页.md
+- spec/spec-人才供应云-内部招聘-录用决策.md
+- spec/spec-人才供应云-内部招聘-招聘职位.md
+- spec/spec-人才供应云-内部招聘-渠道广告.md
+- spec/spec-人才供应云-内部招聘-许可.md
+- spec/spec-人才供应云-内部招聘-运营管理.md
+- spec/spec-人才供应云-内部招聘-面试.md
+- spec/spec-集成场景用例-人才供应云-内部招聘.md
+
+### 内部招聘候选人
+- product/feature-ir-candidate.md
+
+### 内部招聘参数配置
+- guide/guide-ir-params-config.md
+
+### 内部招聘术语
+- faq/faq-ir-terminology.md
+
+### 内部招聘流程
+- business/process-internal-recruitment.md
+
+### 内部招聘职位
+- product/feature-ir-position.md
+
+### 内部招聘首页
+- spec/spec-人才供应云-内部招聘-内部招聘首页.md
+
+## 决
+
+### 决议
+- product/feature-job-level-result-resolution.md
+
+## 出
+
+### 出池
+- product/feature-talent-pool.md
 
 ### 人事变动
 - product/feature-employee-change-overview.md
@@ -764,6 +1317,31 @@
 
 ### 决议
 - product/feature-job-level-result-resolution.md
+
+## 分
+
+### 分制
+- guide/guide-scoring-scale.md
+- product/feature-scoring-scale.md
+
+### 分配
+- spec/spec-目标绩效云-基础资料按钮通用用例-分配.md
+
+### 分配查询（按数据）
+- spec/spec-目标绩效云-基础资料按钮通用用例-分配查询（按数据）.md
+
+### 分配查询（按组织）
+- spec/spec-目标绩效云-基础资料按钮通用用例-分配查询（按组织）.md
+
+## 列
+
+### 列表
+- spec/spec-人才发展云-人才档案-列表.md
+
+## 创
+
+### 创建活动
+- guide/guide-talent-inventory-create-activity.md
 
 ## 分
 
@@ -1331,6 +1909,348 @@
 
 ## 广
 
+
+## 参
+
+### 参数配置
+- guide/guide-express-params-config.md
+- guide/guide-ir-params-config.md
+- product/feature-recruitment-foundation.md
+- spec/spec-人才供应云-招聘基础服务-参数配置.md
+
+## 发
+
+### 发布
+- guide/guide-cadre-publication.md
+
+### 发起入职
+- product/feature-express-onboard-application.md
+
+## 取
+
+### 取消分配
+- spec/spec-目标绩效云-基础资料按钮通用用例-取消分配.md
+
+## 变
+
+### 变动协同
+- product/feature-employee-change-overview.md
+- product/feature-employee-collaboration-config.md
+
+### 变动处理
+- product/feature-employee-change-processing.md
+- product/feature-talent-archive-change.md
+
+### 变动进展
+- product/feature-ir-hire-application.md
+
+### 变更控制策略
+- spec/spec-目标绩效云-基础资料按钮通用用例-变更控制策略.md
+
+### 变量配置
+- guide/guide-offer-letter-template.md
+
+## 合
+
+### 合规性
+- product/feature-job-level-document-review.md
+
+## 名
+
+### 名单下发
+- product/feature-job-level-list-confirmation.md
+
+### 名单确认
+- product/feature-job-level-list-confirmation.md
+- spec/spec-人才发展云-职级评定-名单确认.md
+
+## 员
+
+### 员工
+- spec/spec-人才发展云-职级评定-员工.md
+
+### 员工协作
+- product/feature-employee-collaboration-config.md
+- product/feature-talent-archive-collaboration.md
+
+### 员工协作配置
+- product/feature-employee-collaboration-config.md
+- spec/spec-人才发展云-人才档案-员工协作配置.md
+
+### 员工反馈
+- product/feature-result-confirmation.md
+
+### 员工变动
+- product/feature-employee-change-overview.md
+- product/feature-employee-change-processing.md
+- product/feature-performance-archive-overview.md
+- product/feature-talent-archive-change.md
+
+### 员工变动协作
+- product/feature-employee-change-overview.md
+
+### 员工变动及处理
+- spec/spec-人才发展云-人才档案-员工变动及处理.md
+
+### 员工变动处理
+- product/feature-employee-change-processing.md
+
+### 员工档案
+- product/feature-talent-archive-overview.md
+
+### 员工申报
+- product/feature-job-level-application.md
+
+### 员工确认
+- product/feature-result-confirmation.md
+
+### 员工绩效门户
+- product/feature-my-performance.md
+
+### 员工自助
+- product/feature-my-performance.md
+
+### 员工自评
+- spec/spec-人才发展云-任职资格-员工自评.md
+
+### 员工门户
+- spec/spec-人才发展云-任职资格-员工门户.md
+
+## 四
+
+### 四宫格
+- faq/faq-talent-inventory-grid-types.md
+
+## 团
+
+### 团队空间视图
+- spec/spec-人才发展云-任职资格-团队空间视图.md
+
+### 团队绩效
+- spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md
+
+## 在
+
+### 在线回复
+- faq/faq-ir-interview-reply.md
+
+### 在线校准
+- guide/guide-talent-inventory-calibration.md
+
+### 在线链接
+- product/feature-express-offer-letter.md
+
+## 基
+
+### 基础数据
+- product/feature-recruitment-foundation.md
+
+### 基础服务
+- spec/spec-目标绩效云-个人绩效考核-基础服务.md
+
+### 基础资料
+- spec/spec-人才供应云-招聘基础数据-基础资料.md
+- spec/spec-人才发展云-人才发展基础服务-基础资料.md
+
+### 基础资料按钮通用用例
+- spec/spec-目标绩效云-基础资料按钮通用用例-分配.md
+- spec/spec-目标绩效云-基础资料按钮通用用例-分配查询（按数据）.md
+- spec/spec-目标绩效云-基础资料按钮通用用例-分配查询（按组织）.md
+- spec/spec-目标绩效云-基础资料按钮通用用例-取消分配.md
+- spec/spec-目标绩效云-基础资料按钮通用用例-变更控制策略.md
+- spec/spec-目标绩效云-基础资料按钮通用用例-未分配查询.md
+- spec/spec-目标绩效云-基础资料按钮通用用例-管理权转让.md
+
+## 外
+
+### 外招流程
+- business/process-external-recruitment.md
+
+### 外部人员
+- product/feature-committee-roles.md
+
+### 外部招聘
+- business/process-external-recruitment.md
+- product/feature-express-ai-resume-parsing.md
+- product/feature-recruitment-express.md
+- product/feature-talent-supply.md
+
+### 外部招聘流程
+- business/process-external-recruitment.md
+
+### 外部招聘系统集成
+- guide/guide-integration-external-recruitment.md
+
+### 外部招聘集成
+- guide/guide-integration-external-recruitment.md
+
+## 委
+
+### 委员
+- product/feature-committee-roles.md
+
+## 字
+
+### 字段扩展
+- faq/faq-message-template-variables.md
+
+## 完
+
+### 完整性
+- product/feature-job-level-document-review.md
+
+## 定
+
+### 定时任务
+- spec/spec-人才发展云-任职资格-定时任务.md
+
+### 定薪字段切换
+- faq/faq-switch-salary-param-by-field.md
+
+### 定薪方式
+- faq/faq-switch-salary-param-by-field.md
+
+## 审
+
+### 审批
+- product/feature-job-level-batch-adjustment.md
+
+### 审批管理
+- product/feature-job-level-approval-management.md
+
+### 审批进度
+- product/feature-job-level-approval-management.md
+
+## 宫
+
+### 宫格配置
+- faq/faq-talent-inventory-grid-types.md
+
+## 对
+
+### 对接核心人力
+- spec/spec-人才发展云-干部管理-对接核心人力.md
+
+## 导
+
+### 导入候选人
+- product/feature-express-candidate.md
+
+### 导入职位
+- product/feature-express-position.md
+
+## 履
+
+### 履职表现
+- product/feature-job-level-review-evaluation.md
+
+## 岗
+
+### 岗位
+- product/feature-express-position.md
+
+## 工
+
+### 工作台
+- spec/spec-人才供应云-招聘服务直通车-工作台.md
+- spec/spec-人才发展云-职级评定-工作台.md
+
+## 常
+
+### 常用变量
+- faq/faq-message-template-variables.md
+
+## 干
+
+### 干部任免
+- product/feature-cadre-management.md
+
+### 干部任免管理
+- spec/spec-人才发展云-干部管理-干部任免管理.md
+
+### 干部任期
+- guide/guide-cadre-term.md
+
+### 干部任期初始化
+- spec/spec-人才发展云-干部管理-干部任期初始化.md
+
+### 干部任期明细报表
+- spec/spec-人才发展云-干部管理-干部任期明细报表.md
+
+### 干部任期管理
+- guide/guide-cadre-term.md
+- spec/spec-人才发展云-干部管理-干部任期管理.md
+
+### 干部公示
+- guide/guide-cadre-publicity.md
+
+### 干部履历
+- spec/spec-人才发展云-干部管理-干部履历.md
+
+### 干部梯队
+- product/feature-cadre-management.md
+
+### 干部管理
+- guide/guide-cadre-appointment-nomination.md
+- guide/guide-cadre-deliberation.md
+- guide/guide-cadre-dismissal.md
+- guide/guide-cadre-evaluation-collaboration.md
+- guide/guide-cadre-evaluation.md
+- guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-investigation.md
+- guide/guide-cadre-probation-investigation.md
+- guide/guide-cadre-probation.md
+- guide/guide-cadre-publication.md
+- guide/guide-cadre-publicity.md
+- guide/guide-cadre-qualification-review.md
+- guide/guide-cadre-term.md
+- product/feature-cadre-management.md
+- product/feature-talent-development.md
+- spec/spec-人才发展云-干部管理-任免OP改造.md
+- spec/spec-人才发展云-干部管理-公共系统.md
+- spec/spec-人才发展云-干部管理-基础配置.md
+- spec/spec-人才发展云-干部管理-对接核心人力.md
+- spec/spec-人才发展云-干部管理-干部任免管理.md
+- spec/spec-人才发展云-干部管理-干部任期初始化.md
+- spec/spec-人才发展云-干部管理-干部任期明细报表.md
+- spec/spec-人才发展云-干部管理-干部任期管理.md
+- spec/spec-人才发展云-干部管理-干部履历.md
+- spec/spec-人才发展云-干部管理-干部管理工作台.md
+- spec/spec-人才发展云-干部管理-干部管理许可.md
+- spec/spec-人才发展云-干部管理-干部试用期管理.md
+- spec/spec-集成场景用例-人才发展云-干部管理.md
+
+### 干部管理工作台
+- spec/spec-人才发展云-干部管理-干部管理工作台.md
+
+### 干部管理方案
+- product/feature-cadre-management.md
+
+### 干部管理许可
+- spec/spec-人才发展云-干部管理-干部管理许可.md
+
+### 干部考察
+- guide/guide-cadre-investigation.md
+
+### 干部试用期管理
+- spec/spec-人才发展云-干部管理-干部试用期管理.md
+
+## 平
+
+### 平台
+- faq/faq-product-overview.md
+
+### 平台待办已办任务
+- spec/spec-目标绩效云-HR自助服务（PC端）-平台待办已办任务.md
+
+### 平台消息
+- spec/spec-目标绩效云-HR自助服务（PC端）-平台消息.md
+
+### 平台配置
+- faq/faq-homepage-scheme-missing.md
+
+## 广
+
 ### 广告参数
 - guide/guide-ir-params-config.md
 
@@ -1428,6 +2348,70 @@
 
 ### 我要应聘
 - spec/spec-人才供应云-HR自助服务中心-我要应聘.md
+
+## 手
+
+### 手动处理
+- product/feature-talent-archive-collaboration.md
+
+## 打
+
+### 打分
+- product/feature-performance-evaluation.md
+
+## 批
+
+### 批量创建
+- product/feature-talent-archive-maintenance.md
+
+### 批量失效
+- product/feature-talent-archive-maintenance.md
+
+### 批量安排
+- product/feature-job-level-review-arrangement.md
+
+### 批量报批
+- product/feature-job-level-result-approval.md
+
+### 批量新增
+- product/feature-express-candidate.md
+
+### 批量晋升
+- product/feature-job-level-batch-adjustment.md
+
+### 批量调整
+- product/feature-job-level-batch-adjustment.md
+
+## 技
+
+### 技能画像
+- product/feature-person-job-matching-agent.md
+
+## 投
+
+### 投递简历
+- faq/faq-ir-terminology.md
+
+## 报
+
+### 报批管理
+- product/feature-job-level-approval-management.md
+- spec/spec-人才发展云-职级评定-报批管理.md
+
+## 招
+
+### 招聘
+- product/feature-express-ai-resume-parsing.md
+- product/feature-talent-supply.md
+
+### 招聘业务配置
+- spec/spec-人才供应云-招聘基础数据-招聘业务配置.md
+
+### 招聘基础数据
+- spec/spec-人才供应云-招聘基础数据-基础资料.md
+- spec/spec-人才供应云-招聘基础数据-招聘业务配置.md
+- spec/spec-人才供应云-招聘基础数据-消息管理.md
+- spec/spec-人才供应云-招聘基础数据-渠道管理.md
 
 ## 战
 
@@ -1573,6 +2557,77 @@
 - product/feature-performance.md
 - spec/spec-目标绩效云-个人绩效考核-指标制定.md
 - spec/spec-目标绩效云-集成场景用例-指标制定.md
+
+### 指标配置
+- guide/guide-performance-indicators.md
+
+## 接
+
+### 接口查询
+- spec/spec-人才发展云-人才发展基础服务-接口查询.md
+
+## 提
+
+### 提名
+- guide/guide-cadre-appointment-nomination.md
+
+### 提名处理人
+- product/feature-job-level-list-confirmation.md
+- product/feature-job-level-promotion-nomination.md
+
+## 撤
+
+### 撤销
+- product/feature-job-level-approval-management.md
+
+## 操
+
+### 操作按钮
+- spec/spec-人才发展云-人才档案-操作按钮.md
+
+## 数
+
+### 数据字典
+- guide/guide-integration-external-recruitment.md
+
+### 数据管理归属
+- product/feature-express-eco-tenant.md
+
+### 数据迁移
+- faq/faq-homepage-scheme-missing.md
+
+## 新
+
+### 新增按钮
+- faq/faq-job-level-no-add-button.md
+
+### 新增档案
+- product/feature-performance-archive.md
+
+### 新建库用例
+- spec/spec-目标绩效云-新建库用例.md
+
+## 晋
+
+### 晋升体系
+- product/feature-job-level-overview.md
+
+### 晋升决议
+- product/feature-job-level-result-resolution.md
+
+### 晋升推荐
+- product/feature-job-level-promotion-nomination.md
+
+### 晋升提名
+- faq/faq-job-level-no-add-button.md
+- product/feature-job-level-promotion-nomination.md
+- spec/spec-人才发展云-职级评定-晋升提名.md
+
+### 晋升材料
+- product/feature-job-level-application-materials.md
+
+### 晋升申报
+- product/feature-job-level-application.md
 
 ### 指标库
 - product/feature-performance.md
@@ -2088,6 +3143,7 @@
 ## 目
 
 ### 目标绩效
+- product/feature-performance-overview.md
 - business/process-performance-implementation.md
 - product/feature-performance-overview.md
 - product/feature-performance-strategy-insights.md
@@ -2244,6 +3300,188 @@
 - product/feature-job-level-promotion-nomination.md
 
 ## 组
+
+### 组织映射
+- product/feature-express-eco-tenant.md
+
+## 结
+
+### 结果决议
+- product/feature-job-level-result-resolution.md
+- spec/spec-人才发展云-职级评定-结果决议.md
+
+### 结果审批
+- product/feature-job-level-result-approval.md
+
+### 结果归档
+- product/feature-assessment-completion.md
+
+### 结果报批
+- product/feature-job-level-result-approval.md
+- spec/spec-人才发展云-职级评定-结果报批.md
+
+### 结果校准
+- business/process-performance-review.md
+
+### 结果汇总
+- product/feature-result-summary.md
+- spec/spec-目标绩效云-个人绩效考核-结果汇总.md
+- spec/spec-目标绩效云-集成场景用例-结果汇总.md
+
+### 结果生效
+- product/feature-job-level-evaluation-plan.md
+
+### 结果确认
+- business/process-performance-review.md
+- product/feature-result-confirmation.md
+- spec/spec-目标绩效云-个人绩效考核-结果确认.md
+- spec/spec-目标绩效云-集成场景用例-结果确认.md
+
+### 结果管理
+- product/feature-performance-result.md
+
+### 结果通知
+- product/feature-job-level-application.md
+
+## 继
+
+### 继任
+- product/feature-succession-plan.md
+
+### 继任候选人推荐
+- spec/spec-人才发展云-继任计划-继任候选人推荐.md
+
+### 继任地图
+- product/feature-succession-plan.md
+- spec/spec-人才发展云-继任计划-继任地图.md
+
+### 继任梯队
+- product/feature-succession-plan.md
+
+### 继任梯队管理
+- spec/spec-人才发展云-继任计划-继任梯队管理.md
+
+### 继任申请单
+- spec/spec-人才发展云-继任计划-继任申请单.md
+
+### 继任管理
+- product/feature-succession-plan.md
+
+### 继任者
+- product/feature-succession-plan.md
+
+### 继任者管理
+- spec/spec-人才发展云-继任计划-继任者管理.md
+
+### 继任计划
+- product/feature-succession-plan.md
+- product/feature-talent-development.md
+- spec/spec-人才发展云-继任计划-关键岗位.md
+- spec/spec-人才发展云-继任计划-基础配置.md
+- spec/spec-人才发展云-继任计划-继任候选人推荐.md
+- spec/spec-人才发展云-继任计划-继任地图.md
+- spec/spec-人才发展云-继任计划-继任梯队管理.md
+- spec/spec-人才发展云-继任计划-继任申请单.md
+- spec/spec-人才发展云-继任计划-继任者管理.md
+- spec/spec-集成场景用例-人才发展云-继任计划.md
+
+## 绩
+
+### 绩效
+- product/feature-performance.md
+
+### 绩效归档
+- product/feature-assessment-completion.md
+
+### 绩效指标
+- guide/guide-performance-indicators.md
+- product/feature-indicator-setting.md
+
+### 绩效改进
+- product/feature-performance-interview.md
+
+### 绩效数据
+- product/feature-performance-result.md
+- product/feature-result-summary.md
+
+### 绩效术语
+- faq/faq-performance-terminology.md
+
+### 绩效查询
+- product/feature-my-performance.md
+
+### 绩效校准
+- product/feature-performance.md
+- spec/spec-目标绩效云-个人绩效考核-绩效校准.md
+- spec/spec-目标绩效云-集成场景用例-绩效校准.md
+
+### 绩效档案
+- product/feature-employee-change-overview.md
+- product/feature-employee-change-processing.md
+- product/feature-employee-collaboration-config.md
+- product/feature-performance-archive-overview.md
+- product/feature-performance-archive.md
+- spec/spec-目标绩效云-个人绩效考核-绩效档案.md
+- spec/spec-目标绩效云-集成场景用例-绩效档案.md
+
+### 绩效档案整体介绍
+- product/feature-performance-archive-overview.md
+
+### 绩效模块
+- product/feature-performance.md
+
+### 绩效汇总
+- product/feature-result-summary.md
+
+### 绩效流程
+- business/process-performance-review.md
+- guide/guide-performance-process.md
+
+### 绩效流程配置
+- guide/guide-performance-process.md
+
+### 绩效确认
+- product/feature-result-confirmation.md
+
+### 绩效管理
+- product/feature-performance-overview.md
+
+### 绩效结果
+- product/feature-my-performance.md
+- product/feature-performance-result.md
+- spec/spec-目标绩效云-集成场景用例-绩效结果.md
+
+### 绩效考核
+- business/process-performance-review.md
+- product/feature-performance-overview.md
+- product/feature-performance.md
+
+### 绩效考核流程
+- business/process-performance-review.md
+
+### 绩效计划
+- product/feature-performance-plan-overview.md
+- product/feature-performance-plan.md
+
+### 绩效评价
+- product/feature-performance-evaluation.md
+
+### 绩效评估
+- business/process-performance-review.md
+- product/feature-performance-evaluation.md
+- product/feature-performance.md
+- spec/spec-目标绩效云-个人绩效考核-绩效评估.md
+- spec/spec-目标绩效云-集成场景用例-绩效评估.md
+
+### 绩效配置
+- guide/guide-evaluation-form.md
+- guide/guide-grade-rule.md
+- guide/guide-grade-ruler.md
+- guide/guide-performance-process.md
+- guide/guide-role-type.md
+- guide/guide-scoring-scale.md
+- product/feature-evaluation-form.md
+- product/feature-scoring-scale.md
 
 ### 组织映射
 - product/feature-express-eco-tenant.md
@@ -2514,6 +3752,9 @@
 - guide/guide-evaluation-form.md
 
 ### 考核计划
+- faq/faq-performance-terminology.md
+- product/feature-performance-plan-overview.md
+- product/feature-performance-plan.md
 - business/process-performance-implementation.md
 - faq/faq-performance-terminology.md
 - product/feature-performance-plan-overview.md
@@ -2654,6 +3895,7 @@
 - product/feature-competency-management.md
 - product/feature-job-level-standard.md
 - product/feature-talent-dev-foundation.md
+- product/feature-talent-development.md
 
 ### 能力素质库
 - product/feature-competency-management.md

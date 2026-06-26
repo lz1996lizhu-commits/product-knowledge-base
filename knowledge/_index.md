@@ -57,6 +57,11 @@
 | product/feature-performance-archive.md | 个人绩效档案 | 绩效档案,个人档案,档案管理,新增档案 | 2026-05-12 |
 | product/feature-performance-evaluation.md | 绩效评估 | 绩效评估,绩效评价,考核活动,评分 | 2026-05-21 |
 | product/feature-performance-interview.md | 绩效面谈 | 绩效面谈,面谈活动,绩效改进,考核活动 | 2026-05-20 |
+| product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述,KPI,BSC,PBC | 2026-05-29 |
+| product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
+| product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
+| product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
+| product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准 | 2026-05-09 |
 | product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述,KPI,BSC,PBC | 2026-06-26 |
 | product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
 | product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
@@ -69,17 +74,21 @@
 | product/feature-result-confirmation.md | 结果确认 | 结果确认,绩效确认,考核活动,员工反馈 | 2026-05-21 |
 | product/feature-result-summary.md | 结果汇总 | 结果汇总,绩效汇总,考核活动,绩效数据 | 2026-05-21 |
 | product/feature-scoring-scale.md | 评分分制 | 评分分制,基础配置,绩效配置,分制 | 2026-05-21 |
+| product/feature-succession-plan.md | 继任计划功能介绍 | 人才发展,继任计划,继任梯队,关键岗位,继任地图,继任者,人才梯队 | 2026-06-26 |
 | product/feature-talent-archive-change.md | 人才档案-员工变动及处理 | 人才档案,员工变动,入职,调动,离职,兼职,变动处理 | 2026-05-13 |
 | product/feature-talent-archive-collaboration.md | 人才档案-员工协作配置 | 人才档案,员工协作,协作配置,自动处理,手动处理 | 2026-05-13 |
 | product/feature-talent-archive-maintenance.md | 人才档案的维护与业务说明 | 人才档案,批量创建,批量失效,人才管理,档案维护 | 2026-05-29 |
 | product/feature-talent-archive-overview.md | 人才档案整体介绍 | 人才档案,人才管理,人员档案,任职经历,管理关系 | 2026-05-29 |
 | product/feature-talent-dev-foundation.md | 人才发展基础服务整体介绍 | 人才发展基础服务,专委会,认证组,能力素质,能力素质库,职位体系 | 2026-05-13 |
+| product/feature-talent-development.md | 人才发展云产品概述 | 人才发展,人才档案,任职资格,职级评定,人才盘点,干部管理,人才储备池,继任计划,人才星图,能力素质,V8.0 | 2026-06-26 |
 | product/feature-talent-development.md | 人才发展云产品概述 | 人才发展,人才档案,任职资格,职级评定,人才盘点,干部管理 | 2026-05-09 |
 | product/feature-talent-inventory-evaluation-item.md | 评估项 | 人才盘点,评估项,基础配置 | 2026-05-14 |
 | product/feature-talent-inventory-evaluation-scheme.md | 盘点维度评估方案 | 人才盘点,盘点维度,评估方案,基础配置 | 2026-05-14 |
 | product/feature-talent-inventory-overview.md | 人才盘点整体介绍 | 人才盘点,整体介绍,产品概述 | 2026-05-14 |
 | product/feature-talent-inventory-plan.md | 盘点计划 | 人才盘点,盘点计划,计划管理 | 2026-05-14 |
 | product/feature-talent-inventory-template.md | 盘点活动模板 | 人才盘点,盘点活动模板,模板配置 | 2026-05-14 |
+| product/feature-talent-pool.md | 人才储备池功能介绍 | 人才发展,人才储备池,人才储备,入池,出池,人才培养,人才梯队 | 2026-06-26 |
+| product/feature-talent-star-map.md | 人才星图功能介绍 | 人才发展,人才星图,人才搜索,人才对比,人才画像,全文检索 | 2026-06-26 |
 | product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成 | 2026-05-09 |
 
 ## 业务流程 (business)
