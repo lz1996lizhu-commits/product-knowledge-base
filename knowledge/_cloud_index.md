@@ -194,6 +194,10 @@
 | product/feature-performance-plan.md | 考核计划 | product | 2026-05-12 |
 | product/feature-performance-result.md | 绩效结果 | product | 2026-05-21 |
 | product/feature-performance.md | 目标绩效云产品概述 | product | 2026-05-09 |
+| product/feature-performance-plan-overview.md | 考核计划的整体介绍 | product | 2026-05-12 |
+| product/feature-performance-plan.md | 考核计划 | product | 2026-05-12 |
+| product/feature-performance-result.md | 绩效结果 | product | 2026-05-21 |
+| product/feature-performance.md | 目标绩效云产品概述 | product | 2026-05-09 |
 | product/feature-performance-overview.md | 目标绩效云整体介绍 | product | 2026-06-26 |
 | product/feature-performance-plan-overview.md | 考核计划的整体介绍 | product | 2026-05-12 |
 | product/feature-performance-plan.md | 考核计划 | product | 2026-05-12 |
@@ -244,12 +248,13 @@
 | spec/spec-目标绩效云-集成场景用例-绩效面谈.md | 目标绩效云-集成场景用例-绩效面谈测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-集成场景用例-考核活动.md | 目标绩效云-集成场景用例-考核活动测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （65 条）
+## 人才供应云 （67 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
 | business/process-external-recruitment.md | 外部招聘录用流程 | business | 2026-05-09 |
 | business/process-internal-recruitment.md | 内部招聘全流程 | business | 2026-05-09 |
+| business/process-talent-supply-implementation.md | 人才供应云交付实施配置指南 | business | 2026-06-26 |
 | faq/faq-express-terminology.md | 招聘服务直通车术语解释 | faq | 2026-05-27 |
 | faq/faq-ir-interview-reply.md | 候选人收到面试通知后如何答复 | faq | 2026-05-11 |
 | faq/faq-ir-terminology.md | 内部招聘术语解释 | faq | 2026-05-27 |
@@ -273,7 +278,7 @@
 | product/feature-express-offer-letter.md | 录用通知书（Offer Letter）（直通车） | product | 2026-05-28 |
 | product/feature-express-onboard-application.md | 入职协同申请（直通车） | product | 2026-05-28 |
 | product/feature-express-position.md | 招聘职位（直通车） | product | 2026-05-28 |
-| product/feature-internal-recruitment.md | 内部招聘整体介绍 | product | 2026-05-27 |
+| product/feature-internal-recruitment.md | 内部招聘整体介绍 | product | 2026-06-26 |
 | product/feature-interviewer-portal.md | 人人面试官 | product | 2026-05-27 |
 | product/feature-ir-advertisement.md | 广告（内部招聘） | product | 2026-05-28 |
 | product/feature-ir-apply-permission.md | 应聘许可 | product | 2026-05-28 |
@@ -281,6 +286,10 @@
 | product/feature-ir-hire-application.md | 录用申请（内部招聘） | product | 2026-05-28 |
 | product/feature-ir-interview.md | 面试（内部招聘） | product | 2026-05-28 |
 | product/feature-ir-position.md | 招聘职位（内部招聘） | product | 2026-05-28 |
+| product/feature-recruitment-express.md | 招聘服务直通车产品概述 | product | 2026-06-26 |
+| product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | product | 2026-06-26 |
+| product/feature-talent-supply-ai.md | AI智能赋能内部招聘全链路 | product | 2026-06-26 |
+| product/feature-talent-supply.md | 人才供应云产品概述 | product | 2026-06-26 |
 | product/feature-recruitment-express.md | 招聘服务直通车产品概述 | product | 2026-05-28 |
 | product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | product | 2026-05-27 |
 | product/feature-talent-supply.md | 人才供应云产品概述 | product | 2026-05-09 |

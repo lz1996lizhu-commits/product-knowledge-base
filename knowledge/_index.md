@@ -27,7 +27,7 @@
 | product/feature-express-onboard-application.md | 入职协同申请（直通车） | 招聘服务直通车,入职协同,入职申请,发起入职,人事变动状态回传 | 2026-05-28 |
 | product/feature-express-position.md | 招聘职位（直通车） | 招聘服务直通车,招聘职位,职位管理,导入职位,职位信息 | 2026-05-28 |
 | product/feature-indicator-setting.md | 指标制定 | 指标制定,绩效指标,KPI,考核活动 | 2026-05-21 |
-| product/feature-internal-recruitment.md | 内部招聘整体介绍 | 内部招聘,人才流动,招聘职位,候选人管理,面试,录用,人才库,应聘许可 | 2026-05-27 |
+| product/feature-internal-recruitment.md | 内部招聘整体介绍 | 内部招聘,人才流动,招聘职位,候选人管理,面试,录用,人才库,应聘许可 | 2026-06-26 |
 | product/feature-interviewer-portal.md | 人人面试官 | 内部招聘,人人面试官,面试官工作台,简历筛选,面试评价,待办任务 | 2026-05-27 |
 | product/feature-ir-advertisement.md | 广告（内部招聘） | 内部招聘,招聘广告,广告管理,广告审批,置顶,急招 | 2026-05-28 |
 | product/feature-ir-apply-permission.md | 应聘许可 | 内部招聘,应聘许可,权限管控,许可占用,许可释放 | 2026-05-28 |
@@ -62,6 +62,10 @@
 | product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
 | product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
 | product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准 | 2026-05-09 |
+| product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
+| product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
+| product/feature-performance-result.md | 绩效结果 | 绩效结果,结果管理,绩效数据,历史绩效 | 2026-05-21 |
+| product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准 | 2026-05-09 |
 | product/feature-performance-overview.md | 目标绩效云整体介绍 | 目标绩效,绩效考核,绩效管理,整体介绍,产品概述,KPI,BSC,PBC | 2026-06-26 |
 | product/feature-performance-plan-overview.md | 考核计划的整体介绍 | 考核计划,绩效计划,评估对象范围,考核周期执行计划 | 2026-05-12 |
 | product/feature-performance-plan.md | 考核计划 | 考核计划,绩效计划,评估对象,考核周期 | 2026-05-12 |
@@ -69,8 +73,8 @@
 | product/feature-performance-strategy-insights.md | 目标绩效管理体系与业务洞察 | 目标绩效,绩效管理,战略落地,企业发展阶段,职位体系,KPI,BSC,PBC,OKR,绩效趋势 | 2026-06-26 |
 | product/feature-performance.md | 目标绩效云产品概述 | 目标绩效,绩效考核,指标制定,绩效评估,绩效校准,V8.0,绩效政策,考核计划,绩效档案,指标库,角色类型 | 2026-06-26 |
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | 人岗匹配,智能体,技能画像,AI,人才管理 | 2026-05-20 |
-| product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka,混合云 | 2026-05-28 |
-| product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | 招聘基础服务,基础数据,业务配置,招聘流程,消息模板,面试评价表,参数配置 | 2026-05-27 |
+| product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka,混合云,多模式入职,定薪变量 | 2026-06-26 |
+| product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | 招聘基础服务,基础数据,业务配置,招聘流程,消息模板,面试评价表,参数配置 | 2026-06-26 |
 | product/feature-result-confirmation.md | 结果确认 | 结果确认,绩效确认,考核活动,员工反馈 | 2026-05-21 |
 | product/feature-result-summary.md | 结果汇总 | 结果汇总,绩效汇总,考核活动,绩效数据 | 2026-05-21 |
 | product/feature-scoring-scale.md | 评分分制 | 评分分制,基础配置,绩效配置,分制 | 2026-05-21 |
@@ -87,6 +91,8 @@
 | product/feature-talent-inventory-overview.md | 人才盘点整体介绍 | 人才盘点,整体介绍,产品概述 | 2026-05-14 |
 | product/feature-talent-inventory-plan.md | 盘点计划 | 人才盘点,盘点计划,计划管理 | 2026-05-14 |
 | product/feature-talent-inventory-template.md | 盘点活动模板 | 人才盘点,盘点活动模板,模板配置 | 2026-05-14 |
+| product/feature-talent-supply-ai.md | AI智能赋能内部招聘全链路 | 内部招聘,AI,职位说明生成,人才分析,应聘建议,面试问题生成,智能招聘 | 2026-06-26 |
+| product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成,AI招聘,V8.0,招聘基础服务,人才库,面试官 | 2026-06-26 |
 | product/feature-talent-pool.md | 人才储备池功能介绍 | 人才发展,人才储备池,人才储备,入池,出池,人才培养,人才梯队 | 2026-06-26 |
 | product/feature-talent-star-map.md | 人才星图功能介绍 | 人才发展,人才星图,人才搜索,人才对比,人才画像,全文检索 | 2026-06-26 |
 | product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成 | 2026-05-09 |
@@ -100,6 +106,7 @@
 | business/process-performance-implementation.md | 目标绩效云交付实施配置指南 | 目标绩效,交付实施,绩效配置,绩效规则,考核计划,考核活动,绩效落地 | 2026-06-26 |
 | business/process-performance-review.md | 绩效考核活动流程 | 绩效考核,指标制定,绩效评估,结果校准,结果确认 | 2026-05-09 |
 | business/process-qualification.md | 任职资格认证流程 | 任职资格,认证流程,人才发展,评委评议 | 2026-05-09 |
+| business/process-talent-supply-implementation.md | 人才供应云交付实施配置指南 | 人才供应,交付实施,初始化配置,招聘配置,预置数据,实施指南 | 2026-06-26 |
 
 ## 常见问题 (faq)
 
