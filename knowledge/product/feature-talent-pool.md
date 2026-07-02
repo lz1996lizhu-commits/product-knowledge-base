@@ -4,7 +4,7 @@ category: product
 tags: [人才发展, 人才储备池, 人才储备, 入池, 出池, 人才培养, 人才梯队]
 author: HR产品部
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-02
 cloud: 人才发展云
 aliases: [储备池, 人才池]
 ---
@@ -50,6 +50,11 @@ aliases: [储备池, 人才池]
 
 ## 相关条目
 
+- [人才储备池整体介绍](feature-talent-pool-overview.md)
+- [储备池管理](feature-talent-pool-management.md)
+- [储备人才管理](feature-reserve-talent-management.md)
+- [出入池申请](feature-pool-entry-exit-application.md)
+- [入池类型和出池类型](feature-pool-entry-exit-types.md)
 - [人才发展云产品概述](feature-talent-development.md)
 - [继任计划功能介绍](feature-succession-plan.md)
 - [人才盘点整体介绍](feature-talent-inventory-overview.md)

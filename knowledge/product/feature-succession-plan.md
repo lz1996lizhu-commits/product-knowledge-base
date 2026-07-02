@@ -4,7 +4,7 @@ category: product
 tags: [人才发展, 继任计划, 继任梯队, 关键岗位, 继任地图, 继任者, 人才梯队]
 author: HR产品部
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-02
 cloud: 人才发展云
 aliases: [继任管理, 继任]
 ---
@@ -46,6 +46,11 @@ aliases: [继任管理, 继任]
 
 ## 相关条目
 
+- [继任计划整体介绍](feature-succession-plan-overview.md)
+- [关键岗位及继任梯队搭建](feature-key-position-succession-ladder.md)
+- [继任地图](feature-succession-map.md)
+- [继任候选人推荐](feature-succession-candidate-recommend.md)
+- [继任者管理](feature-successor-management.md)
 - [人才发展云产品概述](feature-talent-development.md)
 - [人才储备池功能介绍](feature-talent-pool.md)
 - [干部管理整体介绍](feature-cadre-management.md)

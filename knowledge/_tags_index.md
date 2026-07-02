@@ -339,20 +339,38 @@
 - product/feature-talent-pool.md
 
 ### 人才储备池
+- product/feature-pool-entry-exit-application.md
+- product/feature-pool-entry-exit-types.md
+- product/feature-reserve-talent-management.md
 - product/feature-talent-development.md
+- product/feature-talent-pool-management.md
+- product/feature-talent-pool-overview.md
 - product/feature-talent-pool.md
 - spec/spec-人才发展云-人才储备池-人才储备池.md
 - spec/spec-人才发展云-人才储备池-储备池许可.md
 - spec/spec-人才发展云-人才储备池-基础配置.md
 - spec/spec-集成场景用例-人才发展云-人才储备池.md
 
+### 人才储备池概述
+- product/feature-talent-pool-overview.md
+
 ### 人才分析
 - product/feature-talent-supply-ai.md
 
 ### 人才发展
 - business/process-qualification.md
+- product/feature-key-position-succession-ladder.md
+- product/feature-pool-entry-exit-application.md
+- product/feature-pool-entry-exit-types.md
+- product/feature-reserve-talent-management.md
+- product/feature-succession-candidate-recommend.md
+- product/feature-succession-map.md
+- product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
+- product/feature-successor-management.md
 - product/feature-talent-development.md
+- product/feature-talent-pool-management.md
+- product/feature-talent-pool-overview.md
 - product/feature-talent-pool.md
 - product/feature-talent-star-map.md
 
@@ -477,9 +495,11 @@
 - product/feature-talent-development.md
 
 ### 人才培养
+- product/feature-talent-pool-overview.md
 - product/feature-talent-pool.md
 
 ### 人才对比
+- product/feature-succession-map.md
 - product/feature-talent-star-map.md
 
 ### 人才库
@@ -488,6 +508,9 @@
 
 ### 人才库管理
 - spec/spec-人才供应云-内部招聘-人才库管理.md
+
+### 人才推荐
+- product/feature-talent-pool-overview.md
 
 ### 人才搜索
 - product/feature-talent-star-map.md
@@ -673,6 +696,9 @@
 ### 候选人回复
 - product/feature-express-hire-notice.md
 
+### 候选人推荐
+- product/feature-succession-candidate-recommend.md
+
 ### 候选人日志
 - spec/spec-人才供应云-招聘服务直通车-候选人日志.md
 
@@ -687,8 +713,33 @@
 
 ## 储
 
+### 储备人才
+- product/feature-reserve-talent-management.md
+
+### 储备人才列表
+- product/feature-reserve-talent-management.md
+
+### 储备人才详情
+- product/feature-reserve-talent-management.md
+
 ### 储备池
 - product/feature-talent-pool.md
+
+### 储备池列表
+- product/feature-talent-pool-management.md
+
+### 储备池创建
+- product/feature-talent-pool-management.md
+
+### 储备池概述
+- product/feature-talent-pool-overview.md
+
+### 储备池管理
+- product/feature-talent-pool-management.md
+- product/feature-talent-pool-overview.md
+
+### 储备池类型
+- product/feature-talent-pool-management.md
 
 ### 储备池许可
 - spec/spec-人才发展云-人才储备池-储备池许可.md
@@ -709,7 +760,15 @@
 ## 入
 
 ### 入池
+- product/feature-pool-entry-exit-application.md
 - product/feature-talent-pool.md
+
+### 入池申请
+- product/feature-pool-entry-exit-application.md
+
+### 入池类型
+- product/feature-pool-entry-exit-application.md
+- product/feature-pool-entry-exit-types.md
 
 ### 入职
 - product/feature-employee-change-processing.md
@@ -759,8 +818,13 @@
 ## 关
 
 ### 关键岗位
+- product/feature-key-position-succession-ladder.md
+- product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
 - spec/spec-人才发展云-继任计划-关键岗位.md
+
+### 关键岗位管理
+- product/feature-key-position-succession-ladder.md
 
 ## 兼
 
@@ -839,8 +903,25 @@
 
 ## 出
 
+### 出入池
+- product/feature-talent-pool-overview.md
+
+### 出入池管理
+- product/feature-pool-entry-exit-application.md
+
+### 出入池类型配置
+- product/feature-pool-entry-exit-types.md
+
 ### 出池
+- product/feature-pool-entry-exit-application.md
 - product/feature-talent-pool.md
+
+### 出池申请
+- product/feature-pool-entry-exit-application.md
+
+### 出池类型
+- product/feature-pool-entry-exit-application.md
+- product/feature-pool-entry-exit-types.md
 
 ## 分
 
@@ -1116,6 +1197,11 @@
 ### 变量配置
 - guide/guide-offer-letter-template.md
 
+## 可
+
+### 可视化
+- product/feature-succession-map.md
+
 ## 合
 
 ### 合规性
@@ -1197,6 +1283,9 @@
 
 ## 在
 
+### 在池天数
+- product/feature-reserve-talent-management.md
+
 ### 在线回复
 - faq/faq-ir-interview-reply.md
 
@@ -1209,6 +1298,11 @@
 
 ### 在线链接
 - product/feature-express-offer-letter.md
+
+## 培
+
+### 培训记录
+- product/feature-successor-management.md
 
 ## 基
 
@@ -1727,6 +1821,9 @@
 - product/feature-job-level-list-confirmation.md
 - product/feature-job-level-promotion-nomination.md
 
+### 提名管理
+- product/feature-succession-candidate-recommend.md
+
 ## 撤
 
 ### 撤销
@@ -1755,6 +1852,9 @@
 
 ### 新增档案
 - product/feature-performance-archive.md
+
+### 新建储备池
+- product/feature-talent-pool-management.md
 
 ### 新建库用例
 - spec/spec-目标绩效云-新建库用例.md
@@ -2169,6 +2269,9 @@
 ### 申报资格
 - product/feature-job-level-application-qualification.md
 
+### 申请审批
+- product/feature-pool-entry-exit-application.md
+
 ### 申请资格
 - product/feature-job-level-application-qualification.md
 
@@ -2414,6 +2517,9 @@
 ### 组织映射
 - product/feature-express-eco-tenant.md
 
+### 组织架构
+- product/feature-succession-map.md
+
 ## 结
 
 ### 结果决议
@@ -2458,18 +2564,43 @@
 ### 继任
 - product/feature-succession-plan.md
 
+### 继任候选人
+- product/feature-succession-candidate-recommend.md
+
 ### 继任候选人推荐
 - spec/spec-人才发展云-继任计划-继任候选人推荐.md
 
+### 继任可视化
+- product/feature-succession-map.md
+
 ### 继任地图
+- product/feature-succession-map.md
+- product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
 - spec/spec-人才发展云-继任计划-继任地图.md
 
+### 继任地图视图
+- product/feature-succession-map.md
+
+### 继任推荐
+- product/feature-succession-candidate-recommend.md
+
 ### 继任梯队
+- product/feature-key-position-succession-ladder.md
+- product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
+
+### 继任梯队搭建
+- product/feature-key-position-succession-ladder.md
 
 ### 继任梯队管理
 - spec/spec-人才发展云-继任计划-继任梯队管理.md
+
+### 继任状态
+- product/feature-successor-management.md
+
+### 继任申请
+- product/feature-key-position-succession-ladder.md
 
 ### 继任申请单
 - spec/spec-人才发展云-继任计划-继任申请单.md
@@ -2477,14 +2608,29 @@
 ### 继任管理
 - product/feature-succession-plan.md
 
+### 继任管理概述
+- product/feature-succession-plan-overview.md
+
 ### 继任者
 - product/feature-succession-plan.md
+- product/feature-successor-management.md
 
 ### 继任者管理
 - spec/spec-人才发展云-继任计划-继任者管理.md
 
+### 继任者管理列表
+- product/feature-successor-management.md
+
+### 继任者视图
+- product/feature-succession-plan-overview.md
+
 ### 继任计划
+- product/feature-key-position-succession-ladder.md
+- product/feature-succession-candidate-recommend.md
+- product/feature-succession-map.md
+- product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
+- product/feature-successor-management.md
 - product/feature-talent-development.md
 - spec/spec-人才发展云-继任计划-关键岗位.md
 - spec/spec-人才发展云-继任计划-基础配置.md
@@ -2494,6 +2640,9 @@
 - spec/spec-人才发展云-继任计划-继任申请单.md
 - spec/spec-人才发展云-继任计划-继任者管理.md
 - spec/spec-集成场景用例-人才发展云-继任计划.md
+
+### 继任计划概述
+- product/feature-succession-plan-overview.md
 
 ## 绩
 
@@ -2819,6 +2968,7 @@
 
 ### 胜任力
 - product/feature-competency-management.md
+- product/feature-reserve-talent-management.md
 
 ### 胜任力模型
 - product/feature-competency-management.md
@@ -2874,6 +3024,7 @@
 
 ### 行政组织
 - product/feature-committee-architecture.md
+- product/feature-talent-pool-management.md
 
 ### 行政组织认证组
 - product/feature-certification-group.md
