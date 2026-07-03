@@ -3,7 +3,7 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （158 条）
+## 人才发展云 （168 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -54,7 +54,15 @@
 | product/feature-job-level-review-evaluation.md | 评审评议 | product | 2026-05-13 |
 | product/feature-job-level-review-method.md | 评审方式 | product | 2026-05-13 |
 | product/feature-job-level-standard.md | 职级标准 | product | 2026-05-13 |
-| product/feature-succession-plan.md | 继任计划功能介绍 | product | 2026-06-26 |
+| product/feature-key-position-succession-ladder.md | 关键岗位及继任梯队搭建 | product | 2026-07-02 |
+| product/feature-pool-entry-exit-application.md | 出入池申请 | product | 2026-07-02 |
+| product/feature-pool-entry-exit-types.md | 入池类型和出池类型 | product | 2026-07-02 |
+| product/feature-reserve-talent-management.md | 储备人才管理 | product | 2026-07-02 |
+| product/feature-succession-candidate-recommend.md | 继任候选人推荐 | product | 2026-07-02 |
+| product/feature-succession-map.md | 继任地图 | product | 2026-07-02 |
+| product/feature-succession-plan-overview.md | 继任计划整体介绍 | product | 2026-07-02 |
+| product/feature-succession-plan.md | 继任计划功能介绍 | product | 2026-07-02 |
+| product/feature-successor-management.md | 继任者管理 | product | 2026-07-02 |
 | product/feature-talent-archive-change.md | 人才档案-员工变动及处理 | product | 2026-05-13 |
 | product/feature-talent-archive-collaboration.md | 人才档案-员工协作配置 | product | 2026-05-13 |
 | product/feature-talent-archive-maintenance.md | 人才档案的维护与业务说明 | product | 2026-05-29 |
@@ -70,7 +78,9 @@
 | product/feature-talent-inventory-plan.md | 盘点计划 | product | 2026-05-14 |
 | product/feature-talent-inventory-process.md | 盘点活动：盘点过程 | product | 2026-06-29 |
 | product/feature-talent-inventory-template.md | 盘点活动模板 | product | 2026-06-29 |
-| product/feature-talent-pool.md | 人才储备池功能介绍 | product | 2026-06-26 |
+| product/feature-talent-pool-management.md | 储备池管理 | product | 2026-07-02 |
+| product/feature-talent-pool-overview.md | 人才储备池整体介绍 | product | 2026-07-02 |
+| product/feature-talent-pool.md | 人才储备池功能介绍 | product | 2026-07-02 |
 | product/feature-talent-star-map.md | 人才星图功能介绍 | product | 2026-06-26 |
 | spec/spec-人才发展云-人才储备池-人才储备池.md | 人才发展云-人才储备池-人才储备池测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-储备池许可.md | 人才发展云-人才储备池-储备池许可测试用例规格 | spec | 2026-05-28 |
