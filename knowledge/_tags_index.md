@@ -36,9 +36,16 @@
 
 ### ai辅助
 - guide/guide-ir-params-config.md
+- product/feature-certification-ai-config.md
 
 ### ai辅助招聘
 - product/feature-talent-supply-ai.md
+
+### ai辅助设置
+- product/feature-certification-ai-config.md
+
+### ai辅助配置
+- product/feature-certification-ai-config.md
 
 ### api对接
 - guide/guide-moka-integration.md
@@ -71,6 +78,9 @@
 ### hr
 - product/feature-job-level-document-review.md
 - spec/spec-人才发展云-职级评定-HR.md
+
+### hr代申请
+- product/feature-certification-application.md
 
 ### hr自助服务中心
 - faq/faq-job-level-no-add-button.md
@@ -132,6 +142,12 @@
 ### openapi
 - guide/guide-integration-external-recruitment.md
 
+### opmc v8.0.15
+- product/release-opmc-v8.0.15.md
+
+### opmc v8.0.16
+- product/release-opmc-v8.0.16.md
+
 ## p
 
 ### pbc
@@ -146,12 +162,40 @@
 ### td 基础服务
 - product/feature-talent-dev-foundation.md
 
+### tdc v8.0.15
+- product/release-tdc-v8.0.15.md
+
+### tdc v8.0.16
+- product/release-tdc-v8.0.16.md
+
+### tsc v8.0.15
+- product/release-tsc-v8.0.15.md
+
+### tsc v8.0.16
+- product/release-tsc-v8.0.16.md
+
+### tsc v8.0.9
+- product/release-tsc-v8.0.9.md
+
 ## v
 
 ### v8.0
 - product/feature-performance.md
 - product/feature-talent-development.md
 - product/feature-talent-supply.md
+
+### v8.0.15
+- product/release-opmc-v8.0.15.md
+- product/release-tdc-v8.0.15.md
+- product/release-tsc-v8.0.15.md
+
+### v8.0.16
+- product/release-opmc-v8.0.16.md
+- product/release-tdc-v8.0.16.md
+- product/release-tsc-v8.0.16.md
+
+### v8.0.9
+- product/release-tsc-v8.0.9.md
 
 ## 一
 
@@ -224,6 +268,9 @@
 - spec/spec-目标绩效云-个人绩效考核-绩效面谈.md
 - spec/spec-目标绩效云-个人绩效考核-考核计划.md
 
+### 个性化结果通知
+- product/feature-certification-ai-config.md
+
 ## 九
 
 ### 九宫格
@@ -290,6 +337,9 @@
 ### 人才九宫格
 - product/feature-talent-inventory-overview.md
 
+### 人才九宫格流程
+- business/process-talent-inventory.md
+
 ### 人才供应
 - business/process-talent-supply-implementation.md
 - product/feature-talent-supply.md
@@ -329,6 +379,9 @@
 ### 人才供应云v8.0
 - product/feature-talent-supply.md
 
+### 人才供应云v8.0.9
+- product/release-tsc-v8.0.9.md
+
 ### 人才供应交付
 - business/process-talent-supply-implementation.md
 
@@ -339,6 +392,7 @@
 - product/feature-talent-pool.md
 
 ### 人才储备池
+- business/process-talent-pool.md
 - product/feature-pool-entry-exit-application.md
 - product/feature-pool-entry-exit-types.md
 - product/feature-reserve-talent-management.md
@@ -354,11 +408,19 @@
 ### 人才储备池概述
 - product/feature-talent-pool-overview.md
 
+### 人才储备流程
+- business/process-talent-pool.md
+
 ### 人才分析
 - product/feature-talent-supply-ai.md
 
 ### 人才发展
+- business/process-cadre-management.md
+- business/process-job-level.md
 - business/process-qualification.md
+- business/process-succession-plan.md
+- business/process-talent-inventory.md
+- business/process-talent-pool.md
 - product/feature-key-position-succession-ladder.md
 - product/feature-pool-entry-exit-application.md
 - product/feature-pool-entry-exit-types.md
@@ -495,6 +557,7 @@
 - product/feature-talent-development.md
 
 ### 人才培养
+- business/process-talent-pool.md
 - product/feature-talent-pool-overview.md
 - product/feature-talent-pool.md
 
@@ -530,6 +593,7 @@
 - product/feature-talent-archive-maintenance.md
 - product/feature-talent-archive-overview.md
 - product/feature-talent-development.md
+- product/release-tdc-v8.0.15.md
 - spec/spec-人才发展云-人才档案-DFX.md
 - spec/spec-人才发展云-人才档案-事务变动匹配规则处理档案.md
 - spec/spec-人才发展云-人才档案-人才档案F7.md
@@ -557,6 +621,7 @@
 - product/feature-talent-star-map.md
 
 ### 人才盘点
+- business/process-talent-inventory.md
 - faq/faq-talent-inventory-grid-types.md
 - faq/faq-talent-inventory-joined-vs-unjoined.md
 - faq/faq-talent-inventory-managed-vs-collaborated.md
@@ -576,6 +641,8 @@
 - product/feature-talent-inventory-plan.md
 - product/feature-talent-inventory-process.md
 - product/feature-talent-inventory-template.md
+- product/release-tdc-v8.0.15.md
+- product/release-tdc-v8.0.16.md
 - spec/spec-人才发展云-人才盘点-人才盘点许可.md
 - spec/spec-人才发展云-人才盘点-基础配置.md
 - spec/spec-人才发展云-人才盘点-应用及菜单.md
@@ -618,12 +685,14 @@
 - guide/guide-cadre-appointment-nomination.md
 
 ### 任命提名
+- business/process-cadre-management.md
 - guide/guide-cadre-appointment-nomination.md
 
 ### 任期生成
 - guide/guide-cadre-term.md
 
 ### 任期管理
+- business/process-cadre-management.md
 - guide/guide-cadre-term.md
 - product/feature-cadre-management.md
 
@@ -632,7 +701,9 @@
 
 ### 任职资格
 - business/process-qualification.md
+- product/feature-certification-level-scheme.md
 - product/feature-talent-development.md
+- product/release-tdc-v8.0.15.md
 - spec/spec-人才发展云-任职资格-二开需求.md
 - spec/spec-人才发展云-任职资格-任职资格工作台.md
 - spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
@@ -654,20 +725,36 @@
 - spec/spec-人才发展云-任职资格-资格认证.md
 - spec/spec-集成场景用例-人才发展云-任职资格.md
 
+### 任职资格ai助手
+- product/feature-certification-ai-config.md
+
+### 任职资格公示
+- product/feature-certification-publicity.md
+
 ### 任职资格工作台
 - spec/spec-人才发展云-任职资格-任职资格工作台.md
 
 ### 任职资格流程页历史数据升级
 - spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
 
+### 任职资格等级方案配置
+- product/feature-certification-level-scheme.md
+
 ### 任职资格组织
 - spec/spec-人才发展云-人才发展基础服务-任职资格组织.md
 
 ### 任职资格认证
 - business/process-qualification.md
+- product/feature-certification-plan-materials.md
+
+### 任职资格认证申请
+- product/feature-certification-application.md
 
 ### 任职资格许可
 - spec/spec-人才发展云-任职资格-任职资格许可.md
+
+### 任职资格配置
+- product/feature-certification-level-scheme.md
 
 ## 企
 
@@ -688,6 +775,7 @@
 - product/feature-express-ai-resume-parsing.md
 - product/feature-express-candidate.md
 - product/feature-ir-candidate.md
+- product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-招聘服务直通车-候选人.md
 
 ### 候选人可见性
@@ -734,6 +822,9 @@
 ### 储备池概述
 - product/feature-talent-pool-overview.md
 
+### 储备池流程
+- business/process-talent-pool.md
+
 ### 储备池管理
 - product/feature-talent-pool-management.md
 - product/feature-talent-pool-overview.md
@@ -760,6 +851,7 @@
 ## 入
 
 ### 入池
+- business/process-talent-pool.md
 - product/feature-pool-entry-exit-application.md
 - product/feature-talent-pool.md
 
@@ -807,8 +899,24 @@
 ### 公示
 - guide/guide-cadre-publicity.md
 
+### 公示周期
+- product/feature-certification-publicity.md
+
+### 公示模板
+- product/feature-certification-publicity.md
+
 ### 公示管理
+- product/feature-publicity-management.md
 - spec/spec-人才发展云-任职资格-公示管理.md
+
+### 公示管理操作
+- product/feature-publicity-management.md
+
+### 公示范围
+- product/feature-certification-publicity.md
+
+### 公示跟踪
+- product/feature-publicity-management.md
 
 ## 六
 
@@ -818,6 +926,7 @@
 ## 关
 
 ### 关键岗位
+- business/process-succession-plan.md
 - product/feature-key-position-succession-ladder.md
 - product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
@@ -864,6 +973,9 @@
 - product/feature-ir-position.md
 - product/feature-talent-supply-ai.md
 - product/feature-talent-supply.md
+- product/release-tsc-v8.0.15.md
+- product/release-tsc-v8.0.16.md
+- product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-内部招聘-人才库管理.md
 - spec/spec-人才供应云-内部招聘-候选人管理.md
 - spec/spec-人才供应云-内部招聘-内部招聘首页.md
@@ -913,6 +1025,7 @@
 - product/feature-pool-entry-exit-types.md
 
 ### 出池
+- business/process-talent-pool.md
 - product/feature-pool-entry-exit-application.md
 - product/feature-talent-pool.md
 
@@ -1253,6 +1366,9 @@
 ### 员工申报
 - product/feature-job-level-application.md
 
+### 员工申报助手
+- product/feature-certification-ai-config.md
+
 ### 员工确认
 - product/feature-result-confirmation.md
 
@@ -1290,6 +1406,7 @@
 - faq/faq-ir-interview-reply.md
 
 ### 在线校准
+- business/process-talent-inventory.md
 - guide/guide-talent-inventory-calibration.md
 - product/feature-talent-inventory-calibration.md
 
@@ -1368,6 +1485,9 @@
 
 ## 完
 
+### 完成公示
+- product/feature-publicity-management.md
+
 ### 完整性
 - product/feature-job-level-document-review.md
 
@@ -1400,6 +1520,12 @@
 
 ### 审批进度
 - product/feature-job-level-approval-management.md
+
+### 审查不通过
+- product/feature-certification-qualification-review.md
+
+### 审查通过
+- product/feature-certification-qualification-review.md
 
 ## 宫
 
@@ -1446,7 +1572,11 @@
 ## 干
 
 ### 干部任免
+- business/process-cadre-management.md
 - product/feature-cadre-management.md
+
+### 干部任免流程
+- business/process-cadre-management.md
 
 ### 干部任免管理
 - spec/spec-人才发展云-干部管理-干部任免管理.md
@@ -1474,6 +1604,7 @@
 - product/feature-cadre-management.md
 
 ### 干部管理
+- business/process-cadre-management.md
 - guide/guide-cadre-appointment-nomination.md
 - guide/guide-cadre-deliberation.md
 - guide/guide-cadre-dismissal.md
@@ -1489,6 +1620,7 @@
 - guide/guide-cadre-term.md
 - product/feature-cadre-management.md
 - product/feature-talent-development.md
+- product/release-tdc-v8.0.15.md
 - spec/spec-人才发展云-干部管理-任免OP改造.md
 - spec/spec-人才发展云-干部管理-公共系统.md
 - spec/spec-人才发展云-干部管理-基础配置.md
@@ -1508,6 +1640,9 @@
 
 ### 干部管理方案
 - product/feature-cadre-management.md
+
+### 干部管理流程
+- business/process-cadre-management.md
 
 ### 干部管理许可
 - spec/spec-人才发展云-干部管理-干部管理许可.md
@@ -1550,6 +1685,7 @@
 
 ### 应聘建议
 - product/feature-talent-supply-ai.md
+- product/release-tsc-v8.0.16.md
 
 ### 应聘者
 - product/feature-express-candidate.md
@@ -1596,6 +1732,7 @@
 ### 录用通知
 - guide/guide-message-template.md
 - product/feature-express-hire-notice.md
+- product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-招聘服务直通车-录用通知.md
 
 ### 录用通知书
@@ -1619,6 +1756,11 @@
 
 ### 急招
 - product/feature-ir-advertisement.md
+
+## 情
+
+### 情感化插图
+- product/feature-certification-result-notification.md
 
 ## 我
 
@@ -1660,6 +1802,9 @@
 
 ### 批量安排
 - product/feature-job-level-review-arrangement.md
+
+### 批量审查
+- product/feature-certification-qualification-review.md
 
 ### 批量报批
 - product/feature-job-level-result-approval.md
@@ -1723,6 +1868,8 @@
 - guide/guide-recruitment-process-config.md
 - product/feature-recruitment-foundation.md
 - product/feature-talent-supply.md
+- product/release-tsc-v8.0.15.md
+- product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-招聘基础服务-业务配置.md
 - spec/spec-人才供应云-招聘基础服务-参数配置.md
 
@@ -1753,6 +1900,8 @@
 - product/feature-express-position.md
 - product/feature-recruitment-express.md
 - product/feature-talent-supply.md
+- product/release-tsc-v8.0.15.md
+- product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-招聘服务直通车-候选人.md
 - spec/spec-人才供应云-招聘服务直通车-候选人日志.md
 - spec/spec-人才供应云-招聘服务直通车-入职协同单.md
@@ -1803,6 +1952,8 @@
 
 ### 指标库
 - product/feature-performance.md
+- product/release-opmc-v8.0.15.md
+- product/release-opmc-v8.0.16.md
 
 ### 指标配置
 - guide/guide-performance-indicators.md
@@ -1823,6 +1974,9 @@
 
 ### 提名管理
 - product/feature-succession-candidate-recommend.md
+
+### 提示词配置
+- product/feature-certification-ai-config.md
 
 ## 撤
 
@@ -1862,6 +2016,11 @@
 ### 新建盘点活动
 - product/feature-talent-inventory-create-activity.md
 
+## 无
+
+### 无考核场景
+- product/release-opmc-v8.0.15.md
+
 ## 晋
 
 ### 晋升体系
@@ -1874,12 +2033,16 @@
 - product/feature-job-level-promotion-nomination.md
 
 ### 晋升提名
+- business/process-job-level.md
 - faq/faq-job-level-no-add-button.md
 - product/feature-job-level-promotion-nomination.md
 - spec/spec-人才发展云-职级评定-晋升提名.md
 
 ### 晋升材料
 - product/feature-job-level-application-materials.md
+
+### 晋升流程
+- business/process-job-level.md
 
 ### 晋升申报
 - product/feature-job-level-application.md
@@ -1907,6 +2070,12 @@
 
 ### 智能简历解析
 - product/feature-express-ai-resume-parsing.md
+
+### 智能评价
+- product/feature-certification-ai-config.md
+
+### 智能评价助手
+- product/feature-certification-ai-config.md
 
 ## 有
 
@@ -1940,6 +2109,14 @@
 
 ### 材料清单
 - product/feature-job-level-application-materials.md
+
+### 材料配置
+- product/feature-certification-plan-materials.md
+
+## 架
+
+### 架构优化
+- product/release-tsc-v8.0.15.md
 
 ## 栅
 
@@ -2218,6 +2395,15 @@
 ### 版本
 - faq/faq-product-overview.md
 
+### 版本更新
+- product/release-opmc-v8.0.15.md
+- product/release-opmc-v8.0.16.md
+- product/release-tdc-v8.0.15.md
+- product/release-tdc-v8.0.16.md
+- product/release-tsc-v8.0.15.md
+- product/release-tsc-v8.0.16.md
+- product/release-tsc-v8.0.9.md
+
 ## 状
 
 ### 状态展示
@@ -2301,6 +2487,7 @@
 - product/feature-talent-inventory-template.md
 
 ### 盘点活动
+- business/process-talent-inventory.md
 - faq/faq-talent-inventory-managed-vs-collaborated.md
 - guide/guide-talent-inventory-create-activity.md
 - guide/guide-talent-inventory.md
@@ -2315,6 +2502,9 @@
 
 ### 盘点活动计划
 - product/feature-talent-inventory-plan.md
+
+### 盘点流程
+- business/process-talent-inventory.md
 
 ### 盘点组
 - guide/guide-talent-inventory-grouping.md
@@ -2331,6 +2521,7 @@
 - product/feature-talent-inventory-evaluation-scheme.md
 
 ### 盘点计划
+- business/process-talent-inventory.md
 - guide/guide-talent-inventory.md
 - product/feature-talent-inventory-plan.md
 - spec/spec-人才发展云-人才盘点-盘点计划.md
@@ -2361,6 +2552,8 @@
 - product/feature-performance-overview.md
 - product/feature-performance-strategy-insights.md
 - product/feature-performance.md
+- product/release-opmc-v8.0.15.md
+- product/release-opmc-v8.0.16.md
 
 ### 目标绩效云
 - spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md
@@ -2463,7 +2656,11 @@
 - guide/guide-grade-ruler.md
 
 ### 等级方案
+- product/feature-certification-level-scheme.md
 - product/feature-scoring-scale.md
+
+### 等级方案管理
+- product/feature-certification-level-scheme.md
 
 ### 等级标尺
 - guide/guide-grade-ruler.md
@@ -2488,6 +2685,9 @@
 - guide/guide-cadre-publication.md
 
 ## 简
+
+### 简历匹配
+- product/release-tsc-v8.0.16.md
 
 ### 简历筛选
 - guide/guide-interviewer.md
@@ -2520,6 +2720,11 @@
 ### 组织架构
 - product/feature-succession-map.md
 
+## 终
+
+### 终止认证
+- product/feature-certification-application.md
+
 ## 结
 
 ### 结果决议
@@ -2550,14 +2755,22 @@
 ### 结果确认
 - business/process-performance-review.md
 - product/feature-result-confirmation.md
+- product/release-opmc-v8.0.16.md
 - spec/spec-目标绩效云-个人绩效考核-结果确认.md
 - spec/spec-目标绩效云-集成场景用例-结果确认.md
 
 ### 结果管理
 - product/feature-performance-result.md
 
+### 结果调整
+- product/feature-certification-publicity.md
+
 ### 结果通知
+- product/feature-certification-result-notification.md
 - product/feature-job-level-application.md
+
+### 结果通知配置
+- product/feature-certification-result-notification.md
 
 ## 继
 
@@ -2574,6 +2787,7 @@
 - product/feature-succession-map.md
 
 ### 继任地图
+- business/process-succession-plan.md
 - product/feature-succession-map.md
 - product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
@@ -2586,6 +2800,7 @@
 - product/feature-succession-candidate-recommend.md
 
 ### 继任梯队
+- business/process-succession-plan.md
 - product/feature-key-position-succession-ladder.md
 - product/feature-succession-plan-overview.md
 - product/feature-succession-plan.md
@@ -2611,6 +2826,9 @@
 ### 继任管理概述
 - product/feature-succession-plan-overview.md
 
+### 继任管理流程
+- business/process-succession-plan.md
+
 ### 继任者
 - product/feature-succession-plan.md
 - product/feature-successor-management.md
@@ -2625,6 +2843,7 @@
 - product/feature-succession-plan-overview.md
 
 ### 继任计划
+- business/process-succession-plan.md
 - product/feature-key-position-succession-ladder.md
 - product/feature-succession-candidate-recommend.md
 - product/feature-succession-map.md
@@ -2632,6 +2851,8 @@
 - product/feature-succession-plan.md
 - product/feature-successor-management.md
 - product/feature-talent-development.md
+- product/release-tdc-v8.0.15.md
+- product/release-tdc-v8.0.16.md
 - spec/spec-人才发展云-继任计划-关键岗位.md
 - spec/spec-人才发展云-继任计划-基础配置.md
 - spec/spec-人才发展云-继任计划-继任候选人推荐.md
@@ -2643,6 +2864,9 @@
 
 ### 继任计划概述
 - product/feature-succession-plan-overview.md
+
+### 继任计划流程
+- business/process-succession-plan.md
 
 ## 绩
 
@@ -2696,6 +2920,7 @@
 - product/feature-performance-archive-overview.md
 - product/feature-performance-archive.md
 - product/feature-performance.md
+- product/release-opmc-v8.0.15.md
 - spec/spec-目标绩效云-个人绩效考核-绩效档案.md
 - spec/spec-目标绩效云-集成场景用例-绩效档案.md
 
@@ -2826,6 +3051,8 @@
 - product/feature-performance-interview.md
 - product/feature-result-confirmation.md
 - product/feature-result-summary.md
+- product/release-opmc-v8.0.15.md
+- product/release-opmc-v8.0.16.md
 - spec/spec-目标绩效云-集成场景用例-考核活动.md
 
 ### 考核组
@@ -2894,10 +3121,12 @@
 - product/feature-job-level-overview.md
 
 ### 职级标准
+- business/process-job-level.md
 - product/feature-job-level-overview.md
 - product/feature-job-level-standard.md
 
 ### 职级申报
+- business/process-job-level.md
 - faq/faq-job-level-no-add-button.md
 - product/feature-job-level-application.md
 
@@ -2916,11 +3145,15 @@
 ### 职级管理
 - product/feature-job-level-overview.md
 
+### 职级管理流程
+- business/process-job-level.md
+
 ### 职级职等调整
 - product/feature-job-level-batch-adjustment.md
 - spec/spec-人才发展云-职级评定-职级职等调整.md
 
 ### 职级评定
+- business/process-job-level.md
 - product/feature-job-level-application-materials.md
 - product/feature-job-level-application-qualification.md
 - product/feature-job-level-application.md
@@ -3034,6 +3267,11 @@
 ### 表单插件
 - faq/faq-switch-salary-param-by-field.md
 
+## 规
+
+### 规则引擎
+- product/feature-certification-result-notification.md
+
 ## 角
 
 ### 角色
@@ -3065,17 +3303,36 @@
 
 ## 认
 
+### 认证ai配置
+- product/feature-certification-ai-config.md
+
 ### 认证公示
+- product/feature-certification-publicity.md
 - spec/spec-人才发展云-任职资格-认证公示.md
+
+### 认证审查
+- product/feature-certification-qualification-review.md
+
+### 认证材料
+- product/feature-certification-application.md
+- product/feature-certification-plan-materials.md
+
+### 认证材料配置
+- product/feature-certification-plan-materials.md
 
 ### 认证流程
 - business/process-qualification.md
+- product/feature-certification-application.md
 
 ### 认证申诉
 - spec/spec-人才发展云-任职资格-认证申诉.md
 
 ### 认证申请
+- product/feature-certification-application.md
 - spec/spec-人才发展云-任职资格-认证申请.md
+
+### 认证申请管理
+- product/feature-certification-application.md
 
 ### 认证组
 - product/feature-certification-group.md
@@ -3088,14 +3345,33 @@
 ### 认证组角色
 - product/feature-certification-group.md
 
+### 认证结果
+- product/feature-certification-result-notification.md
+
+### 认证结果公示
+- product/feature-certification-publicity.md
+
 ### 认证结果通知
 - spec/spec-人才发展云-任职资格-认证结果通知.md
+
+### 认证结果通知模板
+- product/feature-certification-result-notification.md
 
 ### 认证考核
 - spec/spec-人才发展云-任职资格-认证考核.md
 
 ### 认证计划
+- product/feature-certification-plan-materials.md
 - spec/spec-人才发展云-任职资格-认证计划.md
+
+### 认证计划材料管理
+- product/feature-certification-plan-materials.md
+
+### 认证资格审核
+- product/feature-certification-qualification-review.md
+
+### 认证配置
+- product/feature-certification-level-scheme.md
 
 ## 许
 
@@ -3223,6 +3499,7 @@
 - product/feature-job-level-evaluation-plan.md
 
 ### 评审评议
+- business/process-job-level.md
 - product/feature-job-level-review-evaluation.md
 - spec/spec-人才发展云-职级评定-评审评议.md
 
@@ -3263,7 +3540,11 @@
 
 ### 资格审查
 - guide/guide-cadre-qualification-review.md
+- product/feature-certification-qualification-review.md
 - spec/spec-人才发展云-任职资格-资格审查.md
+
+### 资格审查操作
+- product/feature-certification-qualification-review.md
 
 ### 资格认证
 - spec/spec-人才发展云-任职资格-资格认证.md
@@ -3296,6 +3577,7 @@
 
 ### 通知模板
 - guide/guide-message-template.md
+- product/feature-certification-result-notification.md
 
 ## 邮
 
@@ -3305,6 +3587,7 @@
 ## 酝
 
 ### 酝酿动议
+- business/process-cadre-management.md
 - guide/guide-cadre-deliberation.md
 
 ## 重
@@ -3410,6 +3693,14 @@
 
 ### 首页
 - spec/spec-人才供应云-人人面试官-首页.md
+
+## 驳
+
+### 驳回
+- product/feature-certification-qualification-review.md
+
+### 驳回公示
+- product/feature-publicity-management.md
 
 ## 高
 
