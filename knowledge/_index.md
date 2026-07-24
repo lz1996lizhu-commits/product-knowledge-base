@@ -9,7 +9,14 @@
 |------|------|------|----------|
 | product/feature-assessment-completion.md | 考核完成 | 考核完成,结果归档,绩效归档,考核活动 | 2026-05-21 |
 | product/feature-cadre-management.md | 干部管理整体介绍 | 干部管理,整体介绍,人才发展云,任免流程,任期管理 | 2026-05-29 |
+| product/feature-certification-ai-config.md | AI辅助配置（任职资格） | AI辅助,智能评价,员工申报助手,智能评价助手,个性化结果通知,提示词配置,AI辅助配置 | 2026-07-24 |
+| product/feature-certification-application.md | 认证申请 | 认证申请,认证流程,认证材料,终止认证,HR代申请 | 2026-07-24 |
 | product/feature-certification-group.md | 认证组 | 认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组 | 2026-05-13 |
+| product/feature-certification-level-scheme.md | 任职资格等级方案 | 任职资格,等级方案,认证配置,任职资格配置 | 2026-07-24 |
+| product/feature-certification-plan-materials.md | 认证计划材料 | 认证计划,认证材料,材料配置,任职资格认证 | 2026-07-24 |
+| product/feature-certification-publicity.md | 认证公示 | 认证公示,公示周期,公示模板,公示范围,结果调整 | 2026-07-24 |
+| product/feature-certification-qualification-review.md | 认证资格审查 | 资格审查,认证审查,审查通过,驳回,审查不通过,批量审查 | 2026-07-24 |
+| product/feature-certification-result-notification.md | 结果通知模板 | 结果通知,通知模板,认证结果,规则引擎,情感化插图 | 2026-07-24 |
 | product/feature-committee-architecture.md | 专委会架构与专委会组织 | 专委会架构,专委会组织,人才管理组织,行政组织,职位体系 | 2026-05-13 |
 | product/feature-committee-roles.md | 专委会角色与专委会成员 | 专委会角色,专委会成员,企业内员工,外部人员 | 2026-05-13 |
 | product/feature-competency-management.md | 能力素质管理 | 能力素质管理,能力等级方案,能力素质维度,能力素质项,能力素质库 | 2026-05-13 |
@@ -67,6 +74,7 @@
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | 人岗匹配,智能体,技能画像,AI,人才管理 | 2026-05-20 |
 | product/feature-pool-entry-exit-application.md | 出入池申请 | 人才储备池,入池,出池,申请审批,入池类型,出池类型,人才发展 | 2026-07-02 |
 | product/feature-pool-entry-exit-types.md | 入池类型和出池类型 | 人才储备池,入池类型,出池类型,基础配置,人才发展 | 2026-07-02 |
+| product/feature-publicity-management.md | 公示管理 | 公示管理,驳回公示,完成公示,公示跟踪 | 2026-07-24 |
 | product/feature-recruitment-express.md | 招聘服务直通车产品概述 | 招聘服务直通车,外部招聘,生态集成,录用管理,入职协同,Moka,混合云,多模式入职,定薪变量 | 2026-06-26 |
 | product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | 招聘基础服务,基础数据,业务配置,招聘流程,消息模板,面试评价表,参数配置 | 2026-06-26 |
 | product/feature-reserve-talent-management.md | 储备人才管理 | 人才储备池,储备人才,胜任力,在池天数,人才发展 | 2026-07-02 |
@@ -99,16 +107,28 @@
 | product/feature-talent-star-map.md | 人才星图功能介绍 | 人才发展,人才星图,人才搜索,人才对比,人才画像,全文检索 | 2026-06-26 |
 | product/feature-talent-supply-ai.md | AI智能赋能内部招聘全链路 | 内部招聘,AI,职位说明生成,人才分析,应聘建议,面试问题生成,智能招聘 | 2026-06-26 |
 | product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成,AI招聘,V8.0,招聘基础服务,人才库,面试官 | 2026-06-26 |
+| product/release-opmc-v8.0.15.md | 目标绩效云版本更新说明（V8.0.15） | 版本更新,V8.0.15,目标绩效,指标库,考核活动,绩效档案,无考核场景 | 2026-07-24 |
+| product/release-opmc-v8.0.16.md | 目标绩效云版本更新说明（V8.0.16） | 版本更新,V8.0.16,目标绩效,结果确认,指标库,考核活动 | 2026-07-24 |
+| product/release-tdc-v8.0.15.md | 人才发展云版本更新说明（V8.0.15） | 版本更新,V8.0.15,人才档案,任职资格,人才盘点,继任计划,干部管理 | 2026-07-24 |
+| product/release-tdc-v8.0.16.md | 人才发展云版本更新说明（V8.0.16） | 版本更新,V8.0.16,继任计划,人才盘点 | 2026-07-24 |
+| product/release-tsc-v8.0.15.md | 人才供应云版本更新说明（V8.0.15） | 版本更新,V8.0.15,内部招聘,招聘服务直通车,招聘基础服务,架构优化 | 2026-07-24 |
+| product/release-tsc-v8.0.16.md | 人才供应云版本更新说明（V8.0.16） | 版本更新,V8.0.16,内部招聘,应聘建议,简历匹配 | 2026-07-24 |
+| product/release-tsc-v8.0.9.md | 金蝶AI HR版本发布说明（V8.0.9）-人才供应云 | 版本更新,V8.0.9,内部招聘,招聘服务直通车,招聘基础服务,候选人,录用通知 | 2026-07-24 |
 
 ## 业务流程 (business)
 
 | 文件 | 标题 | 标签 | 更新日期 |
 |------|------|------|----------|
+| business/process-cadre-management.md | 干部管理全流程 | 干部管理,干部任免,酝酿动议,任命提名,任期管理,人才发展 | 2026-07-03 |
 | business/process-external-recruitment.md | 外部招聘录用流程 | 外部招聘,社会招聘,Moka集成,录用通知书,入职协同 | 2026-05-09 |
 | business/process-internal-recruitment.md | 内部招聘全流程 | 内部招聘,招聘流程,职位发布,面试,录用 | 2026-05-09 |
+| business/process-job-level.md | 职级评定全流程 | 职级评定,职级标准,晋升提名,职级申报,评审评议,人才发展 | 2026-07-03 |
 | business/process-performance-implementation.md | 目标绩效云交付实施配置指南 | 目标绩效,交付实施,绩效配置,绩效规则,考核计划,考核活动,绩效落地 | 2026-06-26 |
 | business/process-performance-review.md | 绩效考核活动流程 | 绩效考核,指标制定,绩效评估,结果校准,结果确认 | 2026-05-09 |
 | business/process-qualification.md | 任职资格认证流程 | 任职资格,认证流程,人才发展,评委评议 | 2026-05-09 |
+| business/process-succession-plan.md | 继任计划全流程 | 继任计划,关键岗位,继任梯队,继任地图,人才发展 | 2026-07-03 |
+| business/process-talent-inventory.md | 人才盘点全流程 | 人才盘点,盘点计划,盘点活动,在线校准,人才发展 | 2026-07-03 |
+| business/process-talent-pool.md | 人才储备池全流程 | 人才储备池,入池,出池,人才培养,人才发展 | 2026-07-03 |
 | business/process-talent-supply-implementation.md | 人才供应云交付实施配置指南 | 人才供应,交付实施,初始化配置,招聘配置,预置数据,实施指南 | 2026-06-26 |
 
 ## 常见问题 (faq)

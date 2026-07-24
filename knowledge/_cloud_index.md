@@ -3,11 +3,16 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （168 条）
+## 人才发展云 （183 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
+| business/process-cadre-management.md | 干部管理全流程 | business | 2026-07-03 |
+| business/process-job-level.md | 职级评定全流程 | business | 2026-07-03 |
 | business/process-qualification.md | 任职资格认证流程 | business | 2026-05-09 |
+| business/process-succession-plan.md | 继任计划全流程 | business | 2026-07-03 |
+| business/process-talent-inventory.md | 人才盘点全流程 | business | 2026-07-03 |
+| business/process-talent-pool.md | 人才储备池全流程 | business | 2026-07-03 |
 | faq/faq-homepage-scheme-missing.md | 首页方案数据在系统中不存在，可能已经被删除 | faq | 2026-05-14 |
 | faq/faq-job-level-no-add-button.md | HR自助服务中心职级申报为什么没有新增按钮 | faq | 2026-05-27 |
 | faq/faq-talent-inventory-grid-types.md | 人才盘点宫格配置是否支持12宫格？ | faq | 2026-05-27 |
@@ -33,7 +38,14 @@
 | guide/guide-talent-inventory-process.md | 盘点活动：盘点过程 | guide | 2026-05-18 |
 | guide/guide-talent-inventory.md | 人才盘点操作指南 | guide | 2026-05-09 |
 | product/feature-cadre-management.md | 干部管理整体介绍 | product | 2026-05-29 |
+| product/feature-certification-ai-config.md | AI辅助配置（任职资格） | product | 2026-07-24 |
+| product/feature-certification-application.md | 认证申请 | product | 2026-07-24 |
 | product/feature-certification-group.md | 认证组 | product | 2026-05-13 |
+| product/feature-certification-level-scheme.md | 任职资格等级方案 | product | 2026-07-24 |
+| product/feature-certification-plan-materials.md | 认证计划材料 | product | 2026-07-24 |
+| product/feature-certification-publicity.md | 认证公示 | product | 2026-07-24 |
+| product/feature-certification-qualification-review.md | 认证资格审查 | product | 2026-07-24 |
+| product/feature-certification-result-notification.md | 结果通知模板 | product | 2026-07-24 |
 | product/feature-committee-architecture.md | 专委会架构与专委会组织 | product | 2026-05-13 |
 | product/feature-committee-roles.md | 专委会角色与专委会成员 | product | 2026-05-13 |
 | product/feature-competency-management.md | 能力素质管理 | product | 2026-05-13 |
@@ -57,6 +69,7 @@
 | product/feature-key-position-succession-ladder.md | 关键岗位及继任梯队搭建 | product | 2026-07-02 |
 | product/feature-pool-entry-exit-application.md | 出入池申请 | product | 2026-07-02 |
 | product/feature-pool-entry-exit-types.md | 入池类型和出池类型 | product | 2026-07-02 |
+| product/feature-publicity-management.md | 公示管理 | product | 2026-07-24 |
 | product/feature-reserve-talent-management.md | 储备人才管理 | product | 2026-07-02 |
 | product/feature-succession-candidate-recommend.md | 继任候选人推荐 | product | 2026-07-02 |
 | product/feature-succession-map.md | 继任地图 | product | 2026-07-02 |
@@ -82,6 +95,8 @@
 | product/feature-talent-pool-overview.md | 人才储备池整体介绍 | product | 2026-07-02 |
 | product/feature-talent-pool.md | 人才储备池功能介绍 | product | 2026-07-02 |
 | product/feature-talent-star-map.md | 人才星图功能介绍 | product | 2026-06-26 |
+| product/release-tdc-v8.0.15.md | 人才发展云版本更新说明（V8.0.15） | product | 2026-07-24 |
+| product/release-tdc-v8.0.16.md | 人才发展云版本更新说明（V8.0.16） | product | 2026-07-24 |
 | spec/spec-人才发展云-人才储备池-人才储备池.md | 人才发展云-人才储备池-人才储备池测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-储备池许可.md | 人才发展云-人才储备池-储备池许可测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-基础配置.md | 人才发展云-人才储备池-基础配置测试用例规格 | spec | 2026-05-28 |
@@ -176,7 +191,7 @@
 | spec/spec-集成场景用例-人才发展云-继任计划.md | 集成场景用例-人才发展云-继任计划测试用例规格 | spec | 2026-05-28 |
 | spec/spec-集成场景用例-人才发展云-职级评定.md | 集成场景用例-人才发展云-职级评定测试用例规格 | spec | 2026-05-28 |
 
-## 目标绩效云 （71 条）
+## 目标绩效云 （73 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -211,6 +226,8 @@
 | product/feature-result-confirmation.md | 结果确认 | product | 2026-05-21 |
 | product/feature-result-summary.md | 结果汇总 | product | 2026-05-21 |
 | product/feature-scoring-scale.md | 评分分制 | product | 2026-05-21 |
+| product/release-opmc-v8.0.15.md | 目标绩效云版本更新说明（V8.0.15） | product | 2026-07-24 |
+| product/release-opmc-v8.0.16.md | 目标绩效云版本更新说明（V8.0.16） | product | 2026-07-24 |
 | spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md | 目标绩效云-HR自助服务（PC端）-团队绩效测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-HR自助服务（PC端）-平台待办已办任务.md | 目标绩效云-HR自助服务（PC端）-平台待办已办任务测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-HR自助服务（PC端）-平台消息.md | 目标绩效云-HR自助服务（PC端）-平台消息测试用例规格 | spec | 2026-05-28 |
@@ -252,7 +269,7 @@
 | spec/spec-目标绩效云-集成场景用例-绩效面谈.md | 目标绩效云-集成场景用例-绩效面谈测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-集成场景用例-考核活动.md | 目标绩效云-集成场景用例-考核活动测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （67 条）
+## 人才供应云 （70 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -294,6 +311,9 @@
 | product/feature-recruitment-foundation.md | 招聘基础服务整体介绍 | product | 2026-06-26 |
 | product/feature-talent-supply-ai.md | AI智能赋能内部招聘全链路 | product | 2026-06-26 |
 | product/feature-talent-supply.md | 人才供应云产品概述 | product | 2026-06-26 |
+| product/release-tsc-v8.0.15.md | 人才供应云版本更新说明（V8.0.15） | product | 2026-07-24 |
+| product/release-tsc-v8.0.16.md | 人才供应云版本更新说明（V8.0.16） | product | 2026-07-24 |
+| product/release-tsc-v8.0.9.md | 金蝶AI HR版本发布说明（V8.0.9）-人才供应云 | product | 2026-07-24 |
 | spec/spec-人才供应云-HR自助服务中心-我要应聘.md | 人才供应云-HR自助服务中心-我要应聘测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才供应云-人人面试官-DFX.md | 人才供应云-人人面试官-DFX测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才供应云-人人面试官-简历筛选.md | 人才供应云-人人面试官-简历筛选测试用例规格 | spec | 2026-05-28 |
