@@ -120,6 +120,9 @@
 ### moka 对接
 - guide/guide-moka-integration.md
 
+### moka状态回传
+- product/release-tsc-v8.0.17.md
+
 ### moka集成
 - business/process-external-recruitment.md
 - product/feature-talent-supply.md
@@ -148,6 +151,9 @@
 ### opmc v8.0.16
 - product/release-opmc-v8.0.16.md
 
+### opmc v8.0.17
+- product/release-opmc-v8.0.17.md
+
 ## p
 
 ### pbc
@@ -168,11 +174,17 @@
 ### tdc v8.0.16
 - product/release-tdc-v8.0.16.md
 
+### tdc v8.0.17
+- product/release-tdc-v8.0.17.md
+
 ### tsc v8.0.15
 - product/release-tsc-v8.0.15.md
 
 ### tsc v8.0.16
 - product/release-tsc-v8.0.16.md
+
+### tsc v8.0.17
+- product/release-tsc-v8.0.17.md
 
 ### tsc v8.0.9
 - product/release-tsc-v8.0.9.md
@@ -193,6 +205,11 @@
 - product/release-opmc-v8.0.16.md
 - product/release-tdc-v8.0.16.md
 - product/release-tsc-v8.0.16.md
+
+### v8.0.17
+- product/release-opmc-v8.0.17.md
+- product/release-tdc-v8.0.17.md
+- product/release-tsc-v8.0.17.md
 
 ### v8.0.9
 - product/release-tsc-v8.0.9.md
@@ -583,6 +600,7 @@
 - faq/faq-homepage-scheme-missing.md
 - product/feature-talent-development.md
 - product/feature-talent-star-map.md
+- product/release-tdc-v8.0.17.md
 - spec/spec-人才发展云-人才星图-人才搜索.md
 - spec/spec-人才发展云-人才星图-全景人才画像.md
 - spec/spec-人才发展云-人才星图-画像视图配置.md
@@ -594,6 +612,7 @@
 - product/feature-talent-archive-overview.md
 - product/feature-talent-development.md
 - product/release-tdc-v8.0.15.md
+- product/release-tdc-v8.0.17.md
 - spec/spec-人才发展云-人才档案-DFX.md
 - spec/spec-人才发展云-人才档案-事务变动匹配规则处理档案.md
 - spec/spec-人才发展云-人才档案-人才档案F7.md
@@ -643,6 +662,7 @@
 - product/feature-talent-inventory-template.md
 - product/release-tdc-v8.0.15.md
 - product/release-tdc-v8.0.16.md
+- product/release-tdc-v8.0.17.md
 - spec/spec-人才发展云-人才盘点-人才盘点许可.md
 - spec/spec-人才发展云-人才盘点-基础配置.md
 - spec/spec-人才发展云-人才盘点-应用及菜单.md
@@ -704,6 +724,7 @@
 - product/feature-certification-level-scheme.md
 - product/feature-talent-development.md
 - product/release-tdc-v8.0.15.md
+- product/release-tdc-v8.0.17.md
 - spec/spec-人才发展云-任职资格-二开需求.md
 - spec/spec-人才发展云-任职资格-任职资格工作台.md
 - spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
@@ -975,6 +996,7 @@
 - product/feature-talent-supply.md
 - product/release-tsc-v8.0.15.md
 - product/release-tsc-v8.0.16.md
+- product/release-tsc-v8.0.17.md
 - product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-内部招聘-人才库管理.md
 - spec/spec-人才供应云-内部招聘-候选人管理.md
@@ -1621,6 +1643,7 @@
 - product/feature-cadre-management.md
 - product/feature-talent-development.md
 - product/release-tdc-v8.0.15.md
+- product/release-tdc-v8.0.17.md
 - spec/spec-人才发展云-干部管理-任免OP改造.md
 - spec/spec-人才发展云-干部管理-公共系统.md
 - spec/spec-人才发展云-干部管理-基础配置.md
@@ -1792,6 +1815,11 @@
 ### 打分
 - product/feature-performance-evaluation.md
 
+## 执
+
+### 执行计划
+- product/feature-assessment-activity.md
+
 ## 批
 
 ### 批量创建
@@ -1901,6 +1929,7 @@
 - product/feature-recruitment-express.md
 - product/feature-talent-supply.md
 - product/release-tsc-v8.0.15.md
+- product/release-tsc-v8.0.17.md
 - product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-招聘服务直通车-候选人.md
 - spec/spec-人才供应云-招聘服务直通车-候选人日志.md
@@ -2020,6 +2049,12 @@
 
 ### 无考核场景
 - product/release-opmc-v8.0.15.md
+
+## 星
+
+### 星空流程导航
+- product/release-opmc-v8.0.17.md
+- product/release-tsc-v8.0.17.md
 
 ## 晋
 
@@ -2398,10 +2433,13 @@
 ### 版本更新
 - product/release-opmc-v8.0.15.md
 - product/release-opmc-v8.0.16.md
+- product/release-opmc-v8.0.17.md
 - product/release-tdc-v8.0.15.md
 - product/release-tdc-v8.0.16.md
+- product/release-tdc-v8.0.17.md
 - product/release-tsc-v8.0.15.md
 - product/release-tsc-v8.0.16.md
+- product/release-tsc-v8.0.17.md
 - product/release-tsc-v8.0.9.md
 
 ## 状
@@ -2554,6 +2592,7 @@
 - product/feature-performance.md
 - product/release-opmc-v8.0.15.md
 - product/release-opmc-v8.0.16.md
+- product/release-opmc-v8.0.17.md
 
 ### 目标绩效云
 - spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md
@@ -2933,6 +2972,9 @@
 ### 绩效汇总
 - product/feature-result-summary.md
 
+### 绩效活动
+- product/feature-assessment-activity.md
+
 ### 绩效流程
 - business/process-performance-review.md
 - guide/guide-performance-process.md
@@ -2944,6 +2986,7 @@
 - product/feature-result-confirmation.md
 
 ### 绩效管理
+- product/feature-assessment-activity.md
 - product/feature-performance-overview.md
 - product/feature-performance-strategy-insights.md
 
@@ -3031,6 +3074,7 @@
 - guide/guide-cadre-probation-investigation.md
 
 ### 考核周期
+- product/feature-assessment-activity.md
 - product/feature-performance-plan.md
 
 ### 考核周期执行计划
@@ -3044,6 +3088,7 @@
 
 ### 考核活动
 - business/process-performance-implementation.md
+- product/feature-assessment-activity.md
 - product/feature-assessment-completion.md
 - product/feature-evaluation-object-mgmt.md
 - product/feature-indicator-setting.md
@@ -3054,6 +3099,9 @@
 - product/release-opmc-v8.0.15.md
 - product/release-opmc-v8.0.16.md
 - spec/spec-目标绩效云-集成场景用例-考核活动.md
+
+### 考核管理
+- product/feature-assessment-activity.md
 
 ### 考核组
 - product/feature-evaluation-object-mgmt.md
@@ -3073,6 +3121,7 @@
 ### 考核计划
 - business/process-performance-implementation.md
 - faq/faq-performance-terminology.md
+- product/feature-assessment-activity.md
 - product/feature-performance-plan-overview.md
 - product/feature-performance-plan.md
 - product/feature-performance.md
@@ -3172,6 +3221,7 @@
 - product/feature-job-level-review-method.md
 - product/feature-job-level-standard.md
 - product/feature-talent-development.md
+- product/release-tdc-v8.0.17.md
 - spec/spec-人才发展云-职级评定-HR.md
 - spec/spec-人才发展云-职级评定-公共设置.md
 - spec/spec-人才发展云-职级评定-名单确认.md
@@ -3648,6 +3698,9 @@
 ### 面试参数
 - guide/guide-ir-params-config.md
 
+### 面试安排
+- product/release-tsc-v8.0.17.md
+
 ### 面试官
 - guide/guide-interviewer.md
 - product/feature-talent-supply.md
@@ -3688,6 +3741,7 @@
 
 ### 预置数据
 - business/process-talent-supply-implementation.md
+- product/release-opmc-v8.0.17.md
 
 ## 首
 

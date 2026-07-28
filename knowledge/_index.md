@@ -7,6 +7,7 @@
 
 | 文件 | 标题 | 标签 | 更新日期 |
 |------|------|------|----------|
+| product/feature-assessment-activity.md | 考核活动 | 考核活动,绩效管理,考核计划,考核周期,执行计划 | 2026-07-28 |
 | product/feature-assessment-completion.md | 考核完成 | 考核完成,结果归档,绩效归档,考核活动 | 2026-05-21 |
 | product/feature-cadre-management.md | 干部管理整体介绍 | 干部管理,整体介绍,人才发展云,任免流程,任期管理 | 2026-05-29 |
 | product/feature-certification-ai-config.md | AI辅助配置（任职资格） | AI辅助,智能评价,员工申报助手,智能评价助手,个性化结果通知,提示词配置,AI辅助配置 | 2026-07-24 |
@@ -109,10 +110,13 @@
 | product/feature-talent-supply.md | 人才供应云产品概述 | 人才供应,内部招聘,外部招聘,招聘服务直通车,Moka集成,AI招聘,V8.0,招聘基础服务,人才库,面试官 | 2026-06-26 |
 | product/release-opmc-v8.0.15.md | 目标绩效云版本更新说明（V8.0.15） | 版本更新,V8.0.15,目标绩效,指标库,考核活动,绩效档案,无考核场景 | 2026-07-24 |
 | product/release-opmc-v8.0.16.md | 目标绩效云版本更新说明（V8.0.16） | 版本更新,V8.0.16,目标绩效,结果确认,指标库,考核活动 | 2026-07-24 |
+| product/release-opmc-v8.0.17.md | 目标绩效云版本更新说明（V8.0.17） | 版本更新,V8.0.17,目标绩效,星空流程导航,预置数据 | 2026-07-28 |
 | product/release-tdc-v8.0.15.md | 人才发展云版本更新说明（V8.0.15） | 版本更新,V8.0.15,人才档案,任职资格,人才盘点,继任计划,干部管理 | 2026-07-24 |
 | product/release-tdc-v8.0.16.md | 人才发展云版本更新说明（V8.0.16） | 版本更新,V8.0.16,继任计划,人才盘点 | 2026-07-24 |
+| product/release-tdc-v8.0.17.md | 人才发展云版本更新说明（V8.0.17） | 版本更新,V8.0.17,人才档案,职级评定,任职资格,人才盘点,人才星图,干部管理 | 2026-07-28 |
 | product/release-tsc-v8.0.15.md | 人才供应云版本更新说明（V8.0.15） | 版本更新,V8.0.15,内部招聘,招聘服务直通车,招聘基础服务,架构优化 | 2026-07-24 |
 | product/release-tsc-v8.0.16.md | 人才供应云版本更新说明（V8.0.16） | 版本更新,V8.0.16,内部招聘,应聘建议,简历匹配 | 2026-07-24 |
+| product/release-tsc-v8.0.17.md | 人才供应云版本更新说明（V8.0.17） | 版本更新,V8.0.17,内部招聘,招聘服务直通车,面试安排,星空流程导航,Moka状态回传 | 2026-07-28 |
 | product/release-tsc-v8.0.9.md | 金蝶AI HR版本发布说明（V8.0.9）-人才供应云 | 版本更新,V8.0.9,内部招聘,招聘服务直通车,招聘基础服务,候选人,录用通知 | 2026-07-24 |
 
 ## 业务流程 (business)
@@ -175,7 +179,7 @@
 | guide/guide-interviewer.md | 人人面试官操作指南 | 人人面试官,内部招聘,面试官,简历筛选,面试评价,操作指南 | 2026-05-09 |
 | guide/guide-ir-params-config.md | 内部招聘参数配置 | 招聘基础服务,参数配置,内部招聘,AI辅助,广告参数,面试参数,录用参数 | 2026-05-27 |
 | guide/guide-message-template.md | 消息模板配置 | 招聘基础服务,消息模板,通知模板,面试通知,录用通知,笔试通知 | 2026-05-27 |
-| guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-05-28 |
+| guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-07-28 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
