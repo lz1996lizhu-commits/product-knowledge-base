@@ -92,7 +92,7 @@
 | product/feature-talent-inventory-process.md | 盘点活动：盘点过程 | product | 2026-06-29 |
 | product/feature-talent-inventory-template.md | 盘点活动模板 | product | 2026-06-29 |
 | product/feature-talent-pool-management.md | 储备池管理 | product | 2026-07-02 |
-| product/feature-talent-pool-overview.md | 人才储备池整体介绍 | product | 2026-07-02 |
+| product/feature-talent-pool-overview.md | 人才储备池整体介绍 | product | 2026-07-29 |
 | product/feature-talent-pool.md | 人才储备池功能介绍 | product | 2026-07-02 |
 | product/feature-talent-star-map.md | 人才星图功能介绍 | product | 2026-06-26 |
 | product/release-tdc-v8.0.15.md | 人才发展云版本更新说明（V8.0.15） | product | 2026-07-24 |
