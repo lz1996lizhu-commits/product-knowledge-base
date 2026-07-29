@@ -3,7 +3,7 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （183 条）
+## 人才发展云 （184 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -97,6 +97,7 @@
 | product/feature-talent-star-map.md | 人才星图功能介绍 | product | 2026-06-26 |
 | product/release-tdc-v8.0.15.md | 人才发展云版本更新说明（V8.0.15） | product | 2026-07-24 |
 | product/release-tdc-v8.0.16.md | 人才发展云版本更新说明（V8.0.16） | product | 2026-07-24 |
+| product/release-tdc-v8.0.17.md | 人才发展云版本更新说明（V8.0.17） | product | 2026-07-28 |
 | spec/spec-人才发展云-人才储备池-人才储备池.md | 人才发展云-人才储备池-人才储备池测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-储备池许可.md | 人才发展云-人才储备池-储备池许可测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-基础配置.md | 人才发展云-人才储备池-基础配置测试用例规格 | spec | 2026-05-28 |
@@ -191,7 +192,7 @@
 | spec/spec-集成场景用例-人才发展云-继任计划.md | 集成场景用例-人才发展云-继任计划测试用例规格 | spec | 2026-05-28 |
 | spec/spec-集成场景用例-人才发展云-职级评定.md | 集成场景用例-人才发展云-职级评定测试用例规格 | spec | 2026-05-28 |
 
-## 目标绩效云 （73 条）
+## 目标绩效云 （75 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -205,6 +206,7 @@
 | guide/guide-performance-process.md | 绩效流程配置指南 | guide | 2026-05-12 |
 | guide/guide-role-type.md | 角色类型配置指南 | guide | 2026-05-12 |
 | guide/guide-scoring-scale.md | 评分分制配置指南 | guide | 2026-05-12 |
+| product/feature-assessment-activity.md | 考核活动 | product | 2026-07-28 |
 | product/feature-assessment-completion.md | 考核完成 | product | 2026-05-21 |
 | product/feature-employee-change-overview.md | 员工变动协作方案整体介绍 | product | 2026-05-12 |
 | product/feature-employee-change-processing.md | 员工变动处理 | product | 2026-05-12 |
@@ -228,6 +230,7 @@
 | product/feature-scoring-scale.md | 评分分制 | product | 2026-05-21 |
 | product/release-opmc-v8.0.15.md | 目标绩效云版本更新说明（V8.0.15） | product | 2026-07-24 |
 | product/release-opmc-v8.0.16.md | 目标绩效云版本更新说明（V8.0.16） | product | 2026-07-24 |
+| product/release-opmc-v8.0.17.md | 目标绩效云版本更新说明（V8.0.17） | product | 2026-07-28 |
 | spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md | 目标绩效云-HR自助服务（PC端）-团队绩效测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-HR自助服务（PC端）-平台待办已办任务.md | 目标绩效云-HR自助服务（PC端）-平台待办已办任务测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-HR自助服务（PC端）-平台消息.md | 目标绩效云-HR自助服务（PC端）-平台消息测试用例规格 | spec | 2026-05-28 |
@@ -269,7 +272,7 @@
 | spec/spec-目标绩效云-集成场景用例-绩效面谈.md | 目标绩效云-集成场景用例-绩效面谈测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-集成场景用例-考核活动.md | 目标绩效云-集成场景用例-考核活动测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （70 条）
+## 人才供应云 （71 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -287,7 +290,7 @@
 | guide/guide-interviewer.md | 人人面试官操作指南 | guide | 2026-05-09 |
 | guide/guide-ir-params-config.md | 内部招聘参数配置 | guide | 2026-05-27 |
 | guide/guide-message-template.md | 消息模板配置 | guide | 2026-05-27 |
-| guide/guide-moka-integration.md | Moka招聘系统连接配置 | guide | 2026-05-28 |
+| guide/guide-moka-integration.md | Moka招聘系统连接配置 | guide | 2026-07-28 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-channel.md | 招聘渠道配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-process-config.md | 招聘流程配置 | guide | 2026-05-27 |
@@ -313,6 +316,7 @@
 | product/feature-talent-supply.md | 人才供应云产品概述 | product | 2026-06-26 |
 | product/release-tsc-v8.0.15.md | 人才供应云版本更新说明（V8.0.15） | product | 2026-07-24 |
 | product/release-tsc-v8.0.16.md | 人才供应云版本更新说明（V8.0.16） | product | 2026-07-24 |
+| product/release-tsc-v8.0.17.md | 人才供应云版本更新说明（V8.0.17） | product | 2026-07-28 |
 | product/release-tsc-v8.0.9.md | 金蝶AI HR版本发布说明（V8.0.9）-人才供应云 | product | 2026-07-24 |
 | spec/spec-人才供应云-HR自助服务中心-我要应聘.md | 人才供应云-HR自助服务中心-我要应聘测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才供应云-人人面试官-DFX.md | 人才供应云-人人面试官-DFX测试用例规格 | spec | 2026-05-28 |

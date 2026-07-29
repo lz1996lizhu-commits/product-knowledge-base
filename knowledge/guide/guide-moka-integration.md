@@ -4,7 +4,7 @@ category: guide
 tags: [Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户]
 author: 知识库管理员
 created: 2026-05-11
-updated: 2026-05-28
+updated: 2026-07-28
 cloud: 人才供应云
 aliases: [Moka 对接, 第三方招聘对接]
 ---
