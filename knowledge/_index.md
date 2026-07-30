@@ -103,7 +103,7 @@
 | product/feature-talent-inventory-process.md | 盘点活动：盘点过程 | 人才盘点,盘点活动,盘点过程,盘点评估,盘点结果 | 2026-06-29 |
 | product/feature-talent-inventory-template.md | 盘点活动模板 | 人才盘点,盘点活动模板,模板配置 | 2026-06-29 |
 | product/feature-talent-pool-management.md | 储备池管理 | 人才储备池,储备池管理,储备池类型,行政组织,人才发展 | 2026-07-02 |
-| product/feature-talent-pool-overview.md | 人才储备池整体介绍 | 人才储备池,产品概述,储备池管理,人才推荐,出入池,人才培养,人才发展 | 2026-07-02 |
+| product/feature-talent-pool-overview.md | 人才储备池整体介绍 | 人才储备池,产品概述,储备池管理,人才推荐,出入池,人才培养,人才发展 | 2026-07-29 |
 | product/feature-talent-pool.md | 人才储备池功能介绍 | 人才发展,人才储备池,人才储备,入池,出池,人才培养,人才梯队 | 2026-07-02 |
 | product/feature-talent-star-map.md | 人才星图功能介绍 | 人才发展,人才星图,人才搜索,人才对比,人才画像,全文检索 | 2026-06-26 |
 | product/feature-talent-supply-ai.md | AI智能赋能内部招聘全链路 | 内部招聘,AI,职位说明生成,人才分析,应聘建议,面试问题生成,智能招聘 | 2026-06-26 |
