@@ -177,6 +177,9 @@
 ### tdc v8.0.17
 - product/release-tdc-v8.0.17.md
 
+### tdc v8.0.18
+- product/release-tdc-v8.0.18.md
+
 ### tsc v8.0.15
 - product/release-tsc-v8.0.15.md
 
@@ -210,6 +213,9 @@
 - product/release-opmc-v8.0.17.md
 - product/release-tdc-v8.0.17.md
 - product/release-tsc-v8.0.17.md
+
+### v8.0.18
+- product/release-tdc-v8.0.18.md
 
 ### v8.0.9
 - product/release-tsc-v8.0.9.md
@@ -2437,6 +2443,7 @@
 - product/release-tdc-v8.0.15.md
 - product/release-tdc-v8.0.16.md
 - product/release-tdc-v8.0.17.md
+- product/release-tdc-v8.0.18.md
 - product/release-tsc-v8.0.15.md
 - product/release-tsc-v8.0.16.md
 - product/release-tsc-v8.0.17.md
@@ -3222,6 +3229,7 @@
 - product/feature-job-level-standard.md
 - product/feature-talent-development.md
 - product/release-tdc-v8.0.17.md
+- product/release-tdc-v8.0.18.md
 - spec/spec-人才发展云-职级评定-HR.md
 - spec/spec-人才发展云-职级评定-公共设置.md
 - spec/spec-人才发展云-职级评定-名单确认.md
