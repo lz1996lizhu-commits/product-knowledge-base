@@ -113,6 +113,7 @@
 ## m
 
 ### moka
+- guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
 - guide/guide-moka-integration.md
 - product/feature-recruitment-express.md
@@ -143,6 +144,7 @@
 - product/feature-performance-strategy-insights.md
 
 ### openapi
+- guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
 
 ### opmc v8.0.15
@@ -312,6 +314,7 @@
 ### 二开
 - faq/faq-message-template-variables.md
 - faq/faq-switch-salary-param-by-field.md
+- guide/guide-express-second-development.md
 
 ### 二开需求
 - spec/spec-人才发展云-任职资格-二开需求.md
@@ -1535,6 +1538,9 @@
 
 ## 实
 
+### 实体扩展
+- guide/guide-express-second-development.md
+
 ### 实施指南
 - business/process-talent-supply-implementation.md
 
@@ -1923,6 +1929,7 @@
 - faq/faq-express-terminology.md
 - faq/faq-switch-salary-param-by-field.md
 - guide/guide-express-params-config.md
+- guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
 - guide/guide-moka-integration.md
 - product/feature-express-candidate.md
@@ -1949,6 +1956,9 @@
 ### 招聘服务直通车v8.0
 - product/feature-recruitment-express.md
 
+### 招聘服务直通车扩展开发
+- guide/guide-express-second-development.md
+
 ### 招聘流程
 - business/process-internal-recruitment.md
 - guide/guide-recruitment-process-config.md
@@ -1965,6 +1975,9 @@
 
 ### 招聘直通车
 - product/feature-recruitment-express.md
+
+### 招聘直通车二开
+- guide/guide-express-second-development.md
 
 ### 招聘职位
 - product/feature-express-position.md
@@ -2024,6 +2037,9 @@
 - spec/spec-人才发展云-人才档案-操作按钮.md
 
 ## 数
+
+### 数据同步
+- guide/guide-express-second-development.md
 
 ### 数据字典
 - guide/guide-integration-external-recruitment.md
@@ -2691,6 +2707,7 @@
 - guide/guide-moka-integration.md
 
 ### 第三方招聘系统
+- guide/guide-express-second-development.md
 - product/feature-express-eco-tenant.md
 
 ## 等
@@ -3662,6 +3679,9 @@
 
 ### 集团管控
 - guide/guide-grade-ruler.md
+
+### 集成
+- guide/guide-express-second-development.md
 
 ### 集成场景用例
 - spec/spec-目标绩效云-集成场景用例-指标制定.md
