@@ -3,7 +3,7 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （184 条）
+## 人才发展云 （185 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -98,6 +98,7 @@
 | product/release-tdc-v8.0.15.md | 人才发展云版本更新说明（V8.0.15） | product | 2026-07-24 |
 | product/release-tdc-v8.0.16.md | 人才发展云版本更新说明（V8.0.16） | product | 2026-07-24 |
 | product/release-tdc-v8.0.17.md | 人才发展云版本更新说明（V8.0.17） | product | 2026-07-28 |
+| product/release-tdc-v8.0.18.md | 人才发展云版本更新说明（V8.0.18） | product | 2026-08-11 |
 | spec/spec-人才发展云-人才储备池-人才储备池.md | 人才发展云-人才储备池-人才储备池测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-储备池许可.md | 人才发展云-人才储备池-储备池许可测试用例规格 | spec | 2026-05-28 |
 | spec/spec-人才发展云-人才储备池-基础配置.md | 人才发展云-人才储备池-基础配置测试用例规格 | spec | 2026-05-28 |
@@ -272,7 +273,7 @@
 | spec/spec-目标绩效云-集成场景用例-绩效面谈.md | 目标绩效云-集成场景用例-绩效面谈测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-集成场景用例-考核活动.md | 目标绩效云-集成场景用例-考核活动测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （71 条）
+## 人才供应云 （72 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -285,6 +286,7 @@
 | faq/faq-switch-salary-param-by-field.md | 如何根据录用申请单据字段动态切换定薪方式 | faq | 2026-05-28 |
 | guide/guide-apply-progress-config.md | 应聘进展配置 | guide | 2026-05-27 |
 | guide/guide-express-params-config.md | 招聘服务直通车参数配置 | guide | 2026-05-27 |
+| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | guide | 2026-08-14 |
 | guide/guide-integration-external-recruitment.md | 招聘服务直通车外部系统集成方案 | guide | 2026-05-09 |
 | guide/guide-interview-evaluation-form.md | 面试评价表配置 | guide | 2026-05-27 |
 | guide/guide-interviewer.md | 人人面试官操作指南 | guide | 2026-05-09 |
