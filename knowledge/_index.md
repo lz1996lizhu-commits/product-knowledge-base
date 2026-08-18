@@ -172,8 +172,9 @@
 | guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | 干部管理,干部任期,任期管理,操作指南 | 2026-05-18 |
 | guide/guide-evaluation-form.md | 评估表单配置指南 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-12 |
+| guide/guide-express-implementation-manual.md | 招聘服务直通车从0到1实施配置手册 | 招聘服务直通车,实施配置手册,端到端配置,系统参数,基础配置,工作流,权限规划,定时任务,实施验证,录用申请,录用通知,入职协同,招聘渠道,消息模板,录用通知书模板,隐私声明,定薪方式,候选人 | 2026-08-18 |
 | guide/guide-express-params-config.md | 招聘服务直通车参数配置 | 招聘基础服务,参数配置,招聘服务直通车,简历解析,录用参数,入职协同参数,生态组织参数 | 2026-05-27 |
-| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | 招聘服务直通车,二开,实体扩展,数据同步,Moka,OpenAPI,第三方招聘系统,集成 | 2026-08-14 |
+| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | 招聘服务直通车,二开,实体扩展,数据同步,Moka,OpenAPI,第三方招聘系统,集成 | 2026-08-17 |
 | guide/guide-grade-rule.md | 等级规则配置指南 | 等级规则,基础配置,绩效配置,等级 | 2026-05-12 |
 | guide/guide-grade-ruler.md | 等级标尺配置指南 | 等级标尺,基础配置,绩效配置,集团管控 | 2026-05-12 |
 | guide/guide-integration-external-recruitment.md | 招聘服务直通车外部系统集成方案 | 招聘服务直通车,外部招聘系统集成,OpenAPI,集成方案,Moka,数据字典 | 2026-05-09 |
