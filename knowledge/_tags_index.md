@@ -802,6 +802,7 @@
 ## 候
 
 ### 候选人
+- guide/guide-express-implementation-manual.md
 - product/feature-express-ai-resume-parsing.md
 - product/feature-express-candidate.md
 - product/feature-ir-candidate.md
@@ -898,6 +899,7 @@
 
 ### 入职协同
 - business/process-external-recruitment.md
+- guide/guide-express-implementation-manual.md
 - product/feature-express-onboard-application.md
 - product/feature-recruitment-express.md
 
@@ -1525,6 +1527,7 @@
 ## 定
 
 ### 定时任务
+- guide/guide-express-implementation-manual.md
 - spec/spec-人才发展云-任职资格-定时任务.md
 
 ### 定薪变量
@@ -1535,6 +1538,7 @@
 
 ### 定薪方式
 - faq/faq-switch-salary-param-by-field.md
+- guide/guide-express-implementation-manual.md
 
 ## 实
 
@@ -1543,6 +1547,12 @@
 
 ### 实施指南
 - business/process-talent-supply-implementation.md
+
+### 实施配置手册
+- guide/guide-express-implementation-manual.md
+
+### 实施验证
+- guide/guide-express-implementation-manual.md
 
 ## 审
 
@@ -1597,6 +1607,9 @@
 ### 工作台
 - spec/spec-人才供应云-招聘服务直通车-工作台.md
 - spec/spec-人才发展云-职级评定-工作台.md
+
+### 工作流
+- guide/guide-express-implementation-manual.md
 
 ## 常
 
@@ -1757,6 +1770,7 @@
 
 ### 录用申请
 - faq/faq-switch-salary-param-by-field.md
+- guide/guide-express-implementation-manual.md
 - product/feature-express-hire-application.md
 - product/feature-ir-hire-application.md
 - spec/spec-人才供应云-招聘服务直通车-录用申请.md
@@ -1765,6 +1779,7 @@
 - product/feature-recruitment-express.md
 
 ### 录用通知
+- guide/guide-express-implementation-manual.md
 - guide/guide-message-template.md
 - product/feature-express-hire-notice.md
 - product/release-tsc-v8.0.9.md
@@ -1777,6 +1792,7 @@
 - product/feature-express-offer-letter.md
 
 ### 录用通知书模板
+- guide/guide-express-implementation-manual.md
 - guide/guide-offer-letter-template.md
 
 ## 待
@@ -1928,6 +1944,7 @@
 ### 招聘服务直通车
 - faq/faq-express-terminology.md
 - faq/faq-switch-salary-param-by-field.md
+- guide/guide-express-implementation-manual.md
 - guide/guide-express-params-config.md
 - guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
@@ -1968,6 +1985,7 @@
 - guide/guide-recruitment-process-config.md
 
 ### 招聘渠道
+- guide/guide-express-implementation-manual.md
 - guide/guide-recruitment-channel.md
 
 ### 招聘环节
@@ -1978,6 +1996,9 @@
 
 ### 招聘直通车二开
 - guide/guide-express-second-development.md
+
+### 招聘直通车实施指南
+- guide/guide-express-implementation-manual.md
 
 ### 招聘职位
 - product/feature-express-position.md
@@ -2158,6 +2179,9 @@
 
 ### 权限管控
 - product/feature-ir-apply-permission.md
+
+### 权限规划
+- guide/guide-express-implementation-manual.md
 
 ## 材
 
@@ -2415,6 +2439,7 @@
 ### 消息模板
 - faq/faq-ir-interview-reply.md
 - faq/faq-message-template-variables.md
+- guide/guide-express-implementation-manual.md
 - guide/guide-message-template.md
 - product/feature-recruitment-foundation.md
 
@@ -2671,8 +2696,14 @@
 ### 直通车参数配置
 - guide/guide-express-params-config.md
 
+### 直通车实施手册
+- guide/guide-express-implementation-manual.md
+
 ### 直通车术语
 - faq/faq-express-terminology.md
+
+### 直通车配置手册
+- guide/guide-express-implementation-manual.md
 
 ## 短
 
@@ -2694,6 +2725,11 @@
 ### 离职
 - product/feature-employee-change-processing.md
 - product/feature-talent-archive-change.md
+
+## 端
+
+### 端到端配置
+- guide/guide-express-implementation-manual.md
 
 ## 笔
 
@@ -2771,6 +2807,9 @@
 - spec/spec-目标绩效云-基础资料按钮通用用例-管理权转让.md
 
 ## 系
+
+### 系统参数
+- guide/guide-express-implementation-manual.md
 
 ### 系统建议
 - product/feature-job-level-promotion-nomination.md
@@ -3674,6 +3713,11 @@
 
 ### 锁定
 - product/feature-ir-candidate.md
+
+## 隐
+
+### 隐私声明
+- guide/guide-express-implementation-manual.md
 
 ## 集
 
