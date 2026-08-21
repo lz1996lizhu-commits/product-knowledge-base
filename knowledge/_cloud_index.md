@@ -3,7 +3,7 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （185 条）
+## 人才发展云 （186 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -31,6 +31,7 @@
 | guide/guide-cadre-publicity.md | 公示 | guide | 2026-05-18 |
 | guide/guide-cadre-qualification-review.md | 资格审查 | guide | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | guide | 2026-05-18 |
+| guide/guide-portrait-card-second-dev.md | 15分钟内完成一个人才画像卡片开发 | guide | 2026-08-20 |
 | guide/guide-talent-inventory-calibration.md | 盘点活动：在线校准 | guide | 2026-05-18 |
 | guide/guide-talent-inventory-create-activity.md | 盘点活动：创建活动 | guide | 2026-05-18 |
 | guide/guide-talent-inventory-grouping.md | 手把手教学，助你清晰划分盘点组 | guide | 2026-05-14 |

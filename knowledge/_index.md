@@ -186,6 +186,7 @@
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
+| guide/guide-portrait-card-second-dev.md | 15分钟内完成一个人才画像卡片开发 | 人才画像,画像卡片,二开,自定义控件,苍穹表单,控件方案,前端控件,后端插件 | 2026-08-20 |
 | guide/guide-recruitment-channel.md | 招聘渠道配置 | 招聘基础服务,招聘渠道,渠道管理,渠道配置,内推,猎头 | 2026-05-27 |
 | guide/guide-recruitment-process-config.md | 招聘流程配置 | 招聘基础服务,招聘流程,流程配置,招聘环节,环节状态 | 2026-05-27 |
 | guide/guide-role-type.md | 角色类型配置指南 | 角色类型,基础配置,绩效配置,角色 | 2026-05-12 |
