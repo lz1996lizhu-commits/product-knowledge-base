@@ -315,6 +315,7 @@
 - faq/faq-message-template-variables.md
 - faq/faq-switch-salary-param-by-field.md
 - guide/guide-express-second-development.md
+- guide/guide-portrait-card-second-dev.md
 
 ### 二开需求
 - spec/spec-人才发展云-任职资格-二开需求.md
@@ -646,7 +647,11 @@
 - product/feature-internal-recruitment.md
 
 ### 人才画像
+- guide/guide-portrait-card-second-dev.md
 - product/feature-talent-star-map.md
+
+### 人才画像卡片二开
+- guide/guide-portrait-card-second-dev.md
 
 ### 人才盘点
 - business/process-talent-inventory.md
@@ -1103,6 +1108,11 @@
 ### 初始化配置
 - business/process-talent-supply-implementation.md
 
+## 前
+
+### 前端控件
+- guide/guide-portrait-card-second-dev.md
+
 ## 功
 
 ### 功能规格
@@ -1361,6 +1371,11 @@
 ### 名单确认
 - product/feature-job-level-list-confirmation.md
 - spec/spec-人才发展云-职级评定-名单确认.md
+
+## 后
+
+### 后端插件
+- guide/guide-portrait-card-second-dev.md
 
 ## 员
 
@@ -2032,6 +2047,11 @@
 ### 接口查询
 - spec/spec-人才发展云-人才发展基础服务-接口查询.md
 
+## 控
+
+### 控件方案
+- guide/guide-portrait-card-second-dev.md
+
 ## 提
 
 ### 提名
@@ -2056,6 +2076,11 @@
 
 ### 操作按钮
 - spec/spec-人才发展云-人才档案-操作按钮.md
+
+## 教
+
+### 教育背景卡片
+- guide/guide-portrait-card-second-dev.md
 
 ## 数
 
@@ -2548,6 +2573,12 @@
 - product/feature-job-level-application-qualification.md
 
 ## 画
+
+### 画像卡片
+- guide/guide-portrait-card-second-dev.md
+
+### 画像卡片自定义开发
+- guide/guide-portrait-card-second-dev.md
 
 ### 画像视图配置
 - spec/spec-人才发展云-人才星图-画像视图配置.md
@@ -3360,6 +3391,14 @@
 
 ### 自动处理
 - product/feature-talent-archive-collaboration.md
+
+### 自定义控件
+- guide/guide-portrait-card-second-dev.md
+
+## 苍
+
+### 苍穹表单
+- guide/guide-portrait-card-second-dev.md
 
 ## 薪
 
