@@ -148,6 +148,7 @@
 | faq/faq-ir-terminology.md | 内部招聘术语解释 | 内部招聘,术语,个人简历,投递简历,标准简历 | 2026-05-27 |
 | faq/faq-job-level-no-add-button.md | HR自助服务中心职级申报为什么没有新增按钮 | 职级申报,HR自助服务中心,新增按钮,评定计划,晋升提名,FAQ | 2026-05-27 |
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | 消息模板,常用变量,笔试通知,字段扩展,二开 | 2026-05-13 |
+| faq/faq-moka-candidate-sync-hidden-failure.md | Moka推送候选人显示成功但金蝶未生成候选人 | Moka,招聘服务直通车,候选人同步,候选人日志,二开,数据校验,tsrsc_appfile | 2026-08-25 |
 | faq/faq-performance-terminology.md | 绩效术语解释 | 术语,FAQ,绩效术语,考核计划,评估对象范围 | 2026-05-12 |
 | faq/faq-product-overview.md | 金蝶AI HR产品常见问题 | FAQ,产品架构,版本,模块关系,平台 | 2026-05-09 |
 | faq/faq-switch-salary-param-by-field.md | 如何根据录用申请单据字段动态切换定薪方式 | 定薪方式,录用申请,二开,表单插件,招聘定薪,薪酬定薪,招聘服务直通车 | 2026-05-28 |
@@ -174,9 +175,9 @@
 | guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | 干部管理,干部任期,任期管理,操作指南 | 2026-05-18 |
 | guide/guide-evaluation-form.md | 评估表单配置指南 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-12 |
-| guide/guide-express-implementation-manual.md | 招聘服务直通车从0到1实施配置手册 | 招聘服务直通车,实施配置手册,端到端配置,系统参数,基础配置,工作流,权限规划,定时任务,实施验证,录用申请,录用通知,入职协同,招聘渠道,消息模板,录用通知书模板,隐私声明,定薪方式,候选人 | 2026-08-18 |
+| guide/guide-express-implementation-manual.md | 招聘服务直通车从0到1实施配置手册 | 招聘服务直通车,实施配置手册,端到端配置,系统参数,基础配置,工作流,权限规划,定时任务,实施验证,录用申请,录用通知,入职协同,招聘渠道,消息模板,录用通知书模板,隐私声明,定薪方式,候选人 | 2026-08-25 |
 | guide/guide-express-params-config.md | 招聘服务直通车参数配置 | 招聘基础服务,参数配置,招聘服务直通车,简历解析,录用参数,入职协同参数,生态组织参数 | 2026-05-27 |
-| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | 招聘服务直通车,二开,实体扩展,数据同步,Moka,OpenAPI,第三方招聘系统,集成 | 2026-08-17 |
+| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | 招聘服务直通车,二开,实体扩展,数据同步,Moka,OpenAPI,第三方招聘系统,集成 | 2026-08-25 |
 | guide/guide-grade-rule.md | 等级规则配置指南 | 等级规则,基础配置,绩效配置,等级 | 2026-05-12 |
 | guide/guide-grade-ruler.md | 等级标尺配置指南 | 等级标尺,基础配置,绩效配置,集团管控 | 2026-05-12 |
 | guide/guide-integration-external-recruitment.md | 招聘服务直通车外部系统集成方案 | 招聘服务直通车,外部招聘系统集成,OpenAPI,集成方案,Moka,数据字典 | 2026-05-09 |

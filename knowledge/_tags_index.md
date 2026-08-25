@@ -113,6 +113,7 @@
 ## m
 
 ### moka
+- faq/faq-moka-candidate-sync-hidden-failure.md
 - guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
 - guide/guide-moka-integration.md
@@ -123,6 +124,9 @@
 
 ### moka状态回传
 - product/release-tsc-v8.0.17.md
+
+### moka简历推送成功看不到候选人
+- faq/faq-moka-candidate-sync-hidden-failure.md
 
 ### moka集成
 - business/process-external-recruitment.md
@@ -199,6 +203,9 @@
 
 ### tsc v8.0.9
 - product/release-tsc-v8.0.9.md
+
+### tsrsc_appfile
+- faq/faq-moka-candidate-sync-hidden-failure.md
 
 ## v
 
@@ -323,6 +330,7 @@
 
 ### 二开
 - faq/faq-message-template-variables.md
+- faq/faq-moka-candidate-sync-hidden-failure.md
 - faq/faq-switch-salary-param-by-field.md
 - guide/guide-express-second-development.md
 - guide/guide-portrait-card-second-dev.md
@@ -828,6 +836,12 @@
 ### 候选人可见性
 - guide/guide-apply-progress-config.md
 
+### 候选人同步
+- faq/faq-moka-candidate-sync-hidden-failure.md
+
+### 候选人同步显示成功没数据
+- faq/faq-moka-candidate-sync-hidden-failure.md
+
 ### 候选人回复
 - product/feature-express-hire-notice.md
 
@@ -835,6 +849,7 @@
 - product/feature-succession-candidate-recommend.md
 
 ### 候选人日志
+- faq/faq-moka-candidate-sync-hidden-failure.md
 - spec/spec-人才供应云-招聘服务直通车-候选人日志.md
 
 ### 候选人答复
@@ -1975,6 +1990,7 @@
 
 ### 招聘服务直通车
 - faq/faq-express-terminology.md
+- faq/faq-moka-candidate-sync-hidden-failure.md
 - faq/faq-switch-salary-param-by-field.md
 - guide/guide-express-implementation-manual.md
 - guide/guide-express-params-config.md
@@ -2112,6 +2128,9 @@
 
 ### 数据字典
 - guide/guide-integration-external-recruitment.md
+
+### 数据校验
+- faq/faq-moka-candidate-sync-hidden-failure.md
 
 ### 数据管理归属
 - product/feature-express-eco-tenant.md
