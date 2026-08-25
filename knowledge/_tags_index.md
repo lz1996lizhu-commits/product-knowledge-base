@@ -156,6 +156,9 @@
 ### opmc v8.0.17
 - product/release-opmc-v8.0.17.md
 
+### opmc v8.0.19
+- product/release-opmc-v8.0.19.md
+
 ## p
 
 ### pbc
@@ -191,6 +194,9 @@
 ### tsc v8.0.17
 - product/release-tsc-v8.0.17.md
 
+### tsc v8.0.19
+- product/release-tsc-v8.0.19.md
+
 ### tsc v8.0.9
 - product/release-tsc-v8.0.9.md
 
@@ -218,6 +224,10 @@
 
 ### v8.0.18
 - product/release-tdc-v8.0.18.md
+
+### v8.0.19
+- product/release-opmc-v8.0.19.md
+- product/release-tsc-v8.0.19.md
 
 ### v8.0.9
 - product/release-tsc-v8.0.9.md
@@ -370,6 +380,7 @@
 ### 人才供应
 - business/process-talent-supply-implementation.md
 - product/feature-talent-supply.md
+- product/release-tsc-v8.0.19.md
 
 ### 人才供应云
 - product/feature-talent-supply.md
@@ -1410,6 +1421,7 @@
 
 ### 员工档案
 - product/feature-talent-archive-overview.md
+- product/release-opmc-v8.0.19.md
 
 ### 员工申报
 - product/feature-job-level-application.md
@@ -1530,6 +1542,11 @@
 
 ### 字段扩展
 - faq/faq-message-template-variables.md
+
+## 安
+
+### 安全加固
+- product/release-tsc-v8.0.19.md
 
 ## 完
 
@@ -1975,6 +1992,7 @@
 - product/feature-talent-supply.md
 - product/release-tsc-v8.0.15.md
 - product/release-tsc-v8.0.17.md
+- product/release-tsc-v8.0.19.md
 - product/release-tsc-v8.0.9.md
 - spec/spec-人才供应云-招聘服务直通车-候选人.md
 - spec/spec-人才供应云-招聘服务直通车-候选人日志.md
@@ -2023,6 +2041,11 @@
 
 ### 招聘配置
 - business/process-talent-supply-implementation.md
+
+## 拟
+
+### 拟入职人员
+- product/release-tsc-v8.0.19.md
 
 ## 指
 
@@ -2506,6 +2529,7 @@
 - product/release-opmc-v8.0.15.md
 - product/release-opmc-v8.0.16.md
 - product/release-opmc-v8.0.17.md
+- product/release-opmc-v8.0.19.md
 - product/release-tdc-v8.0.15.md
 - product/release-tdc-v8.0.16.md
 - product/release-tdc-v8.0.17.md
@@ -2513,6 +2537,7 @@
 - product/release-tsc-v8.0.15.md
 - product/release-tsc-v8.0.16.md
 - product/release-tsc-v8.0.17.md
+- product/release-tsc-v8.0.19.md
 - product/release-tsc-v8.0.9.md
 
 ## 状
@@ -2672,6 +2697,7 @@
 - product/release-opmc-v8.0.15.md
 - product/release-opmc-v8.0.16.md
 - product/release-opmc-v8.0.17.md
+- product/release-opmc-v8.0.19.md
 
 ### 目标绩效云
 - spec/spec-目标绩效云-HR自助服务（PC端）-团队绩效.md
@@ -2756,6 +2782,9 @@
 ### 离职
 - product/feature-employee-change-processing.md
 - product/feature-talent-archive-change.md
+
+### 离职人员
+- product/release-opmc-v8.0.19.md
 
 ## 端
 
@@ -3096,6 +3125,7 @@
 ### 绩效结果
 - product/feature-my-performance.md
 - product/feature-performance-result.md
+- product/release-opmc-v8.0.19.md
 - spec/spec-目标绩效云-集成场景用例-绩效结果.md
 
 ### 绩效考核
@@ -3752,6 +3782,12 @@
 
 ### 锁定
 - product/feature-ir-candidate.md
+
+## 问
+
+### 问题修复
+- product/release-opmc-v8.0.19.md
+- product/release-tsc-v8.0.19.md
 
 ## 隐
 
