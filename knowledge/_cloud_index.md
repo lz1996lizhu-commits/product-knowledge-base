@@ -275,7 +275,7 @@
 | spec/spec-目标绩效云-集成场景用例-绩效面谈.md | 目标绩效云-集成场景用例-绩效面谈测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-集成场景用例-考核活动.md | 目标绩效云-集成场景用例-考核活动测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （74 条）
+## 人才供应云 （75 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -285,11 +285,12 @@
 | faq/faq-express-terminology.md | 招聘服务直通车术语解释 | faq | 2026-05-27 |
 | faq/faq-ir-interview-reply.md | 候选人收到面试通知后如何答复 | faq | 2026-05-11 |
 | faq/faq-ir-terminology.md | 内部招聘术语解释 | faq | 2026-05-27 |
+| faq/faq-moka-candidate-sync-hidden-failure.md | Moka推送候选人显示成功但金蝶未生成候选人 | faq | 2026-08-25 |
 | faq/faq-switch-salary-param-by-field.md | 如何根据录用申请单据字段动态切换定薪方式 | faq | 2026-05-28 |
 | guide/guide-apply-progress-config.md | 应聘进展配置 | guide | 2026-05-27 |
-| guide/guide-express-implementation-manual.md | 招聘服务直通车从0到1实施配置手册 | guide | 2026-08-18 |
+| guide/guide-express-implementation-manual.md | 招聘服务直通车从0到1实施配置手册 | guide | 2026-08-25 |
 | guide/guide-express-params-config.md | 招聘服务直通车参数配置 | guide | 2026-05-27 |
-| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | guide | 2026-08-17 |
+| guide/guide-express-second-development.md | 招聘服务直通车二开指引 | guide | 2026-08-25 |
 | guide/guide-integration-external-recruitment.md | 招聘服务直通车外部系统集成方案 | guide | 2026-05-09 |
 | guide/guide-interview-evaluation-form.md | 面试评价表配置 | guide | 2026-05-27 |
 | guide/guide-interviewer.md | 人人面试官操作指南 | guide | 2026-05-09 |
