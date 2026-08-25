@@ -185,7 +185,7 @@
 | guide/guide-interviewer.md | 人人面试官操作指南 | 人人面试官,内部招聘,面试官,简历筛选,面试评价,操作指南 | 2026-05-09 |
 | guide/guide-ir-params-config.md | 内部招聘参数配置 | 招聘基础服务,参数配置,内部招聘,AI辅助,广告参数,面试参数,录用参数 | 2026-05-27 |
 | guide/guide-message-template.md | 消息模板配置 | 招聘基础服务,消息模板,通知模板,面试通知,录用通知,笔试通知 | 2026-05-27 |
-| guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-07-28 |
+| guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-08-25 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
