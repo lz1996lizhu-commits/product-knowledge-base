@@ -296,7 +296,7 @@
 | guide/guide-interviewer.md | 人人面试官操作指南 | guide | 2026-05-09 |
 | guide/guide-ir-params-config.md | 内部招聘参数配置 | guide | 2026-05-27 |
 | guide/guide-message-template.md | 消息模板配置 | guide | 2026-05-27 |
-| guide/guide-moka-integration.md | Moka招聘系统连接配置 | guide | 2026-07-28 |
+| guide/guide-moka-integration.md | Moka招聘系统连接配置 | guide | 2026-08-25 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-channel.md | 招聘渠道配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-process-config.md | 招聘流程配置 | guide | 2026-05-27 |
