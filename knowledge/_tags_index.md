@@ -344,6 +344,9 @@
 - business/process-performance-implementation.md
 - business/process-talent-supply-implementation.md
 
+### 交叉评分
+- faq/faq-cross-scoring-bonus-scorer.md
+
 ## 产
 
 ### 产品 faq
@@ -1310,6 +1313,9 @@
 ### 加密附件
 - product/feature-express-offer-letter.md
 
+### 加减分
+- faq/faq-cross-scoring-bonus-scorer.md
+
 ## 动
 
 ### 动议
@@ -1520,6 +1526,9 @@
 - spec/spec-目标绩效云-基础资料按钮通用用例-未分配查询.md
 - spec/spec-目标绩效云-基础资料按钮通用用例-管理权转让.md
 
+### 基础入门
+- faq/faq-cross-scoring-bonus-scorer.md
+
 ## 外
 
 ### 外招流程
@@ -1662,6 +1671,9 @@
 
 ### 常用变量
 - faq/faq-message-template-variables.md
+
+### 常见问题
+- faq/faq-cross-scoring-bonus-scorer.md
 
 ## 干
 
@@ -3170,6 +3182,7 @@
 
 ### 绩效评估
 - business/process-performance-review.md
+- faq/faq-cross-scoring-bonus-scorer.md
 - product/feature-performance-evaluation.md
 - product/feature-performance.md
 - spec/spec-目标绩效云-个人绩效考核-绩效评估.md
@@ -3272,6 +3285,9 @@
 
 ### 考核计划整体介绍
 - product/feature-performance-plan-overview.md
+
+### 考核执行过程管理
+- faq/faq-cross-scoring-bonus-scorer.md
 
 ### 考核评价
 - product/feature-job-level-review-evaluation.md
@@ -3644,6 +3660,9 @@
 
 ### 评分规则
 - guide/guide-interview-evaluation-form.md
+
+### 评分人
+- faq/faq-cross-scoring-bonus-scorer.md
 
 ### 评委
 - product/feature-committee-roles.md
