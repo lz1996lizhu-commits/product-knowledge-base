@@ -239,6 +239,9 @@
 ### v8.0.9
 - product/release-tsc-v8.0.9.md
 
+### v9.0
+- faq/faq-express-v9-license-change.md
+
 ## 一
 
 ### 一对一
@@ -1144,6 +1147,9 @@
 
 ## 功
 
+### 功能授权
+- faq/faq-express-v9-license-change.md
+
 ### 功能规格
 - spec/spec-人才供应云-HR自助服务中心-我要应聘.md
 - spec/spec-人才供应云-人人面试官-DFX.md
@@ -1310,11 +1316,11 @@
 
 ## 加
 
-### 加密附件
-- product/feature-express-offer-letter.md
-
 ### 加减分
 - faq/faq-cross-scoring-bonus-scorer.md
+
+### 加密附件
+- product/feature-express-offer-letter.md
 
 ## 动
 
@@ -1507,6 +1513,9 @@
 ### 基本信息
 - product/feature-talent-inventory-create-activity.md
 
+### 基础入门
+- faq/faq-cross-scoring-bonus-scorer.md
+
 ### 基础数据
 - product/feature-recruitment-foundation.md
 
@@ -1525,9 +1534,6 @@
 - spec/spec-目标绩效云-基础资料按钮通用用例-变更控制策略.md
 - spec/spec-目标绩效云-基础资料按钮通用用例-未分配查询.md
 - spec/spec-目标绩效云-基础资料按钮通用用例-管理权转让.md
-
-### 基础入门
-- faq/faq-cross-scoring-bonus-scorer.md
 
 ## 外
 
@@ -1671,9 +1677,6 @@
 
 ### 常用变量
 - faq/faq-message-template-variables.md
-
-### 常见问题
-- faq/faq-cross-scoring-bonus-scorer.md
 
 ## 干
 
@@ -2002,6 +2005,7 @@
 
 ### 招聘服务直通车
 - faq/faq-express-terminology.md
+- faq/faq-express-v9-license-change.md
 - faq/faq-moka-candidate-sync-hidden-failure.md
 - faq/faq-switch-salary-param-by-field.md
 - guide/guide-express-implementation-manual.md
@@ -3242,6 +3246,9 @@
 ### 考核对象
 - product/feature-evaluation-object-mgmt.md
 
+### 考核执行过程管理
+- faq/faq-cross-scoring-bonus-scorer.md
+
 ### 考核活动
 - business/process-performance-implementation.md
 - product/feature-assessment-activity.md
@@ -3285,9 +3292,6 @@
 
 ### 考核计划整体介绍
 - product/feature-performance-plan-overview.md
-
-### 考核执行过程管理
-- faq/faq-cross-scoring-bonus-scorer.md
 
 ### 考核评价
 - product/feature-job-level-review-evaluation.md
@@ -3596,8 +3600,14 @@
 ### 许可
 - spec/spec-人才供应云-内部招聘-许可.md
 
+### 许可分配
+- faq/faq-express-v9-license-change.md
+
 ### 许可占用
 - product/feature-ir-apply-permission.md
+
+### 许可变更
+- faq/faq-express-v9-license-change.md
 
 ### 许可套件校验
 - spec/spec-目标绩效云-许可测试-许可套件校验.md
@@ -3611,6 +3621,9 @@
 - spec/spec-目标绩效云-许可测试-许可套件校验.md
 - spec/spec-目标绩效云-许可测试-许可控制清单校验.md
 - spec/spec-目标绩效云-许可测试.md
+
+### 许可管理
+- faq/faq-express-v9-license-change.md
 
 ### 许可释放
 - product/feature-ir-apply-permission.md
@@ -3651,6 +3664,9 @@
 ### 评分
 - product/feature-performance-evaluation.md
 
+### 评分人
+- faq/faq-cross-scoring-bonus-scorer.md
+
 ### 评分分制
 - guide/guide-scoring-scale.md
 - product/feature-scoring-scale.md
@@ -3660,9 +3676,6 @@
 
 ### 评分规则
 - guide/guide-interview-evaluation-form.md
-
-### 评分人
-- faq/faq-cross-scoring-bonus-scorer.md
 
 ### 评委
 - product/feature-committee-roles.md
