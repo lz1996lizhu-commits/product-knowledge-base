@@ -3,7 +3,7 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （186 条）
+## 人才发展云 （190 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -18,6 +18,7 @@
 | faq/faq-talent-inventory-grid-types.md | 人才盘点宫格配置是否支持12宫格？ | faq | 2026-05-27 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | faq | 2026-05-14 |
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | faq | 2026-05-14 |
+| faq/faq-talent-search-no-portrait.md | 人才搜索的员工详情页无法查看人才画像 | faq | 2026-09-28 |
 | guide/guide-cadre-appointment-nomination.md | 任命提名 | guide | 2026-05-29 |
 | guide/guide-cadre-deliberation.md | 酝酿动议 | guide | 2026-05-29 |
 | guide/guide-cadre-dismissal.md | 免职申请 | guide | 2026-05-29 |
@@ -31,7 +32,10 @@
 | guide/guide-cadre-publicity.md | 公示 | guide | 2026-05-18 |
 | guide/guide-cadre-qualification-review.md | 资格审查 | guide | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | guide | 2026-05-18 |
-| guide/guide-portrait-card-second-dev.md | 15分钟内完成一个人才画像卡片开发 | guide | 2026-08-20 |
+| guide/guide-comparison-card-mobile.md | 人才对比卡片二开实操步骤（移动端） | guide | 2026-09-28 |
+| guide/guide-comparison-card-pc.md | 人才对比卡片二开实操步骤（PC 端） | guide | 2026-09-28 |
+| guide/guide-portrait-card-mobile.md | 15分钟内完成一个人才画像移动端卡片开发 | guide | 2026-09-28 |
+| guide/guide-portrait-card-second-dev.md | 15分钟内完成一个人才画像PC端卡片开发 | guide | 2026-09-28 |
 | guide/guide-talent-inventory-calibration.md | 盘点活动：在线校准 | guide | 2026-05-18 |
 | guide/guide-talent-inventory-create-activity.md | 盘点活动：创建活动 | guide | 2026-05-18 |
 | guide/guide-talent-inventory-grouping.md | 手把手教学，助你清晰划分盘点组 | guide | 2026-05-14 |
@@ -355,12 +359,14 @@
 | spec/spec-集成场景用例-人才供应云-内部招聘.md | 集成场景用例-人才供应云-内部招聘测试用例规格 | spec | 2026-05-28 |
 | spec/spec-集成场景用例-人才供应云-招聘服务直通车.md | 集成场景用例-人才供应云-招聘服务直通车测试用例规格 | spec | 2026-05-28 |
 
-## 未分类 （3 条）
+## 未分类 （5 条）
 
 > 这些条目的 frontmatter 缺少 cloud 字段，建议补齐以便加入云索引。
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
+| faq/faq-cross-scoring-bonus-scorer.md | 评分节点为交叉评分，但是为什么加减分无法选择评分人？ | faq | 2026-09-11 |
+| faq/faq-express-v9-license-change.md | 招聘服务直通车 V9.0 许可变更说明 | faq | 2026-09-23 |
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | faq | 2026-05-13 |
 | faq/faq-product-overview.md | 金蝶AI HR产品常见问题 | faq | 2026-05-09 |
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | product | 2026-05-20 |

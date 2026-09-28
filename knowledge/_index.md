@@ -157,6 +157,7 @@
 | faq/faq-talent-inventory-grid-types.md | 人才盘点宫格配置是否支持12宫格？ | 人才盘点,FAQ,宫格配置,九宫格,四宫格,十六宫格,六宫格 | 2026-05-27 |
 | faq/faq-talent-inventory-joined-vs-unjoined.md | 已加入盘点对象与未加入盘点对象有什么区别？ | 人才盘点,FAQ,盘点对象 | 2026-05-14 |
 | faq/faq-talent-inventory-managed-vs-collaborated.md | 我管理的盘点活动与我协作的盘点活动有什么区别？ | 人才盘点,FAQ,盘点活动,权限 | 2026-05-14 |
+| faq/faq-talent-search-no-portrait.md | 人才搜索的员工详情页无法查看人才画像 | 人才搜索,人才画像,常见问题,故障排查,参数配置,人才星图,tdcs_cfgparam | 2026-09-28 |
 
 ## 操作指南 (guide)
 
@@ -176,6 +177,8 @@
 | guide/guide-cadre-publicity.md | 公示 | 干部管理,公示,任免流程,操作指南 | 2026-05-18 |
 | guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | 干部管理,干部任期,任期管理,操作指南 | 2026-05-18 |
+| guide/guide-comparison-card-mobile.md | 人才对比卡片二开实操步骤（移动端） | 人才对比,二开,移动端,人才星图,卡片开发,苍穹,开发指南 | 2026-09-28 |
+| guide/guide-comparison-card-pc.md | 人才对比卡片二开实操步骤（PC 端） | 人才对比,二开,PC端,人才星图,卡片开发,苍穹表单,开发指南 | 2026-09-28 |
 | guide/guide-evaluation-form.md | 评估表单配置指南 | 评估表单,基础配置,绩效配置,KPI,BSC,PBC | 2026-05-12 |
 | guide/guide-express-implementation-manual.md | 招聘服务直通车从0到1实施配置手册 | 招聘服务直通车,实施配置手册,端到端配置,系统参数,基础配置,工作流,权限规划,定时任务,实施验证,录用申请,录用通知,入职协同,招聘渠道,消息模板,录用通知书模板,隐私声明,定薪方式,候选人 | 2026-08-25 |
 | guide/guide-express-params-config.md | 招聘服务直通车参数配置 | 招聘基础服务,参数配置,招聘服务直通车,简历解析,录用参数,入职协同参数,生态组织参数 | 2026-05-27 |
@@ -191,7 +194,8 @@
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
-| guide/guide-portrait-card-second-dev.md | 15分钟内完成一个人才画像卡片开发 | 人才画像,画像卡片,二开,自定义控件,苍穹表单,控件方案,前端控件,后端插件 | 2026-08-20 |
+| guide/guide-portrait-card-mobile.md | 15分钟内完成一个人才画像移动端卡片开发 | 人才画像,移动端,快速开发,15分钟,卡片开发,人才星图,开发指南,HR自助工作台 | 2026-09-28 |
+| guide/guide-portrait-card-second-dev.md | 15分钟内完成一个人才画像PC端卡片开发 | 人才画像,画像卡片,二开,PC端,自定义控件,苍穹表单,控件方案,前端控件,后端插件,开发指南 | 2026-09-28 |
 | guide/guide-recruitment-channel.md | 招聘渠道配置 | 招聘基础服务,招聘渠道,渠道管理,渠道配置,内推,猎头 | 2026-05-27 |
 | guide/guide-recruitment-process-config.md | 招聘流程配置 | 招聘基础服务,招聘流程,流程配置,招聘环节,环节状态 | 2026-05-27 |
 | guide/guide-role-type.md | 角色类型配置指南 | 角色类型,基础配置,绩效配置,角色 | 2026-05-12 |
