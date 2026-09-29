@@ -7,6 +7,9 @@
 ### 12宫格
 - product/feature-talent-inventory-overview.md
 
+### 15分钟
+- guide/guide-portrait-card-mobile.md
+
 ### 1on1
 - product/feature-performance-interview.md
 
@@ -81,6 +84,9 @@
 
 ### hr代申请
 - product/feature-certification-application.md
+
+### hr自助工作台
+- guide/guide-portrait-card-mobile.md
 
 ### hr自助服务中心
 - faq/faq-job-level-no-add-button.md
@@ -172,6 +178,16 @@
 - product/feature-performance-overview.md
 - product/feature-performance-strategy-insights.md
 
+### pc端
+- guide/guide-comparison-card-pc.md
+- guide/guide-portrait-card-second-dev.md
+
+### pc端人才画像卡片
+- guide/guide-portrait-card-second-dev.md
+
+### pc端对比卡片二开
+- guide/guide-comparison-card-pc.md
+
 ## t
 
 ### td 基础服务
@@ -188,6 +204,9 @@
 
 ### tdc v8.0.18
 - product/release-tdc-v8.0.18.md
+
+### tdcs_cfgparam
+- faq/faq-talent-search-no-portrait.md
 
 ### tsc v8.0.15
 - product/release-tsc-v8.0.15.md
@@ -335,6 +354,8 @@
 - faq/faq-message-template-variables.md
 - faq/faq-moka-candidate-sync-hidden-failure.md
 - faq/faq-switch-salary-param-by-field.md
+- guide/guide-comparison-card-mobile.md
+- guide/guide-comparison-card-pc.md
 - guide/guide-express-second-development.md
 - guide/guide-portrait-card-second-dev.md
 
@@ -614,8 +635,16 @@
 - product/feature-talent-pool.md
 
 ### 人才对比
+- guide/guide-comparison-card-mobile.md
+- guide/guide-comparison-card-pc.md
 - product/feature-succession-map.md
 - product/feature-talent-star-map.md
+
+### 人才对比卡片pc端
+- guide/guide-comparison-card-pc.md
+
+### 人才对比卡片移动端
+- guide/guide-comparison-card-mobile.md
 
 ### 人才库
 - product/feature-internal-recruitment.md
@@ -628,11 +657,16 @@
 - product/feature-talent-pool-overview.md
 
 ### 人才搜索
+- faq/faq-talent-search-no-portrait.md
 - product/feature-talent-star-map.md
 - spec/spec-人才发展云-人才星图-人才搜索.md
 
 ### 人才星图
 - faq/faq-homepage-scheme-missing.md
+- faq/faq-talent-search-no-portrait.md
+- guide/guide-comparison-card-mobile.md
+- guide/guide-comparison-card-pc.md
+- guide/guide-portrait-card-mobile.md
 - product/feature-talent-development.md
 - product/feature-talent-star-map.md
 - product/release-tdc-v8.0.17.md
@@ -672,11 +706,16 @@
 - product/feature-internal-recruitment.md
 
 ### 人才画像
+- faq/faq-talent-search-no-portrait.md
+- guide/guide-portrait-card-mobile.md
 - guide/guide-portrait-card-second-dev.md
 - product/feature-talent-star-map.md
 
 ### 人才画像卡片二开
 - guide/guide-portrait-card-second-dev.md
+
+### 人才画像看不到
+- faq/faq-talent-search-no-portrait.md
 
 ### 人才盘点
 - business/process-talent-inventory.md
@@ -1346,6 +1385,13 @@
 ### 单人安排
 - product/feature-job-level-review-arrangement.md
 
+## 卡
+
+### 卡片开发
+- guide/guide-comparison-card-mobile.md
+- guide/guide-comparison-card-pc.md
+- guide/guide-portrait-card-mobile.md
+
 ## 历
 
 ### 历史绩效
@@ -1354,6 +1400,7 @@
 ## 参
 
 ### 参数配置
+- faq/faq-talent-search-no-portrait.md
 - guide/guide-express-params-config.md
 - guide/guide-ir-params-config.md
 - product/feature-recruitment-foundation.md
@@ -1810,6 +1857,14 @@
 ### 应聘进展配置
 - guide/guide-apply-progress-config.md
 
+## 开
+
+### 开发指南
+- guide/guide-comparison-card-mobile.md
+- guide/guide-comparison-card-pc.md
+- guide/guide-portrait-card-mobile.md
+- guide/guide-portrait-card-second-dev.md
+
 ## 录
 
 ### 录用
@@ -1864,6 +1919,11 @@
 
 ### 待办消息
 - spec/spec-人才发展云-任职资格-待办消息.md
+
+## 快
+
+### 快速开发
+- guide/guide-portrait-card-mobile.md
 
 ## 急
 
@@ -2122,6 +2182,11 @@
 ### 提示词配置
 - product/feature-certification-ai-config.md
 
+## 搜
+
+### 搜索详情无画像
+- faq/faq-talent-search-no-portrait.md
+
 ## 撤
 
 ### 撤销
@@ -2132,10 +2197,10 @@
 ### 操作按钮
 - spec/spec-人才发展云-人才档案-操作按钮.md
 
-## 教
+## 故
 
-### 教育背景卡片
-- guide/guide-portrait-card-second-dev.md
+### 故障排查
+- faq/faq-talent-search-no-portrait.md
 
 ## 数
 
@@ -2637,6 +2702,9 @@
 ### 画像卡片
 - guide/guide-portrait-card-second-dev.md
 
+### 画像卡片移动端开发
+- guide/guide-portrait-card-mobile.md
+
 ### 画像卡片自定义开发
 - guide/guide-portrait-card-second-dev.md
 
@@ -2820,6 +2888,18 @@
 
 ### 离职人员
 - product/release-opmc-v8.0.19.md
+
+## 移
+
+### 移动端
+- guide/guide-comparison-card-mobile.md
+- guide/guide-portrait-card-mobile.md
+
+### 移动端人才画像卡片
+- guide/guide-portrait-card-mobile.md
+
+### 移动端对比卡片二开
+- guide/guide-comparison-card-mobile.md
 
 ## 端
 
@@ -3466,7 +3546,11 @@
 
 ## 苍
 
+### 苍穹
+- guide/guide-comparison-card-mobile.md
+
 ### 苍穹表单
+- guide/guide-comparison-card-pc.md
 - guide/guide-portrait-card-second-dev.md
 
 ## 薪
