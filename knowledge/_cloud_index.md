@@ -279,7 +279,7 @@
 | spec/spec-目标绩效云-集成场景用例-绩效面谈.md | 目标绩效云-集成场景用例-绩效面谈测试用例规格 | spec | 2026-05-28 |
 | spec/spec-目标绩效云-集成场景用例-考核活动.md | 目标绩效云-集成场景用例-考核活动测试用例规格 | spec | 2026-05-28 |
 
-## 人才供应云 （75 条）
+## 人才供应云 （76 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -304,6 +304,7 @@
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-channel.md | 招聘渠道配置 | guide | 2026-05-27 |
 | guide/guide-recruitment-process-config.md | 招聘流程配置 | guide | 2026-05-27 |
+| guide/guide-talent-supply-mobile-approval.md | 人才供应领域移动端审批自定义配置 | guide | 2026-10-13 |
 | product/feature-express-ai-resume-parsing.md | AI增强功能介绍（直通车） | product | 2026-06-08 |
 | product/feature-express-candidate.md | 候选人（直通车） | product | 2026-05-28 |
 | product/feature-express-eco-tenant.md | 生态租户 | product | 2026-05-28 |
@@ -358,6 +359,12 @@
 | spec/spec-人才供应云-招聘服务直通车-生态链接.md | 人才供应云-招聘服务直通车-生态链接测试用例规格 | spec | 2026-05-28 |
 | spec/spec-集成场景用例-人才供应云-内部招聘.md | 集成场景用例-人才供应云-内部招聘测试用例规格 | spec | 2026-05-28 |
 | spec/spec-集成场景用例-人才供应云-招聘服务直通车.md | 集成场景用例-人才供应云-招聘服务直通车测试用例规格 | spec | 2026-05-28 |
+
+## 星瀚HR （1 条）
+
+| 文件 | 标题 | 分类 | 更新日期 |
+|------|------|------|----------|
+| guide/guide-mobile-todo-config.md | 星瀚HR-移动端待办任务收不到的配置方法（基于HR自助服务中心） | guide | 2026-10-13 |
 
 ## 未分类 （5 条）
 

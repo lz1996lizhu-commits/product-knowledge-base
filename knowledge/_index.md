@@ -190,6 +190,7 @@
 | guide/guide-interviewer.md | 人人面试官操作指南 | 人人面试官,内部招聘,面试官,简历筛选,面试评价,操作指南 | 2026-05-09 |
 | guide/guide-ir-params-config.md | 内部招聘参数配置 | 招聘基础服务,参数配置,内部招聘,AI辅助,广告参数,面试参数,录用参数 | 2026-05-27 |
 | guide/guide-message-template.md | 消息模板配置 | 招聘基础服务,消息模板,通知模板,面试通知,录用通知,笔试通知 | 2026-05-27 |
+| guide/guide-mobile-todo-config.md | 星瀚HR-移动端待办任务收不到的配置方法（基于HR自助服务中心） | 移动端,待办,HR自助服务中心,工作流,配置,HR服务流程管理 | 2026-10-13 |
 | guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-08-25 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
@@ -206,6 +207,7 @@
 | guide/guide-talent-inventory-object-grouping.md | 盘点活动：盘点对象及分组 | 人才盘点,盘点对象,盘点组,操作指南 | 2026-05-18 |
 | guide/guide-talent-inventory-process.md | 盘点活动：盘点过程 | 人才盘点,盘点过程,操作指南 | 2026-05-18 |
 | guide/guide-talent-inventory.md | 人才盘点操作指南 | 人才盘点,盘点计划,盘点活动,校准,操作指南 | 2026-05-09 |
+| guide/guide-talent-supply-mobile-approval.md | 人才供应领域移动端审批自定义配置 | 移动端,审批,招聘,Offer审批,工作流,HR自助服务中心,自定义配置 | 2026-10-13 |
 
 ## 测试用例规格 (spec)
 

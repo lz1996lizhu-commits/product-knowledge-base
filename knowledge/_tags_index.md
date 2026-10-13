@@ -85,11 +85,19 @@
 ### hr代申请
 - product/feature-certification-application.md
 
+### hr待办收不到
+- guide/guide-mobile-todo-config.md
+
+### hr服务流程管理
+- guide/guide-mobile-todo-config.md
+
 ### hr自助工作台
 - guide/guide-portrait-card-mobile.md
 
 ### hr自助服务中心
 - faq/faq-job-level-no-add-button.md
+- guide/guide-mobile-todo-config.md
+- guide/guide-talent-supply-mobile-approval.md
 - spec/spec-人才供应云-HR自助服务中心-我要应聘.md
 
 ### hr自助服务（pc端）
@@ -149,6 +157,9 @@
 
 ### offer 模板
 - guide/guide-offer-letter-template.md
+
+### offer审批
+- guide/guide-talent-supply-mobile-approval.md
 
 ### okr
 - product/feature-performance-strategy-insights.md
@@ -460,6 +471,9 @@
 
 ### 人才供应实施
 - business/process-talent-supply-implementation.md
+
+### 人才供应审批配置
+- guide/guide-talent-supply-mobile-approval.md
 
 ### 人才储备
 - product/feature-talent-pool.md
@@ -1666,6 +1680,7 @@
 ## 审
 
 ### 审批
+- guide/guide-talent-supply-mobile-approval.md
 - product/feature-job-level-batch-adjustment.md
 
 ### 审批管理
@@ -1719,6 +1734,8 @@
 
 ### 工作流
 - guide/guide-express-implementation-manual.md
+- guide/guide-mobile-todo-config.md
+- guide/guide-talent-supply-mobile-approval.md
 
 ## 常
 
@@ -1914,6 +1931,9 @@
 
 ## 待
 
+### 待办
+- guide/guide-mobile-todo-config.md
+
 ### 待办任务
 - product/feature-interviewer-portal.md
 
@@ -2020,6 +2040,7 @@
 ## 招
 
 ### 招聘
+- guide/guide-talent-supply-mobile-approval.md
 - product/feature-express-ai-resume-parsing.md
 - product/feature-talent-supply.md
 
@@ -2124,6 +2145,9 @@
 
 ### 招聘直通车实施指南
 - guide/guide-express-implementation-manual.md
+
+### 招聘移动端审批
+- guide/guide-talent-supply-mobile-approval.md
 
 ### 招聘职位
 - product/feature-express-position.md
@@ -2893,13 +2917,24 @@
 
 ### 移动端
 - guide/guide-comparison-card-mobile.md
+- guide/guide-mobile-todo-config.md
 - guide/guide-portrait-card-mobile.md
+- guide/guide-talent-supply-mobile-approval.md
+
+### 移动端offer审批
+- guide/guide-talent-supply-mobile-approval.md
 
 ### 移动端人才画像卡片
 - guide/guide-portrait-card-mobile.md
 
 ### 移动端对比卡片二开
 - guide/guide-comparison-card-mobile.md
+
+### 移动端待办配置
+- guide/guide-mobile-todo-config.md
+
+### 移动端消息通知配置
+- guide/guide-mobile-todo-config.md
 
 ## 端
 
@@ -3544,6 +3579,9 @@
 ### 自定义控件
 - guide/guide-portrait-card-second-dev.md
 
+### 自定义配置
+- guide/guide-talent-supply-mobile-approval.md
+
 ## 苍
 
 ### 苍穹
@@ -3901,6 +3939,11 @@
 
 ### 邮件通知
 - product/feature-express-hire-notice.md
+
+## 配
+
+### 配置
+- guide/guide-mobile-todo-config.md
 
 ## 酝
 
