@@ -370,6 +370,7 @@
 
 ### 交叉评分
 - faq/faq-cross-scoring-bonus-scorer.md
+- faq/faq-cross-scoring-partial-review.md
 
 ## 产
 
@@ -1438,6 +1439,9 @@
 ### 变量配置
 - guide/guide-offer-letter-template.md
 
+### 部分指标复核
+- faq/faq-cross-scoring-partial-review.md
+
 ## 可
 
 ### 可视化
@@ -1562,6 +1566,7 @@
 
 ### 基础入门
 - faq/faq-cross-scoring-bonus-scorer.md
+- faq/faq-cross-scoring-partial-review.md
 
 ### 基础数据
 - product/feature-recruitment-foundation.md
@@ -1721,6 +1726,9 @@
 - guide/guide-express-implementation-manual.md
 
 ## 常
+
+### 常见问题
+- faq/faq-cross-scoring-partial-review.md
 
 ### 常用变量
 - faq/faq-message-template-variables.md
@@ -3267,6 +3275,7 @@
 ### 绩效评估
 - business/process-performance-review.md
 - faq/faq-cross-scoring-bonus-scorer.md
+- faq/faq-cross-scoring-partial-review.md
 - product/feature-performance-evaluation.md
 - product/feature-performance.md
 - spec/spec-目标绩效云-个人绩效考核-绩效评估.md
@@ -3328,6 +3337,7 @@
 
 ### 考核执行过程管理
 - faq/faq-cross-scoring-bonus-scorer.md
+- faq/faq-cross-scoring-partial-review.md
 
 ### 考核活动
 - business/process-performance-implementation.md
@@ -3750,6 +3760,9 @@
 
 ### 评分人
 - faq/faq-cross-scoring-bonus-scorer.md
+
+### 评分人设置
+- faq/faq-cross-scoring-partial-review.md
 
 ### 评分分制
 - guide/guide-scoring-scale.md
