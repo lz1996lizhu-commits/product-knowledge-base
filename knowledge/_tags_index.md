@@ -25,6 +25,9 @@
 - product/feature-person-job-matching-agent.md
 - product/feature-talent-supply-ai.md
 
+### ai hr
+- guide/guide-ai-hr-customization-spec.md
+
 ### ai增强
 - product/feature-express-ai-resume-parsing.md
 
@@ -88,8 +91,14 @@
 ### hr待办收不到
 - guide/guide-mobile-todo-config.md
 
+### hr报表
+- guide/guide-ai-hr-customization-spec.md
+
 ### hr服务流程管理
 - guide/guide-mobile-todo-config.md
+
+### hr模板
+- guide/guide-ai-hr-customization-spec.md
 
 ### hr自助工作台
 - guide/guide-portrait-card-mobile.md
@@ -198,6 +207,11 @@
 
 ### pc端对比卡片二开
 - guide/guide-comparison-card-pc.md
+
+## s
+
+### sdk接口
+- guide/guide-ai-hr-customization-spec.md
 
 ## t
 
@@ -365,6 +379,7 @@
 - faq/faq-message-template-variables.md
 - faq/faq-moka-candidate-sync-hidden-failure.md
 - faq/faq-switch-salary-param-by-field.md
+- guide/guide-ai-hr-customization-spec.md
 - guide/guide-comparison-card-mobile.md
 - guide/guide-comparison-card-pc.md
 - guide/guide-express-second-development.md
@@ -1409,6 +1424,9 @@
 
 ## 历
 
+### 历史模型
+- guide/guide-ai-hr-customization-spec.md
+
 ### 历史绩效
 - product/feature-performance-result.md
 
@@ -1452,9 +1470,6 @@
 
 ### 变量配置
 - guide/guide-offer-letter-template.md
-
-### 部分指标复核
-- faq/faq-cross-scoring-partial-review.md
 
 ## 可
 
@@ -1654,6 +1669,9 @@
 
 ## 定
 
+### 定制化开发
+- guide/guide-ai-hr-customization-spec.md
+
 ### 定时任务
 - guide/guide-express-implementation-manual.md
 - spec/spec-人才发展云-任职资格-定时任务.md
@@ -1718,6 +1736,9 @@
 ### 导入候选人
 - product/feature-express-candidate.md
 
+### 导入导出
+- guide/guide-ai-hr-customization-spec.md
+
 ### 导入职位
 - product/feature-express-position.md
 
@@ -1743,9 +1764,6 @@
 - guide/guide-talent-supply-mobile-approval.md
 
 ## 常
-
-### 常见问题
-- faq/faq-cross-scoring-partial-review.md
 
 ### 常用变量
 - faq/faq-message-template-variables.md
@@ -1889,6 +1907,9 @@
 - guide/guide-comparison-card-pc.md
 - guide/guide-portrait-card-mobile.md
 - guide/guide-portrait-card-second-dev.md
+
+### 开发规范
+- guide/guide-ai-hr-customization-spec.md
 
 ## 录
 
@@ -2272,6 +2293,11 @@
 
 ### 无考核场景
 - product/release-opmc-v8.0.15.md
+
+## 时
+
+### 时间轴
+- guide/guide-ai-hr-customization-spec.md
 
 ## 星
 
@@ -3587,6 +3613,7 @@
 - product/feature-talent-archive-collaboration.md
 
 ### 自定义控件
+- guide/guide-ai-hr-customization-spec.md
 - guide/guide-portrait-card-second-dev.md
 
 ### 自定义配置
@@ -3952,6 +3979,11 @@
 
 ### 邮件通知
 - product/feature-express-hire-notice.md
+
+## 部
+
+### 部分指标复核
+- faq/faq-cross-scoring-partial-review.md
 
 ## 配
 
