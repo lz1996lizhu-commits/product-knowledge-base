@@ -164,6 +164,7 @@
 
 | 文件 | 标题 | 标签 | 更新日期 |
 |------|------|------|----------|
+| guide/guide-ai-hr-customization-spec.md | AI HR通用定制化开发规范 | AI HR,定制化开发,开发规范,二开,SDK接口,历史模型,时间轴,HR模板,导入导出,自定义控件,HR报表 | 2026-10-21 |
 | guide/guide-apply-progress-config.md | 应聘进展配置 | 招聘基础服务,应聘进展,候选人可见性,环节展示,状态展示 | 2026-05-27 |
 | guide/guide-cadre-appointment-nomination.md | 任命提名 | 干部管理,任命提名,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-deliberation.md | 酝酿动议 | 干部管理,酝酿动议,任免流程,操作指南 | 2026-05-29 |

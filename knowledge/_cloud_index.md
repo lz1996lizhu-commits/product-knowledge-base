@@ -366,14 +366,16 @@
 |------|------|------|----------|
 | guide/guide-mobile-todo-config.md | 星瀚HR-移动端待办任务收不到的配置方法（基于HR自助服务中心） | guide | 2026-10-13 |
 
-## 未分类 （5 条）
+## 未分类 （7 条）
 
 > 这些条目的 frontmatter 缺少 cloud 字段，建议补齐以便加入云索引。
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
 | faq/faq-cross-scoring-bonus-scorer.md | 评分节点为交叉评分，但是为什么加减分无法选择评分人？ | faq | 2026-09-11 |
+| faq/faq-cross-scoring-partial-review.md | 交叉评分如何实现部分指标评分后由专人复核 | faq | 2026-10-15 |
 | faq/faq-express-v9-license-change.md | 招聘服务直通车 V9.0 许可变更说明 | faq | 2026-09-23 |
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | faq | 2026-05-13 |
 | faq/faq-product-overview.md | 金蝶AI HR产品常见问题 | faq | 2026-05-09 |
+| guide/guide-ai-hr-customization-spec.md | AI HR通用定制化开发规范 | guide | 2026-10-21 |
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | product | 2026-05-20 |
