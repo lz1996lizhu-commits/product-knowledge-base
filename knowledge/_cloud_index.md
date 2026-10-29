@@ -3,7 +3,7 @@
 > 自动生成，请勿手动编辑。由 rebuild_index.sh 从 frontmatter.cloud 字段重建。
 > 用于先按产品族缩小检索范围，再走标签倒排索引，提升大规模知识库下的精度。
 
-## 人才发展云 （190 条）
+## 人才发展云 （193 条）
 
 | 文件 | 标题 | 分类 | 更新日期 |
 |------|------|------|----------|
@@ -25,11 +25,13 @@
 | guide/guide-cadre-evaluation-collaboration.md | 评议协作 | guide | 2026-05-18 |
 | guide/guide-cadre-evaluation.md | 评议 | guide | 2026-05-18 |
 | guide/guide-cadre-investigation-collaboration.md | 考察协作 | guide | 2026-05-29 |
+| guide/guide-cadre-investigation-scheme.md | 考察方案 | guide | 2026-10-29 |
 | guide/guide-cadre-investigation.md | 考察 | guide | 2026-05-29 |
 | guide/guide-cadre-probation-investigation.md | 转正考察及协作 | guide | 2026-05-18 |
 | guide/guide-cadre-probation.md | 干部试用及转正 | guide | 2026-05-18 |
 | guide/guide-cadre-publication.md | 签发/发布 | guide | 2026-05-29 |
 | guide/guide-cadre-publicity.md | 公示 | guide | 2026-05-18 |
+| guide/guide-cadre-qualification-review-scheme.md | 审查项和审查方案 | guide | 2026-10-29 |
 | guide/guide-cadre-qualification-review.md | 资格审查 | guide | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | guide | 2026-05-18 |
 | guide/guide-comparison-card-mobile.md | 人才对比卡片二开实操步骤（移动端） | guide | 2026-09-28 |
@@ -47,6 +49,7 @@
 | product/feature-certification-application.md | 认证申请 | product | 2026-07-24 |
 | product/feature-certification-group.md | 认证组 | product | 2026-05-13 |
 | product/feature-certification-level-scheme.md | 任职资格等级方案 | product | 2026-07-24 |
+| product/feature-certification-overview.md | 任职资格整体介绍 | product | 2026-10-29 |
 | product/feature-certification-plan-materials.md | 认证计划材料 | product | 2026-07-24 |
 | product/feature-certification-publicity.md | 认证公示 | product | 2026-07-24 |
 | product/feature-certification-qualification-review.md | 认证资格审查 | product | 2026-07-24 |
@@ -366,7 +369,7 @@
 |------|------|------|----------|
 | guide/guide-mobile-todo-config.md | 星瀚HR-移动端待办任务收不到的配置方法（基于HR自助服务中心） | guide | 2026-10-13 |
 
-## 未分类 （7 条）
+## 未分类 （10 条）
 
 > 这些条目的 frontmatter 缺少 cloud 字段，建议补齐以便加入云索引。
 
@@ -378,4 +381,7 @@
 | faq/faq-message-template-variables.md | 消息模板变量取不到值/如何扩展业务字段到消息模板 | faq | 2026-05-13 |
 | faq/faq-product-overview.md | 金蝶AI HR产品常见问题 | faq | 2026-05-09 |
 | guide/guide-ai-hr-customization-spec.md | AI HR通用定制化开发规范 | guide | 2026-10-21 |
+| guide/guide-opmc-extension-points.md | 扩展点清单（目标绩效云OPMC） | guide | 2026-10-23 |
+| guide/guide-tdc-extension-points.md | 扩展点清单（人才发展云TDC） | guide | 2026-10-23 |
+| guide/guide-tsc-service-helper-list.md | 服务帮助类清单（人才供应云TSC） | guide | 2026-10-23 |
 | product/feature-person-job-matching-agent.md | 人岗位匹配智能体--技能画像描到位，企业人才秒匹配 | product | 2026-05-20 |

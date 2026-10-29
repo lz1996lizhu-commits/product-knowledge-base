@@ -14,6 +14,7 @@
 | product/feature-certification-application.md | 认证申请 | 认证申请,认证流程,认证材料,终止认证,HR代申请 | 2026-07-24 |
 | product/feature-certification-group.md | 认证组 | 认证组,认证组角色,认证组成员,专委会认证组,行政组织认证组 | 2026-05-13 |
 | product/feature-certification-level-scheme.md | 任职资格等级方案 | 任职资格,等级方案,认证配置,任职资格配置 | 2026-07-24 |
+| product/feature-certification-overview.md | 任职资格整体介绍 | 任职资格,整体介绍,认证计划,认证流程,认证标准,认证申诉,人才发展云 | 2026-10-29 |
 | product/feature-certification-plan-materials.md | 认证计划材料 | 认证计划,认证材料,材料配置,任职资格认证 | 2026-07-24 |
 | product/feature-certification-publicity.md | 认证公示 | 认证公示,公示周期,公示模板,公示范围,结果调整 | 2026-07-24 |
 | product/feature-certification-qualification-review.md | 认证资格审查 | 资格审查,认证审查,审查通过,驳回,审查不通过,批量审查 | 2026-07-24 |
@@ -172,11 +173,13 @@
 | guide/guide-cadre-evaluation-collaboration.md | 评议协作 | 干部管理,评议协作,评议,操作指南 | 2026-05-18 |
 | guide/guide-cadre-evaluation.md | 评议 | 干部管理,评议,任免流程,操作指南 | 2026-05-18 |
 | guide/guide-cadre-investigation-collaboration.md | 考察协作 | 干部管理,考察协作,任免流程,操作指南 | 2026-05-29 |
+| guide/guide-cadre-investigation-scheme.md | 考察方案 | 干部管理,考察方案,考察项,考察项分组,考察结果方案,基础配置,操作指南 | 2026-10-29 |
 | guide/guide-cadre-investigation.md | 考察 | 干部管理,考察,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-probation-investigation.md | 转正考察及协作 | 干部管理,转正考察,考察协作,操作指南 | 2026-05-18 |
 | guide/guide-cadre-probation.md | 干部试用及转正 | 干部管理,试用期,转正,操作指南 | 2026-05-18 |
 | guide/guide-cadre-publication.md | 签发/发布 | 干部管理,签发,发布,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-publicity.md | 公示 | 干部管理,公示,任免流程,操作指南 | 2026-05-18 |
+| guide/guide-cadre-qualification-review-scheme.md | 审查项和审查方案 | 干部管理,审查方案,审查项,资格审查,基础配置,操作指南 | 2026-10-29 |
 | guide/guide-cadre-qualification-review.md | 资格审查 | 干部管理,资格审查,任免流程,操作指南 | 2026-05-29 |
 | guide/guide-cadre-term.md | 干部任期 | 干部管理,干部任期,任期管理,操作指南 | 2026-05-18 |
 | guide/guide-comparison-card-mobile.md | 人才对比卡片二开实操步骤（移动端） | 人才对比,二开,移动端,人才星图,卡片开发,苍穹,开发指南 | 2026-09-28 |
@@ -195,6 +198,7 @@
 | guide/guide-mobile-todo-config.md | 星瀚HR-移动端待办任务收不到的配置方法（基于HR自助服务中心） | 移动端,待办,HR自助服务中心,工作流,配置,HR服务流程管理 | 2026-10-13 |
 | guide/guide-moka-integration.md | Moka招聘系统连接配置 | Moka,集成配置,招聘服务直通车,连接配置,API对接,生态租户 | 2026-08-25 |
 | guide/guide-offer-letter-template.md | 录用通知书模板（Offer Letter模板）配置 | 招聘基础服务,录用通知书模板,Offer Letter,模板配置,变量配置 | 2026-05-27 |
+| guide/guide-opmc-extension-points.md | 扩展点清单（目标绩效云OPMC） | 扩展点,OPMC,目标绩效,二开,SDK,业务扩展接口,绩效评估,指标制定,考核活动 | 2026-10-23 |
 | guide/guide-performance-indicators.md | 绩效指标制定指南 | 绩效指标,KPI,BSC,PBC,指标制定,操作指南 | 2026-05-09 |
 | guide/guide-performance-process.md | 绩效流程配置指南 | 绩效流程,基础配置,绩效配置,流程配置 | 2026-05-12 |
 | guide/guide-portrait-card-mobile.md | 15分钟内完成一个人才画像移动端卡片开发 | 人才画像,移动端,快速开发,15分钟,卡片开发,人才星图,开发指南,HR自助工作台 | 2026-09-28 |
@@ -210,6 +214,8 @@
 | guide/guide-talent-inventory-process.md | 盘点活动：盘点过程 | 人才盘点,盘点过程,操作指南 | 2026-05-18 |
 | guide/guide-talent-inventory.md | 人才盘点操作指南 | 人才盘点,盘点计划,盘点活动,校准,操作指南 | 2026-05-09 |
 | guide/guide-talent-supply-mobile-approval.md | 人才供应领域移动端审批自定义配置 | 移动端,审批,招聘,Offer审批,工作流,HR自助服务中心,自定义配置 | 2026-10-13 |
+| guide/guide-tdc-extension-points.md | 扩展点清单（人才发展云TDC） | 扩展点,TDC,人才发展,二开,SDK,业务扩展接口,人才盘点,任职资格,人才画像,人才搜索 | 2026-10-23 |
+| guide/guide-tsc-service-helper-list.md | 服务帮助类清单（人才供应云TSC） | 服务帮助类,TSC,人才供应,二开,SDK,候选人,招聘服务直通车,HR服务云,帮助类清单 | 2026-10-23 |
 
 ## 测试用例规格 (spec)
 
