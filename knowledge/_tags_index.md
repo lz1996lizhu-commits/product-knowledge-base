@@ -94,6 +94,9 @@
 ### hr报表
 - guide/guide-ai-hr-customization-spec.md
 
+### hr服务云
+- guide/guide-tsc-service-helper-list.md
+
 ### hr服务流程管理
 - guide/guide-mobile-todo-config.md
 
@@ -177,6 +180,9 @@
 - guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
 
+### opmc
+- guide/guide-opmc-extension-points.md
+
 ### opmc v8.0.15
 - product/release-opmc-v8.0.15.md
 
@@ -210,6 +216,11 @@
 
 ## s
 
+### sdk
+- guide/guide-opmc-extension-points.md
+- guide/guide-tdc-extension-points.md
+- guide/guide-tsc-service-helper-list.md
+
 ### sdk接口
 - guide/guide-ai-hr-customization-spec.md
 
@@ -217,6 +228,9 @@
 
 ### td 基础服务
 - product/feature-talent-dev-foundation.md
+
+### tdc
+- guide/guide-tdc-extension-points.md
 
 ### tdc v8.0.15
 - product/release-tdc-v8.0.15.md
@@ -232,6 +246,9 @@
 
 ### tdcs_cfgparam
 - faq/faq-talent-search-no-portrait.md
+
+### tsc
+- guide/guide-tsc-service-helper-list.md
 
 ### tsc v8.0.15
 - product/release-tsc-v8.0.15.md
@@ -321,6 +338,10 @@
 ### 业务协同管理
 - spec/spec-人才发展云-人才发展基础服务-业务协同管理.md
 
+### 业务扩展接口
+- guide/guide-opmc-extension-points.md
+- guide/guide-tdc-extension-points.md
+
 ### 业务配置
 - product/feature-recruitment-foundation.md
 - spec/spec-人才供应云-招聘基础服务-业务配置.md
@@ -383,7 +404,10 @@
 - guide/guide-comparison-card-mobile.md
 - guide/guide-comparison-card-pc.md
 - guide/guide-express-second-development.md
+- guide/guide-opmc-extension-points.md
 - guide/guide-portrait-card-second-dev.md
+- guide/guide-tdc-extension-points.md
+- guide/guide-tsc-service-helper-list.md
 
 ### 二开需求
 - spec/spec-人才发展云-任职资格-二开需求.md
@@ -441,6 +465,7 @@
 
 ### 人才供应
 - business/process-talent-supply-implementation.md
+- guide/guide-tsc-service-helper-list.md
 - product/feature-talent-supply.md
 - product/release-tsc-v8.0.19.md
 
@@ -524,6 +549,7 @@
 - business/process-succession-plan.md
 - business/process-talent-inventory.md
 - business/process-talent-pool.md
+- guide/guide-tdc-extension-points.md
 - product/feature-key-position-succession-ladder.md
 - product/feature-pool-entry-exit-application.md
 - product/feature-pool-entry-exit-types.md
@@ -541,6 +567,7 @@
 
 ### 人才发展云
 - product/feature-cadre-management.md
+- product/feature-certification-overview.md
 - product/feature-job-level-overview.md
 - spec/spec-人才发展云-人才储备池-人才储备池.md
 - spec/spec-人才发展云-人才储备池-储备池许可.md
@@ -688,6 +715,7 @@
 
 ### 人才搜索
 - faq/faq-talent-search-no-portrait.md
+- guide/guide-tdc-extension-points.md
 - product/feature-talent-star-map.md
 - spec/spec-人才发展云-人才星图-人才搜索.md
 
@@ -739,6 +767,7 @@
 - faq/faq-talent-search-no-portrait.md
 - guide/guide-portrait-card-mobile.md
 - guide/guide-portrait-card-second-dev.md
+- guide/guide-tdc-extension-points.md
 - product/feature-talent-star-map.md
 
 ### 人才画像卡片二开
@@ -758,6 +787,7 @@
 - guide/guide-talent-inventory-object-grouping.md
 - guide/guide-talent-inventory-process.md
 - guide/guide-talent-inventory.md
+- guide/guide-tdc-extension-points.md
 - product/feature-talent-development.md
 - product/feature-talent-inventory-calibration.md
 - product/feature-talent-inventory-create-activity.md
@@ -829,7 +859,9 @@
 
 ### 任职资格
 - business/process-qualification.md
+- guide/guide-tdc-extension-points.md
 - product/feature-certification-level-scheme.md
+- product/feature-certification-overview.md
 - product/feature-talent-development.md
 - product/release-tdc-v8.0.15.md
 - product/release-tdc-v8.0.17.md
@@ -863,11 +895,17 @@
 ### 任职资格工作台
 - spec/spec-人才发展云-任职资格-任职资格工作台.md
 
+### 任职资格概述
+- product/feature-certification-overview.md
+
 ### 任职资格流程页历史数据升级
 - spec/spec-人才发展云-任职资格-任职资格流程页历史数据升级.md
 
 ### 任职资格等级方案配置
 - product/feature-certification-level-scheme.md
+
+### 任职资格管理
+- product/feature-certification-overview.md
 
 ### 任职资格组织
 - spec/spec-人才发展云-人才发展基础服务-任职资格组织.md
@@ -902,6 +940,7 @@
 
 ### 候选人
 - guide/guide-express-implementation-manual.md
+- guide/guide-tsc-service-helper-list.md
 - product/feature-express-ai-resume-parsing.md
 - product/feature-express-candidate.md
 - product/feature-ir-candidate.md
@@ -1715,8 +1754,14 @@
 ### 审查不通过
 - product/feature-certification-qualification-review.md
 
+### 审查方案
+- guide/guide-cadre-qualification-review-scheme.md
+
 ### 审查通过
 - product/feature-certification-qualification-review.md
+
+### 审查项
+- guide/guide-cadre-qualification-review-scheme.md
 
 ## 宫
 
@@ -1763,6 +1808,11 @@
 - guide/guide-mobile-todo-config.md
 - guide/guide-talent-supply-mobile-approval.md
 
+## 帮
+
+### 帮助类清单
+- guide/guide-tsc-service-helper-list.md
+
 ## 常
 
 ### 常用变量
@@ -1796,6 +1846,9 @@
 ### 干部公示
 - guide/guide-cadre-publicity.md
 
+### 干部审查方案
+- guide/guide-cadre-qualification-review-scheme.md
+
 ### 干部履历
 - spec/spec-人才发展云-干部管理-干部履历.md
 
@@ -1810,11 +1863,13 @@
 - guide/guide-cadre-evaluation-collaboration.md
 - guide/guide-cadre-evaluation.md
 - guide/guide-cadre-investigation-collaboration.md
+- guide/guide-cadre-investigation-scheme.md
 - guide/guide-cadre-investigation.md
 - guide/guide-cadre-probation-investigation.md
 - guide/guide-cadre-probation.md
 - guide/guide-cadre-publication.md
 - guide/guide-cadre-publicity.md
+- guide/guide-cadre-qualification-review-scheme.md
 - guide/guide-cadre-qualification-review.md
 - guide/guide-cadre-term.md
 - product/feature-cadre-management.md
@@ -1849,6 +1904,9 @@
 
 ### 干部考察
 - guide/guide-cadre-investigation.md
+
+### 干部考察方案
+- guide/guide-cadre-investigation-scheme.md
 
 ### 干部试用期管理
 - spec/spec-人才发展云-干部管理-干部试用期管理.md
@@ -2019,6 +2077,12 @@
 ### 执行计划
 - product/feature-assessment-activity.md
 
+## 扩
+
+### 扩展点
+- guide/guide-opmc-extension-points.md
+- guide/guide-tdc-extension-points.md
+
 ## 批
 
 ### 批量创建
@@ -2123,6 +2187,7 @@
 - guide/guide-express-second-development.md
 - guide/guide-integration-external-recruitment.md
 - guide/guide-moka-integration.md
+- guide/guide-tsc-service-helper-list.md
 - product/feature-express-candidate.md
 - product/feature-express-eco-tenant.md
 - product/feature-express-hire-application.md
@@ -2196,6 +2261,7 @@
 
 ### 指标制定
 - business/process-performance-review.md
+- guide/guide-opmc-extension-points.md
 - guide/guide-performance-indicators.md
 - product/feature-indicator-setting.md
 - product/feature-performance.md
@@ -2365,6 +2431,11 @@
 
 ### 有效期
 - product/feature-express-offer-letter.md
+
+## 服
+
+### 服务帮助类
+- guide/guide-tsc-service-helper-list.md
 
 ## 未
 
@@ -2852,6 +2923,7 @@
 
 ### 目标绩效
 - business/process-performance-implementation.md
+- guide/guide-opmc-extension-points.md
 - product/feature-performance-overview.md
 - product/feature-performance-strategy-insights.md
 - product/feature-performance.md
@@ -3337,6 +3409,7 @@
 - business/process-performance-review.md
 - faq/faq-cross-scoring-bonus-scorer.md
 - faq/faq-cross-scoring-partial-review.md
+- guide/guide-opmc-extension-points.md
 - product/feature-performance-evaluation.md
 - product/feature-performance.md
 - spec/spec-目标绩效云-个人绩效考核-绩效评估.md
@@ -3383,6 +3456,24 @@
 - guide/guide-cadre-investigation-collaboration.md
 - guide/guide-cadre-probation-investigation.md
 
+### 考察方案
+- guide/guide-cadre-investigation-scheme.md
+
+### 考察方案配置
+- guide/guide-cadre-investigation-scheme.md
+
+### 考察结果方案
+- guide/guide-cadre-investigation-scheme.md
+
+### 考察配置
+- guide/guide-cadre-investigation-scheme.md
+
+### 考察项
+- guide/guide-cadre-investigation-scheme.md
+
+### 考察项分组
+- guide/guide-cadre-investigation-scheme.md
+
 ### 考核周期
 - product/feature-assessment-activity.md
 - product/feature-performance-plan.md
@@ -3402,6 +3493,7 @@
 
 ### 考核活动
 - business/process-performance-implementation.md
+- guide/guide-opmc-extension-points.md
 - product/feature-assessment-activity.md
 - product/feature-assessment-completion.md
 - product/feature-evaluation-object-mgmt.md
@@ -3701,11 +3793,16 @@
 ### 认证材料配置
 - product/feature-certification-plan-materials.md
 
+### 认证标准
+- product/feature-certification-overview.md
+
 ### 认证流程
 - business/process-qualification.md
 - product/feature-certification-application.md
+- product/feature-certification-overview.md
 
 ### 认证申诉
+- product/feature-certification-overview.md
 - spec/spec-人才发展云-任职资格-认证申诉.md
 
 ### 认证申请
@@ -3742,6 +3839,7 @@
 - spec/spec-人才发展云-任职资格-认证考核.md
 
 ### 认证计划
+- product/feature-certification-overview.md
 - product/feature-certification-plan-materials.md
 - spec/spec-人才发展云-任职资格-认证计划.md
 
@@ -3935,6 +4033,7 @@
 - spec/spec-人才发展云-职级评定-资料复核.md
 
 ### 资格审查
+- guide/guide-cadre-qualification-review-scheme.md
 - guide/guide-cadre-qualification-review.md
 - product/feature-certification-qualification-review.md
 - spec/spec-人才发展云-任职资格-资格审查.md
@@ -3942,8 +4041,14 @@
 ### 资格审查操作
 - product/feature-certification-qualification-review.md
 
+### 资格审查配置
+- guide/guide-cadre-qualification-review-scheme.md
+
 ### 资格认证
 - spec/spec-人才发展云-任职资格-资格认证.md
+
+### 资格认证整体介绍
+- product/feature-certification-overview.md
 
 ### 资格认证流程
 - business/process-qualification.md
